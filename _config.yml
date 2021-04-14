@@ -1,0 +1,9 @@
+# Site settings
+title: User Guide
+author: 
+  name: Eastbanc Technologies
+  email: email@eastbanctec.com
+description: "Inspections Portal and Inspectors App User Guide"
+
+# Build settings
+remote_theme: jekyll/minima 
