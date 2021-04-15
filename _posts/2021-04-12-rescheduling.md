@@ -36,7 +36,7 @@ categories: first release
 ![Re6](https://user-images.githubusercontent.com/81990744/114634851-727e4180-9c91-11eb-8606-f908423360df.png)
 
 
-#### **Another way to Reschedule an Assignment: Go to the Schedule and click on the Assignment to Reschdule, then click on the Icon"
+#### **Another way to Reschedule an Assignment: Go to the Schedule and click on the Assignment you want to Reschdule, then click on the Icon**
 
 
 ![re14](https://user-images.githubusercontent.com/81990744/114879599-58e31400-9dcf-11eb-92eb-1eea9c62d88f.png)
