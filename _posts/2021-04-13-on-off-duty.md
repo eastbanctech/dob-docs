@@ -14,18 +14,19 @@ categories: first release
 #### **By selecting  On Duty button the app will display an active Schedule and Assignment page**
 
 
-![010](https://user-images.githubusercontent.com/81990744/114894653-d1040680-9ddc-11eb-92a8-7ddae0e1dcf2.png
+![010](https://user-images.githubusercontent.com/81990744/114894653-d1040680-9ddc-11eb-92a8-7ddae0e1dcf2.png)
 
 
 
 ![017](https://user-images.githubusercontent.com/81990744/114894635-ccd7e900-9ddc-11eb-9d70-7d3769ec8bf8.png)
 
 
+
 ![o12](https://user-images.githubusercontent.com/81990744/114894683-d82b1480-9ddc-11eb-94b6-4140aeeaf846.png)
 
 
-#### **However if the Inspector selects Not Now button the App lets the Inspector to view the schedule and Assignment
-   page but wont let the inspector to work, and display the Schedule and Assignment page in an Inactive mode.**
+
+#### **However if the Inspector selects Not Now button the App lets the Inspector to view the schedule and Assignment page but wont let the inspector to work, and display the Schedule and Assignment page in an Inactive mode.**
    
    
 ![o11](https://user-images.githubusercontent.com/81990744/114894672-d5c8ba80-9ddc-11eb-8a03-64616ae88fdc.png)
