@@ -34,3 +34,30 @@ categories: first release
 
 
 ![Re6](https://user-images.githubusercontent.com/81990744/114634851-727e4180-9c91-11eb-8606-f908423360df.png)
+
+
+#### **Another way to Reschedule an Assignment: Go to the Schedule and click on the Assignment to Reschdule, then click on the Icon"
+
+
+![re14](https://user-images.githubusercontent.com/81990744/114879599-58e31400-9dcf-11eb-92eb-1eea9c62d88f.png)
+
+
+#### **Then select the Request to Reschedule button**
+
+
+![re15](https://user-images.githubusercontent.com/81990744/114879652-64363f80-9dcf-11eb-8e51-a1e897e75034.png)
+
+
+#### **Select Yes on the popup message**
+
+
+![re12](https://user-images.githubusercontent.com/81990744/114879685-6bf5e400-9dcf-11eb-913b-54995fc63ad5.png)
+
+
+#### **Now the Assignment is Rescheduled and select the Ok button to dismiss the popup message**
+
+
+![re13](https://user-images.githubusercontent.com/81990744/114879710-71ebc500-9dcf-11eb-83ef-8e632f4e0f6b.png)
+
+
+#### **The App will display the next Assignment(if any) on the page and if there's no assignment it will display No Assignment message**
