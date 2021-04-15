@@ -5,7 +5,8 @@ tags: user guide
 categories: first release
 ---
 
-Go to the App store and download the app then to install go to:
+Go to the App store and download. After the downloading is complete, follow these steps to install the App, go to:
+
 1. Settings
 2. General
 3. Device Management
