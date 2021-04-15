@@ -7,3 +7,5 @@ description: "DCRA Inspector App User Guide"
 
 # Build settings
 remote_theme: jekyll/minima 
+minima:
+  Skin: dark 
