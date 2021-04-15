@@ -1,9 +1,9 @@
 # Site settings
-title: User Guide
+title: DCRA Inspector App User Guide
 author: 
   name: Eastbanc Technologies
-  email: email@eastbanctech.com
-description: "Inspections Portal and Inspectors App User Guide"
+  email: dcra.feedback@eastbanctech.com
+description: "DCRA Inspector App User Guide"
 
 # Build settings
 remote_theme: jekyll/minima 
