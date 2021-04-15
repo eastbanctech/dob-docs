@@ -44,3 +44,38 @@ categories: first release
 
 
 ![Can8](https://user-images.githubusercontent.com/81990744/114635576-fdac0700-9c92-11eb-97c4-1d9eccf1b94d.png)
+
+
+
+#### **Another way to Cancel an Assignment: Locate the assignment you want to cancel and click on it. Then click on the Enlarge Icon**
+
+
+![can115](https://user-images.githubusercontent.com/81990744/114915346-6c9f7200-9df1-11eb-8f7b-eadc8959dd87.png)
+
+
+#### **Then click on Cancle button**
+
+
+![can116](https://user-images.githubusercontent.com/81990744/114915357-6f9a6280-9df1-11eb-8db4-c51d6a3024fc.png)
+
+
+#### **Enter/Type a reason for cancellation (optional) and click on Yes button**
+
+
+![can118](https://user-images.githubusercontent.com/81990744/114915369-745f1680-9df1-11eb-801d-2665b564cd9c.png)
+
+
+#### **Click on Ok to dismiss the popup message**
+
+
+![can114](https://user-images.githubusercontent.com/81990744/114915329-69a48180-9df1-11eb-9cf4-424b1fe5cfe4.png)
+
+
+
+#### **Once you click Ok button the App will display the next Assignment(if any) on the page and if there's no assignment it will display No Assignment message**
+
+
+
+
+
+
