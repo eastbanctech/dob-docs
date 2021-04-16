@@ -5,19 +5,19 @@ tags: user guide
 categories: first release
 ---
 
-#### **Go to the Full Assignment Page and click on In Transit button**
+### **Go to the Full Assignment Page and click on In Transit button**
 
 
 ![navi6](https://user-images.githubusercontent.com/81990744/115037381-66b29b00-9e9c-11eb-8d02-6ee9909cf9dd.png)
 
 
-#### **Then click on the Assignment Address**
+### **Then click on the Assignment Address**
 
 
 ![navi7](https://user-images.githubusercontent.com/81990744/115037357-61ede700-9e9c-11eb-94b6-791883813601.png)
 
 
-#### **Once Google Map displayed on the screen, click on Directions**
+### **Once Google Map displayed on the screen, click on Directions**
 
 
 ![navi8](https://user-images.githubusercontent.com/81990744/115037704-c01aca00-9e9c-11eb-8dce-8cad6b714239.png)
