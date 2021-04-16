@@ -5,13 +5,13 @@ tags: user guide
 categories: first release
 ---
 
-#### **Once the Inspector logged in a popup message appears on the screen**
+### **Once the Inspector logged in a popup message appears on the screen**
 
 
 ![o1](https://user-images.githubusercontent.com/81990744/114892415-c3e61800-9dda-11eb-828f-0bb832085e91.png)
 
 
-#### **By selecting On Duty button the app will display an active Schedule and Assignment page**
+### **By selecting On Duty button the app will display an active Schedule and Assignment page**
 
 
 ![010](https://user-images.githubusercontent.com/81990744/114894653-d1040680-9ddc-11eb-92a8-7ddae0e1dcf2.png)
@@ -26,7 +26,7 @@ categories: first release
 
 
 
-#### **However if the Inspector selects Not Now button the App lets the Inspector to view the schedule and Assignment page but wont let the inspector to work, and display the Schedule and Assignment page in an Inactive mode.**
+### **However if the Inspector selects Not Now button the App lets the Inspector to view the schedule and Assignment page but wont let the inspector to work, and display the Schedule and Assignment page in an Inactive mode.**
    
    
 ![o11](https://user-images.githubusercontent.com/81990744/114894672-d5c8ba80-9ddc-11eb-8a03-64616ae88fdc.png)
@@ -35,7 +35,7 @@ categories: first release
 ![o5](https://user-images.githubusercontent.com/81990744/114892463-cd6f8000-9dda-11eb-8d56-85653e9896b1.png)
 
 
-#### **As soon as the Inspector turn the toggel switch On Duty, the Schedule and the Assignment page become active (with the buttons) and the Inspector can start working**
+### **As soon as the Inspector turn the toggel switch On Duty, the Schedule and the Assignment page become active (with the buttons) and the Inspector can start working**
 
 
 ![021](https://user-images.githubusercontent.com/81990744/114899995-71f4c080-9de1-11eb-8acc-03743c86dc04.png)
