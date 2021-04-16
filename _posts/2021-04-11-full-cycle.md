@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HOw to work with assignments in Inspector App and CityGov
+title: How to work with assignments in Inspector App and CityGov
 tags: user guide
 categories: first release
 ---
