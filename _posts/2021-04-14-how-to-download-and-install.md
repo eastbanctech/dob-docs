@@ -5,12 +5,3 @@ tags: user guide
 categories: first release
 ---
 
-Go to the App store and download. After the downloading is complete, follow these steps to install the App, go to:
-
-1. Settings
-2. General
-3. Device Management
-4. Eastbanc Technologies, LLC
-5. Tap on Trust "Eastbanc Technologies, LLC"
-6. Then tap on "Trust" when the confirmation message appears.
-7. The application will now be ready to use.
