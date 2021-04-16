@@ -5,32 +5,76 @@ tags: user guide
 categories: first release
 ---
 
-![cycle1](https://user-images.githubusercontent.com/81990744/115023532-ee90a900-9e8c-11eb-94f9-fe0278ffd70d.png)
+![full1](https://user-images.githubusercontent.com/81990744/115026958-15e97500-9e91-11eb-938a-1e38e545cff7.png)
 
-![cycle2](https://user-images.githubusercontent.com/81990744/115023543-f2243000-9e8c-11eb-851b-f1d6c89f6d42.png)
 
-![cycle3](https://user-images.githubusercontent.com/81990744/115023553-f4868a00-9e8c-11eb-823b-b48c94eed805.png)
 
-![cycle4](https://user-images.githubusercontent.com/81990744/115023560-f6e8e400-9e8c-11eb-9610-8ef63d9a838e.png)
+![full2](https://user-images.githubusercontent.com/81990744/115026963-17b33880-9e91-11eb-8585-add178ae4068.png)
 
-![cycle5](https://user-images.githubusercontent.com/81990744/115023568-f9e3d480-9e8c-11eb-952b-251849a963e7.png)
 
-![cycle6](https://user-images.githubusercontent.com/81990744/115023576-fc462e80-9e8c-11eb-8c23-9b15eee36277.png)
 
-![cycle7](https://user-images.githubusercontent.com/81990744/115023584-fea88880-9e8c-11eb-83e5-3c9405cd3cc5.png)
+![full3](https://user-images.githubusercontent.com/81990744/115026968-197cfc00-9e91-11eb-86cd-30f037e3caa2.png)
 
-![cycle8](https://user-images.githubusercontent.com/81990744/115023591-010ae280-9e8d-11eb-9b82-cf780d51751e.png)
 
-![cycle9](https://user-images.githubusercontent.com/81990744/115023599-02d4a600-9e8d-11eb-9fd6-e3589d896f2b.png)
 
-![cycle10](https://user-images.githubusercontent.com/81990744/115023602-05370000-9e8d-11eb-8394-4c9274fa2c42.png)
+![full4](https://user-images.githubusercontent.com/81990744/115026969-1b46bf80-9e91-11eb-8b76-e738de667fac.png)
 
-![cycle11](https://user-images.githubusercontent.com/81990744/115023612-07995a00-9e8d-11eb-9571-72a63afd7f17.png)
 
-![cycle12](https://user-images.githubusercontent.com/81990744/115023619-09fbb400-9e8d-11eb-88cd-1fcd138d4a30.png)
 
-![cycle13](https://user-images.githubusercontent.com/81990744/115023623-0c5e0e00-9e8d-11eb-85e6-402c40c34be8.png)
+![full5](https://user-images.githubusercontent.com/81990744/115026973-1d108300-9e91-11eb-8770-fcae44ad86a7.png)
 
-![cycle14](https://user-images.githubusercontent.com/81990744/115023632-0e27d180-9e8d-11eb-8ffc-fc1c61640981.png)
 
-![cycle15](https://user-images.githubusercontent.com/81990744/115023640-12ec8580-9e8d-11eb-8762-3e931b6e7837.png)
+
+![full6](https://user-images.githubusercontent.com/81990744/115026977-1eda4680-9e91-11eb-8468-dd394f5538cd.png)
+
+
+
+![full7](https://user-images.githubusercontent.com/81990744/115026981-20a40a00-9e91-11eb-997f-9453104981a3.png)
+
+
+
+![full8](https://user-images.githubusercontent.com/81990744/115026984-226dcd80-9e91-11eb-80c4-4572d89ce1de.png)
+
+
+
+![full9](https://user-images.githubusercontent.com/81990744/115026994-24379100-9e91-11eb-8ede-83692832b95f.png)
+
+
+
+![full10](https://user-images.githubusercontent.com/81990744/115026999-26015480-9e91-11eb-84dc-5a77967d72ab.png)
+
+
+
+![full11](https://user-images.githubusercontent.com/81990744/115027003-27cb1800-9e91-11eb-9bb7-926e34569ca5.png)
+
+
+
+![full12](https://user-images.githubusercontent.com/81990744/115027018-2b5e9f00-9e91-11eb-9e1c-cd680c9b24e0.png)
+
+
+
+![full13](https://user-images.githubusercontent.com/81990744/115027027-2d286280-9e91-11eb-84d1-0b0e245eb4a6.png)
+
+
+
+![full14](https://user-images.githubusercontent.com/81990744/115027029-2e598f80-9e91-11eb-8695-1b3fb9bfc999.png)
+
+
+
+![full15](https://user-images.githubusercontent.com/81990744/115027036-30bbe980-9e91-11eb-82b1-4b4bf95a8068.png)
+
+
+
+![full16](https://user-images.githubusercontent.com/81990744/115027041-331e4380-9e91-11eb-8b62-62460f8896b0.png)
+
+
+
+![full17](https://user-images.githubusercontent.com/81990744/115027045-34e80700-9e91-11eb-83ab-49ae8accb719.png)
+
+
+
+![full18](https://user-images.githubusercontent.com/81990744/115027051-374a6100-9e91-11eb-83bb-eead0ae9bf96.png)
+
+
+
+![full19](https://user-images.githubusercontent.com/81990744/115027059-3a455180-9e91-11eb-8550-ea8cd2bff630.png)
