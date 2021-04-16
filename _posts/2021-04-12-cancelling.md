@@ -43,7 +43,7 @@ categories: first release
 ### **If there's no Assignment on the Schedule the App displays the following**
 
 
-![Can8](https://user-images.githubusercontent.com/81990744/114635576-fdac0700-9c92-11eb-97c4-1d9eccf1b94d.png)
+![no](https://user-images.githubusercontent.com/81990744/115042640-b182e180-9ea1-11eb-9d62-0c9d85710aec.png)
 
 
 
