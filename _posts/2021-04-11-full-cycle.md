@@ -10,7 +10,7 @@ categories: first release
 
 ![full21](https://user-images.githubusercontent.com/81990744/115051984-68d02600-9eab-11eb-94b6-3171903c31f4.png)
 
-### **Then click on Yes button**
+### **Click on Yes button on the popup message**
 
 ![full2](https://user-images.githubusercontent.com/81990744/115026963-17b33880-9e91-11eb-8585-add178ae4068.png)
 
@@ -19,7 +19,7 @@ categories: first release
 
 ![full23](https://user-images.githubusercontent.com/81990744/115052004-6e2d7080-9eab-11eb-8594-2ce44975df41.png)
 
-### **Then click on Yes button**
+### **Click on Yes button on the popup message**
 
 ![full4](https://user-images.githubusercontent.com/81990744/115052687-3a067f80-9eac-11eb-868c-69c8de0d41db.png)
 
@@ -27,11 +27,9 @@ categories: first release
 
 ![full8](https://user-images.githubusercontent.com/81990744/115026984-226dcd80-9e91-11eb-80c4-4572d89ce1de.png)
 
-
 ### **Click on STEP 1: Review Checklists and fill out the checklists**
 
 ![full10](https://user-images.githubusercontent.com/81990744/115026999-26015480-9e91-11eb-84dc-5a77967d72ab.png)
-
 
 ### **Click on STEP 2: Review Inspections and fill out the form**
 
@@ -57,11 +55,9 @@ categories: first release
 
 ![full25](https://user-images.githubusercontent.com/81990744/115052017-71c0f780-9eab-11eb-866d-5d07f61543be.png)
 
-
 ### **Click on Yes button on the popup message**
 
 ![full17](https://user-images.githubusercontent.com/81990744/115027045-34e80700-9e91-11eb-83ab-49ae8accb719.png)
-
 
 ### **Finally click on Ok button to dismiss the Success popup message, the assignment status will be displayed as Completed and system will display the next assignment (if any) and if there is no assignment, No Assignment page will be displayed.**
 
