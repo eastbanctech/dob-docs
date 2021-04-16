@@ -23,13 +23,9 @@ categories: first release
 
 ![full4](https://user-images.githubusercontent.com/81990744/115052687-3a067f80-9eac-11eb-868c-69c8de0d41db.png)
 
-### **When you finish inspecting, switch to the CityGov App and locate the assignment**
+### **When you finish inspecting, switch to the CityGov App and locate the assignment and click on Perform Inspection**
 
 ![full8](https://user-images.githubusercontent.com/81990744/115026984-226dcd80-9e91-11eb-80c4-4572d89ce1de.png)
-
-### **Click on Perform Inspection**
-
-![full9](https://user-images.githubusercontent.com/81990744/115026994-24379100-9e91-11eb-8ede-83692832b95f.png)
 
 
 ### **Click on STEP 1: Review Checklists and fill out the checklists**
