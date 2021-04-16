@@ -1,36 +1,29 @@
 ---
 layout: post
-title: How to work with assignments in Inspector App and CityGov
+title: How to work with assignments in Inspector and CityGov App
 tags: user guide
 categories: first release
 ---
 
 
-### **Go to the Full Assignment Page and click on In Transit button when you start travelling to the Assignment location**
+### **Go to the Full Assignment Page and click on In Transit button as soon as you start travelling to the Assignment location**
 
-![full1](https://user-images.githubusercontent.com/81990744/115026958-15e97500-9e91-11eb-938a-1e38e545cff7.png)
+![full21](https://user-images.githubusercontent.com/81990744/115051984-68d02600-9eab-11eb-94b6-3171903c31f4.png)
 
 ### **Then click on Yes button**
-
 
 ![full2](https://user-images.githubusercontent.com/81990744/115026963-17b33880-9e91-11eb-8585-add178ae4068.png)
 
-### **The App will display the Assignment status In Transit**
-
-
-![full3](https://user-images.githubusercontent.com/81990744/115026968-197cfc00-9e91-11eb-86cd-30f037e3caa2.png)
-
 
 ### **When you start inspecting, click on the Start Inspecting button**
-![full4](https://user-images.githubusercontent.com/81990744/115026969-1b46bf80-9e91-11eb-8b76-e738de667fac.png)
+
+![full23](https://user-images.githubusercontent.com/81990744/115052004-6e2d7080-9eab-11eb-8594-2ce44975df41.png)
 
 ### **Then click on Yes button**
 
-![full5](https://user-images.githubusercontent.com/81990744/115026973-1d108300-9e91-11eb-8770-fcae44ad86a7.png)
+![full4](https://user-images.githubusercontent.com/81990744/115052687-3a067f80-9eac-11eb-868c-69c8de0d41db.png)
 
-
-### **When you finish inspecting, go to the CityGov App and locate the assignment**
-
+### **When you finish inspecting, switch to the CityGov App and locate the assignment**
 
 ![full8](https://user-images.githubusercontent.com/81990744/115026984-226dcd80-9e91-11eb-80c4-4572d89ce1de.png)
 
@@ -60,13 +53,13 @@ categories: first release
 
 ![full14](https://user-images.githubusercontent.com/81990744/115027029-2e598f80-9e91-11eb-8695-1b3fb9bfc999.png)
 
-### **Fianlly click on OK button to dismiss the popup message**
+### **Finally click on OK button to dismiss the popup message**
 
 ![full15](https://user-images.githubusercontent.com/81990744/115027036-30bbe980-9e91-11eb-82b1-4b4bf95a8068.png)
 
 ### **Switch back to the Inspector App and click on Assignment Completed button**
 
-![full16](https://user-images.githubusercontent.com/81990744/115027041-331e4380-9e91-11eb-8b62-62460f8896b0.png)
+![full25](https://user-images.githubusercontent.com/81990744/115052017-71c0f780-9eab-11eb-866d-5d07f61543be.png)
 
 
 ### **Click on Yes button on the popup message**
@@ -78,7 +71,9 @@ categories: first release
 
 ![full18](https://user-images.githubusercontent.com/81990744/115027051-374a6100-9e91-11eb-83bb-eead0ae9bf96.png)
 
-
+![full26](https://user-images.githubusercontent.com/81990744/115052027-74235180-9eab-11eb-8542-4cd3ddb76ae7.png)
 
 ![full19](https://user-images.githubusercontent.com/81990744/115027059-3a455180-9e91-11eb-8550-ea8cd2bff630.png)
+
+
 
