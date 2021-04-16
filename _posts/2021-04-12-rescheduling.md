@@ -10,6 +10,7 @@ categories: first release
 
 ![re1](https://user-images.githubusercontent.com/81990744/114633833-4bbf0b80-9c8f-11eb-8180-3d6cb1c38469.png)
 
+
 ### **Then click on Request to Reschedule button**
 
 
@@ -21,6 +22,8 @@ categories: first release
 ![Re3](https://user-images.githubusercontent.com/81990744/114633847-51b4ec80-9c8f-11eb-9351-a51f38212d70.png)
 
 ### **Then click on OK to dismiss the popup message.** 
+
+
 ![Re4](https://user-images.githubusercontent.com/81990744/114633853-54afdd00-9c8f-11eb-95ea-24c6586b0bcd.png)
 
 
@@ -36,8 +39,7 @@ categories: first release
 ![no](https://user-images.githubusercontent.com/81990744/115042546-9912c700-9ea1-11eb-9c79-ac56df10503c.png)
 
 
-### **Another way to Reschedule an Assignment: Go to the Schedule and click on the Assignment you want to Reschdule, then click on the 
-Enlarge Icon**
+### **Another way to Reschedule an Assignment: Go to the Schedule and click on the Assignment you want to Reschdule, then click on the Enlarge Icon**
 
 
 ![re14](https://user-images.githubusercontent.com/81990744/114879599-58e31400-9dcf-11eb-92eb-1eea9c62d88f.png)
