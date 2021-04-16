@@ -33,7 +33,7 @@ categories: first release
 ### **If there's no Assignment on the Schedule the App displays the following**
 
 
-![Re6](https://user-images.githubusercontent.com/81990744/114634851-727e4180-9c91-11eb-8606-f908423360df.png)
+![no](https://user-images.githubusercontent.com/81990744/115042546-9912c700-9ea1-11eb-9c79-ac56df10503c.png)
 
 
 ### **Another way to Reschedule an Assignment: Go to the Schedule and click on the Assignment you want to Reschdule, then click on the 
