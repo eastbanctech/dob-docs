@@ -5,7 +5,7 @@ tags: user guide
 categories: first release
 ---
 
-### There are two ways to view assignment details in the APP
+#### There are two ways to view assignment details in the APP
 1. Click on Assignment tab above the Schedule
 
 
