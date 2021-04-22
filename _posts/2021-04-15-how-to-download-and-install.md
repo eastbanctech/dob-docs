@@ -4,7 +4,7 @@ title: How to Download and Install the Inspector App
 tags: user guide
 categories: first release
 ---
-(setq markdown-css-paths '("/User-Guide/styles.css"))
+<link rel="stylesheet" href="/User-Guide/styles.css">
 
 Once your Apple ID has been submitted, you will receive an email from Apple TestFlight (see image below) that you will have to view on your iPad to be able to use the Inspector App for UAT on your device.
 
