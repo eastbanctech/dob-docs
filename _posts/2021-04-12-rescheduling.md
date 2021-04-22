@@ -16,12 +16,12 @@ Click on Request to Reschedule button
 
 ![re2](https://user-images.githubusercontent.com/81990744/114633841-4eb9fc00-9c8f-11eb-9893-dcadde215ebd.png)
 
-Select YES on the popup message
+Select Yes on the popup message
 
 
 ![Re3](https://user-images.githubusercontent.com/81990744/114633847-51b4ec80-9c8f-11eb-9351-a51f38212d70.png)
 
-Click OK to dismiss the popup message
+Click Ok to dismiss the popup message
 
 
 ![Re4](https://user-images.githubusercontent.com/81990744/114633853-54afdd00-9c8f-11eb-95ea-24c6586b0bcd.png)
