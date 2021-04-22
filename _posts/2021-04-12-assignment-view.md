@@ -14,7 +14,7 @@ This page is the Current Assignment page that the Inspector can work on
 
 ![a2](https://user-images.githubusercontent.com/81990744/115767464-2f019280-a377-11eb-8c86-b245b82a8569.png)
 
-2. Click on Assignment from the Schedule
+2. Click on an Assignment from the Schedule
 
 ![a5](https://user-images.githubusercontent.com/81990744/115767494-36c13700-a377-11eb-8c77-80c59b2c405c.png)
 
