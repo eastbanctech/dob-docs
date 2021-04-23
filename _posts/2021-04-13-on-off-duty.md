@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Step Three: What is On Duty and Off Duty
+title: Step Three What is On Duty and Off Duty
 tags: user guide
 categories: first release
 ---
