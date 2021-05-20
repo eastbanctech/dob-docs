@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Step 1 - How to Download and Install the Inspector App
+title: How to Download and Install the Inspector App
 tags: user guide
 categories: first release
 ---
