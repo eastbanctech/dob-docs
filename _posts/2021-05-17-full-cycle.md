@@ -60,7 +60,7 @@ Click on Yes button on the popup message
 
 ![full17 -screenshot](https://user-images.githubusercontent.com/81990744/115027045-34e80700-9e91-11eb-83ab-49ae8accb719.png)
 
-Finally click on Ok button to dismiss the Success popup message, the assignment status will be displayed as Completed and system will display the next assignment (if any) and if there is no assignment, No Assignment page will be displayed. If Assignment wasn't completed in Accela, the Inspector app will not allow you to proceed and you must return to CityGov to result the Inspection there first
+Finally click on Ok button to dismiss the Success popup message, the assignment status will be displayed as Completed and system will display the next assignment (if any) and if there is no assignment, No Assignment page will be displayed. If Assignment wasn't completed in Accela, the Dispatch app will not allow you to proceed and you must return to CityGov to result the Inspection there first
 
 ![full26 -screenshot](https://user-images.githubusercontent.com/81990744/115052027-74235180-9eab-11eb-8542-4cd3ddb76ae7.png)
 
