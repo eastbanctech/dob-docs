@@ -1,5 +1,5 @@
 ---
 layout: home
 ---
-Welcome to DCRA Inspector App
+Welcome to DCRA Dispatch App
 
