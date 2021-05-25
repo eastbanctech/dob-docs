@@ -27,9 +27,7 @@ However, if the Inspector selects Not Now button, the App allows the Inspector t
 
 As soon as the Inspector turns the toggle switch On Duty, the Schedule and the Assignment page become active and the Inspector can begin working on assignments
 
-
 ![021 -screenshot](https://user-images.githubusercontent.com/81990744/114899995-71f4c080-9de1-11eb-8acc-03743c86dc04.png)
-
 
 ![022 -screenshot](https://user-images.githubusercontent.com/81990744/114900030-791bce80-9de1-11eb-929f-51ee43a08508.png)
 
