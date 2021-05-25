@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How to Download and Install the Inspector App
+title: How to Download and Install the Dispatch App
 tags: user guide
 categories: first release
 ---
 <link rel="stylesheet" href="/User-Guide/styles.css">
 
-Once your Apple ID has been submitted, you will receive an email from TestFlight (see image below) that you will have to view on your iPad to be able to use the Inspector App for UAT on your device. 
+Once your Apple ID has been submitted, you will receive an email from TestFlight (see image below) that you will have to view on your iPad to be able to use the Dispatch App for UAT on your device. 
 
 NOTE: If after clicking on the "View in TestFlight" button, the device asks for an AppleID, log into the Apple store with the AppleID submitted. 
 
