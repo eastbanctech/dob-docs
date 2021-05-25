@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to work with Assignments in Inspector App and CityGov App
+title: How to work with Assignments in Dispatch App and CityGov App
 tags: user guide
 categories: first release
 ---
@@ -52,7 +52,7 @@ Finally click on OK button to dismiss the popup message
 
 ![full15 -screenshot](https://user-images.githubusercontent.com/81990744/115027036-30bbe980-9e91-11eb-82b1-4b4bf95a8068.png)
 
-Switch back to the Inspector App and click on Assignment Completed button
+Switch back to the Dispatch App and click on Assignment Completed button
 
 ![full25 -screenshot](https://user-images.githubusercontent.com/81990744/115052017-71c0f780-9eab-11eb-866d-5d07f61543be.png)
 
