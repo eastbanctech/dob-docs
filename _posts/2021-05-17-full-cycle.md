@@ -65,17 +65,3 @@ Finally click on Ok button to dismiss the Success popup message, the assignment 
 ![full26 -screenshot](https://user-images.githubusercontent.com/81990744/115052027-74235180-9eab-11eb-8542-4cd3ddb76ae7.png)
 
 ![full19 -screenshot](https://user-images.githubusercontent.com/81990744/115027059-3a455180-9e91-11eb-8550-ea8cd2bff630.png)
-
-### Working on overdue inspections 
-
-When working with overdue inspections inspectors should be aware that their schedule view displays the next available future inspection and will not display any overdue inspection upon default. If the inspector has opted to work on an inspection that is overdue by selecting the “In Transit” button.  The system will update the assignment tab to reflect the current inspection being worked on rather than the next available future inspection.  
-
-For example, in Figure 1 below you will see an inspection which is now overdue. 
-
-Selecting the “Assignment” tab Figure 2 will display the information for 21ENF-IC-02439 and not 21ENF-IC-02616 which is now considered overdue.  
-
-By selecting 21ENF-IC-02616 and expanding the details of the card Figure 3 inspectors may opt to work on overdue inspections. Working on an overdue inspection is the exact same process as working on a current or future inspection. Inspectors will select the “In Transit” action from the overdue inspection Figure 4 - 5.  
-
-Once the overdue inspection in considered “In Transit” it will replace any future inspection in the “Assignments” tab.  Meaning, users will now see the overdue inspection details and status in the “Assignment” tab. Inspectors will need to return to the “Schedule” view Figure 6 and select the “Assignment” tab to view the updated “Assignment” Page Figure 7. 
-
-![Overdue Inspection -screenshot](https://user-images.githubusercontent.com/84864458/120541781-5147f080-c3b8-11eb-81d2-a9d4930f7497.png)
