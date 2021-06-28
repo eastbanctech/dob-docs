@@ -9,59 +9,63 @@ categories: first release
 
 Go to Current Assignment page and click on In Transit button to indicate travelling to the Assignment location
 
-![full21 -screenshot](https://user-images.githubusercontent.com/81990744/115051984-68d02600-9eab-11eb-94b6-3171903c31f4.png)
+![Group 2 -screenshot](https://user-images.githubusercontent.com/84864458/123641820-aa0c7c80-d7f0-11eb-991f-5f46e3958e37.png)
 
 Click on Yes button on the popup message
 
-![full2 -screenshot](https://user-images.githubusercontent.com/81990744/115026963-17b33880-9e91-11eb-8585-add178ae4068.png)
-
+![IMG_0288 -screenshot](https://user-images.githubusercontent.com/84864458/123641871-b85a9880-d7f0-11eb-914e-94bec05cfbbf.png)
 
 When arriving to the location, to indicate the beginning of the inspection process, click on the Start Inspecting button
 
-![full23 -screenshot](https://user-images.githubusercontent.com/81990744/115052004-6e2d7080-9eab-11eb-8594-2ce44975df41.png)
+![Group 1 -screenshot](https://user-images.githubusercontent.com/84864458/123641931-c4def100-d7f0-11eb-8940-c0e93a15f317.png)
 
 Click on Yes button on the popup message
 
-![full4 -screenshot](https://user-images.githubusercontent.com/81990744/115052687-3a067f80-9eac-11eb-868c-69c8de0d41db.png)
+![IMG_0290 -screenshot](https://user-images.githubusercontent.com/84864458/123642032-d88a5780-d7f0-11eb-8c97-e97a5075b28f.png)
 
 When you finish inspecting, switch to the CityGov App and locate the assignment (by its Accela number) and click on Perform Inspection. NOTE: Keep in mind that the CityGov app saves the data locally and therefore even if the connection is lost, the inspection can and must continue to be performed. Being offline doesn't mean the app isn't working. The app will sync the data once it comes back online
 
-![full8 -screenshot](https://user-images.githubusercontent.com/81990744/115026984-226dcd80-9e91-11eb-80c4-4572d89ce1de.png)
+![IMG_0292 -screenshot](https://user-images.githubusercontent.com/84864458/123642222-0bcce680-d7f1-11eb-81ef-b8c0a715da7b.png)
 
 Click on STEP 1: Review Checklists and fill out the checklists
 
-![full10 -screenshot](https://user-images.githubusercontent.com/81990744/115026999-26015480-9e91-11eb-84dc-5a77967d72ab.png)
+![IMG_0293 -screenshot](https://user-images.githubusercontent.com/84864458/123642268-18513f00-d7f1-11eb-9a87-3f88e228e3b6.png)
 
 Click on STEP 2: Review Inspections and fill out the form
 
-![full11 -screenshot](https://user-images.githubusercontent.com/81990744/115027003-27cb1800-9e91-11eb-9bb7-926e34569ca5.png)
+![IMG_0294 -screenshot](https://user-images.githubusercontent.com/84864458/123642304-22733d80-d7f1-11eb-88f0-098f15ed45cf.png)
 
 Click on STEP 3: Review Inspections and review your inspections on Step 1 and 2
 
-![full12 -screenshot](https://user-images.githubusercontent.com/81990744/115027018-2b5e9f00-9e91-11eb-9e1c-cd680c9b24e0.png)
+![IMG_0295 -screenshot](https://user-images.githubusercontent.com/84864458/123642336-2b640f00-d7f1-11eb-9112-4b6aa053ff47.png)
 
 Click on STEP 4: Signature and put your signatures (Inspector and Customer)
 
-![full13 -screenshot](https://user-images.githubusercontent.com/81990744/115027027-2d286280-9e91-11eb-84d1-0b0e245eb4a6.png)
+![IMG_0296 -screenshot](https://user-images.githubusercontent.com/84864458/123642370-361ea400-d7f1-11eb-99c1-281fc078918a.png)
 
 Click on STEP 5: Final Submit and when the popup message displayed select Yes button
 
-![full14 -screenshot](https://user-images.githubusercontent.com/81990744/115027029-2e598f80-9e91-11eb-8695-1b3fb9bfc999.png)
+![IMG_0297 -screenshot](https://user-images.githubusercontent.com/84864458/123642530-65cdac00-d7f1-11eb-9cf6-3910d9a26b57.png)
 
 Finally click on OK button to dismiss the popup message
 
-![full15 -screenshot](https://user-images.githubusercontent.com/81990744/115027036-30bbe980-9e91-11eb-82b1-4b4bf95a8068.png)
+![IMG_0298 -screenshot](https://user-images.githubusercontent.com/84864458/123642595-767e2200-d7f1-11eb-88f2-ddc8e2b93bdb.png)
 
 Switch back to the Dispatch App and click on Assignment Completed button
 
-![full25 -screenshot](https://user-images.githubusercontent.com/81990744/115052017-71c0f780-9eab-11eb-866d-5d07f61543be.png)
+![Group 3 -screenshot](https://user-images.githubusercontent.com/84864458/123642649-8990f200-d7f1-11eb-8b3a-b736d48b5414.png)
 
 Click on Yes button on the popup message
 
-![full17 -screenshot](https://user-images.githubusercontent.com/81990744/115027045-34e80700-9e91-11eb-83ab-49ae8accb719.png)
+![IMG_0299 -screenshot](https://user-images.githubusercontent.com/84864458/123642704-97df0e00-d7f1-11eb-8a9c-1bd5541ebafe.png)
 
 Finally click on Ok button to dismiss the Success popup message, the assignment status will be displayed as Completed and system will display the next assignment (if any) and if there is no assignment, No Assignment page will be displayed. If Assignment wasn't completed in Accela, the Dispatch app will not allow you to proceed and you must return to CityGov to result the Inspection there first
 
-![full26 -screenshot](https://user-images.githubusercontent.com/81990744/115052027-74235180-9eab-11eb-8542-4cd3ddb76ae7.png)
+![IMG_0300 -screenshot](https://user-images.githubusercontent.com/84864458/123642760-a7f6ed80-d7f1-11eb-9923-e189019dce57.png)
 
-![full19 -screenshot](https://user-images.githubusercontent.com/81990744/115027059-3a455180-9e91-11eb-8550-ea8cd2bff630.png)
+![IMG_0301 -screenshot](https://user-images.githubusercontent.com/84864458/123642840-bc3aea80-d7f1-11eb-953c-a8d9a5e0aa95.png)
+
+![IMG_0302 -screenshot](https://user-images.githubusercontent.com/84864458/123642881-c9f07000-d7f1-11eb-85f8-fb231c46b88a.png)
+
+
+
