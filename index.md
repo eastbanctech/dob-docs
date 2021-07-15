@@ -1,6 +1,6 @@
 ---
 layout: home
-title: SNOWiQ Overview
+title: DCRA Inspection Portal and Inspector App
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
@@ -10,19 +10,6 @@ has_toc: false
 platform: false
 ---
 
-# **Welcome to SNOWiQ**
+**DCRA is the District of Columbia's regulatory agency. DCRA's mission is to protect the health, safety, economic interests, and quality of life of residents, businesses, and visitors in the District of Columbia by issuing licenses and permits, conducting inspections, enforcing building, housing, and safety codes, regulating land use and development, and providing consumer education and advocacy services. DCRA supports a thriving community of residents, businesses, and visitors through diligent protection of health and safety and equitable administration of regulation and compliance in our District. DCRA has been growing at a record pace, and so has the demand for required inspections by the agency. DCRA is embracing alternative solutions that will decrease the wait in scheduling and reduce the inefficiencies of existing solutions. Currently, there are 68 full-time inspectors, and the forecast for demand is approaching 150,000 inspections per year.**
 
-<img src="image/home/home-image.png" width="700" height="1000"/>
-
-
-SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.  
-
-Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own.  
-
-SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard—two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. 
-
-SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
-
-## Watch SNOWiQ Demo 
-[SNOWiQ Demo](https://eastbanctech.sharepoint.com/:v:/g/EfgLG-E4gJhOq6vW7PV41S4Bouw_7bEwA6FM0hYr3k22-g?e=g6kWot)
-
+**EastBanc Technologies will provide DCRA with implementation and integration services to enhance and automate the inspection management and scheduling process.**
