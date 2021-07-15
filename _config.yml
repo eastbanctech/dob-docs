@@ -1,10 +1,38 @@
 # Site settings
-title: DCRA Dispatch App User Guide
+title: DCRA App User Manual
 author: 
-  name: Eastbanc Technologies
-  email: dcra.feedback@eastbanctech.com
-description: "DCRA Dispatch App User Guide"
+name: EastBanc Technologies
+description: "DCRA App User Manual | eastbanctech.com"
+email: contact@eastbanctech.com
+webpage: https://eastbanctech.com/
+
+plugins:
+  - jekyll-remote-theme
+  - "jekyll-seo-tag"
+
+
+
+#google analytics
+#ga_tracking: G-CJZGLX01YZ
+#ga_tracking_anonymize_ip: true
+
 
 # Build settings
-remote_theme: jekyll/minima 
+remote_theme: pmarsceill/just-the-docs
 
+color_scheme: foo
+
+# Aux links for the upper right navigation
+aux_links:
+  "Powered by TERRAiQ":
+    - "https://eastbanctech.com/products/terraiq/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+search_enabled: true
+search:
+  previews: 0
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: false
