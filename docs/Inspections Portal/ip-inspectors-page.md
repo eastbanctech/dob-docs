@@ -6,17 +6,11 @@ categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: User Guide Portal Overview
+parent: Inspections Portal
 nav_order: 
 platform: false
 comments: false
 ---
-
-- [Navigate to Inspectors List](#-Navigate)
-- [Column Descriptions](#-Column-Descriptions)
-- [Sorting](#-Sorting)
-- [Filter](#-Filter)
-
 
 ### Navigate to Inspectors List <a name="-Navigate"></a>
 

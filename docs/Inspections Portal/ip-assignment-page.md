@@ -6,19 +6,11 @@ categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: User Guide Portal Overview
+parent: Inspections Portal
 nav_order: 
 platform: false
 comments: false
 ---
-
-- [Navigate to Assignment List](#-Navigate-to-Assignment-List)
-- [Column Descriptions](#-Column-Descriptions)
-- [Actions from Columns](#-Actions-from-Columns)
-    * [Map](#-Map)
-    * [Detailed Assignment Page](#-Detailed-Assignment-Page)
-- [Sorting](#-Sorting)
-- [Filter](#-Filter)
 
 
 ### Navigate to Assignment List <a name="-Navigate-to-Assignment-List"></a>
