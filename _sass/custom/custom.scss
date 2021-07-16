@@ -79,7 +79,7 @@ h1.content-android , h1.content-ios {
     right: 0;
     top: 60px;
     bottom: 0;
-    width: $nav-width;
+    width: $toc-width;
     background-color: $sidebar-color;
     border-left: $border $border-color;
     padding-top: 8px;
@@ -115,28 +115,23 @@ h1.content-android , h1.content-ios {
   @include mq(sm) {
     display: block;
     position: absolute;
-    width: 172px;
+    width: $toc-width;
     top: $header-height;
-    left: calc(100% - 172px);
     margin-top: 12px;
   }  
 
   @include mq(md) {
     display: block;
     position: absolute;
-    width: 185px;
-    left: calc(100% - 185px);
+    width: $toc-width;
   }
 
   @include mq(lg) {
     display:block;
     position: fixed;
-
     width: $toc-width;
-
     right: 0;
     top: 0;
-    left: calc(100% - #{$nav-width});
     margin-top:0;
     height: 60px;
     padding-left: 0;
