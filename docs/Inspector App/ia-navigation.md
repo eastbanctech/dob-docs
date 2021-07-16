@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Navigate to Assignment Location
+title: Navigating to Assignment Location
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -11,7 +11,11 @@ nav_order:
 platform: false
 comments: false
 ---
- 
+
+<section id="navigating-to-assignment-location" markdown="1">
+
+## Navigating to Assignment Location
+
 Go to the Current Assignment page and click on In Transit button. This is an indicator to both the Customer and DCRA that the Inspector is en route to the Assignment location
 
 ![navi6 -screenshot](https://user-images.githubusercontent.com/81990744/115037381-66b29b00-9e9c-11eb-8d02-6ee9909cf9dd.png)
@@ -24,7 +28,7 @@ The default navigation application will pop up with the Assignment location. Cli
 
 ![navi8 -screenshot](https://user-images.githubusercontent.com/81990744/115037704-c01aca00-9e9c-11eb-8dce-8cad6b714239.png)
 
-
+</section>
 
 
 

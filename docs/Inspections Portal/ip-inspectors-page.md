@@ -11,8 +11,9 @@ nav_order:
 platform: false
 comments: false
 ---
+<section id="navigate-to-inspectors-list" markdown="1">
 
-### Navigate to Inspectors List <a name="-Navigate"></a>
+### Navigate to Inspectors List<a name="-Navigate"></a>
 
 To navigate to the Inspector full list, click on Inspectors from the side navigation panel.
 
@@ -21,8 +22,11 @@ To navigate to the Inspector full list, click on Inspectors from the side naviga
 The user will be directed to the Inspectors page as seen below. The table is a full list of Inspectors registered with DCRA and permissioned appropriately.
 
 ![I3 -screenshot](https://user-images.githubusercontent.com/81990744/118984042-14f1aa80-b94b-11eb-9d62-9b94a9d3b007.png)
+</section>
 
-### Column Descriptions <a name="-Column-Descriptions"></a>
+<section id="column-descriptions" markdown="1">
+
+### Column Descriptions<a name="-Column-Descriptions"></a>
 
 ![I4 -screenshot](https://user-images.githubusercontent.com/81990744/118984151-32267900-b94b-11eb-8d3d-a2bfeb1412ab.png)
 
@@ -33,8 +37,11 @@ The user will be directed to the Inspectors page as seen below. The table is a f
 3. Contact Information Column: Inspector's email address
 
 4. Department Column: Inspector's department/program (they program, they conduct inspections in)
+</section>
 
-### Sorting <a name="-Sorting"></a>
+<section id="sorting" markdown="1">
+
+### Sorting<a name="-Sorting"></a>
 
 Users could navigate to different inspector pages by selecting the page numbers.
 
@@ -52,7 +59,11 @@ The table of Inspectors is sortable by each column by clicking on each specific 
 
 ![I10 -screenshot](https://user-images.githubusercontent.com/81990744/118985161-37d08e80-b94c-11eb-9e4e-53fce42fcac2.png)
 
-### Actions from Columns <a name="-Action-from-Columns"></a>
+</section>
+
+<section id="actions-from-columns" markdown="1">
+
+### Actions from Columns<a name="-Action-from-Columns"></a>
 
 By clicking the location icon on the list, the users will be directed to the inspector's location on the map.
 
@@ -69,8 +80,12 @@ Clicking the arrows on the list, the users will be directed to the Inspector Det
 Clicking the On Map button/location icon on the Inspector Details page the users would will be directed to the inspectors location on the map.
 
 ![I15 -screenshot](https://user-images.githubusercontent.com/81990744/118986120-0f955f80-b94d-11eb-9b7f-334dc0e1f6bb.png)
- 
-### Filter <a name="-Filter"></a>
+
+</section>
+
+<section id="filter" markdown="1">
+
+### Filter<a name="Filter"></a>
 
 Clicking the Filters button will display the Inspector filters menu, which allows the user to filter by Inspector Name, Type, Department and Status. Selecting specific filters will only display Inspectors that match the selected criteria. Clicking RESET TO DEFAULTS button will clear all selected filters.
 
@@ -93,6 +108,7 @@ Clicking the Filters button will display the Inspector filters menu, which allow
    * Inspecting - In the middle of conducting an Inspection
    * Off Duty - Off Duty for DCRA and the Inspector location is NOT being reported to DCRA
 
+</section>
 
 
 

@@ -11,8 +11,9 @@ nav_order:
 platform: false
 comments: false
 ---
+<section id="field-descriptions" markdown="1">
 
-### Field Descriptions <a name="-Field-Descriptions"></a>
+### Field Descriptions<a name="-Field-Descriptions"></a>
 
 Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
@@ -26,13 +27,21 @@ Clicking ON Map will allow users to locate the inspector on the map
 
 ![I19 -screenshot](https://user-images.githubusercontent.com/81990744/119042448-d75e4300-b985-11eb-9254-acee18e7034c.png)
 
-#### Inspection Availability Hours <a name="-Inspection-Availability-Hours"></a>
+</section>
+
+<section id="inspection-availability-hours" markdown="1">
+
+### Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
 
 Currently Inspection Availability Hours are managed by the system administrators
 
 ![I20 -screenshot](https://user-images.githubusercontent.com/81990744/119042487-e9d87c80-b985-11eb-91de-82cc68b08928.png)
 
-#### Inspector Schedules <a name="-Inspector-Schedules"></a>
+</section>
+
+<section id="inspector-schedules" markdown="1">
+
+### Inspector Schedules<a name="-Inspector-Schedules"></a>
 
 An inspector's schedule can be accessed 3 different ways.
 
@@ -53,3 +62,5 @@ Once accessed you will see the current weeks assignments for the inspector and a
 Full day absences are listed at the top of the day and partial day absences are listed during the time the absence was applied. The image below outlines an inspectors scehdule and full/partial day absences. 
 
 ![Group 44 -screenshot](https://user-images.githubusercontent.com/84864458/125123331-8553b700-e0c4-11eb-8c30-e98100e7766a.png)
+
+</section>

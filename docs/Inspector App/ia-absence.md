@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Add and Delete an Absence
+title: Add and Delete an Absence
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -12,8 +12,9 @@ platform: false
 comments: false
 ---
 
+<section id="adding-an-absence" markdown="1">
 
-### Adding an Absence
+## Adding an Absence
 
 To add an absence click on the + icon on the schedule
 
@@ -48,13 +49,15 @@ If the user wants to report an absence for All Day, click on the + icon and ente
 ![Group 7 -screenshot](https://user-images.githubusercontent.com/84864458/123667476-2eb6c500-d808-11eb-87f2-e148f1b08ad2.png)
 
 ![Group 8 -screenshot](https://user-images.githubusercontent.com/84864458/123667678-5dcd3680-d808-11eb-8ef9-59ef7be0424f.png)
+</section>
 
-### Deleting an Absence
+<section id="deleting-an-absence" markdown="1">
+
+## Deleting an Absence
 
 Go to the Schedule and click on the "Absence" that is visible on the Schedule. Then click on "Delete Absence" button. The system will delete the absence from the Inspector's Schedule and the Inspector will have that slot available for new Assignments
 
 ![IMG_0332 -screenshot](https://user-images.githubusercontent.com/84864458/123667904-94a34c80-d808-11eb-8366-86fb1a0e6279.png)
 
 ![IMG_0333 -screenshot](https://user-images.githubusercontent.com/84864458/123667957-9f5de180-d808-11eb-9e52-8e2657b74449.png)
-
-
+</section>

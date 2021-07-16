@@ -12,7 +12,9 @@ platform: false
 comments: false
 ---
 
-### Field Descriptions <a name="-Field-Descriptions"></a>
+<section id="field-descriptions" markdown="1">
+
+### Field Descriptions<a name="-Field-Descriptions"></a>
 
 Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
 
@@ -22,13 +24,24 @@ Assignment Details page will display the following information: Inspection Numbe
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
 
-### Actions <a name="-Actions"></a>
-#### On Map <a name="-On-Map"></a>
+</section>
+
+<section id="actions" markdown="1">
+
+### Actions<a name="-Actions"></a>
+
+<section id="on-map" markdown="1">
+
+#### On Map<a name="-On-Map"></a>
 Clicking ON Map will allow users to locate the assignment on the map
 
 ![A19 -screenshot](https://user-images.githubusercontent.com/81990744/119044955-d67ae080-b988-11eb-8584-44304bc48021.png)
 
-#### Request to Reschedule <a name="-Request-to-Reschedule"></a>
+</section>
+
+<section id="request-to-reschedule" markdown="1">
+
+#### Request to Reschedule<a name="-Request-to-Reschedule"></a>
 Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
@@ -42,13 +55,20 @@ Emergency assignments can be reassigned to specific users
 ![Group 59 -screenshot](https://user-images.githubusercontent.com/84864458/125327417-17e89600-e311-11eb-904c-09b9ac703203.png)
 
 ![Group 60 -screenshot](https://user-images.githubusercontent.com/84864458/125327449-1e770d80-e311-11eb-8386-1eb64c2ce1ed.png)
+</section>
 
-#### Cancel Assignment <a name="-Cancel-Assignment"></a>
+<section id="cancel-assignment" markdown="1">
+
+#### Cancel Assignment<a name="-Cancel-Assignment"></a>
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
 
-#### Emergency Assignments <a name="-Emergency Assignments"></a>
+</section>
+
+<section id="emergency-assignments" markdown="1">
+
+#### Emergency Assignments<a name="-Emergency Assignments"></a>
 Emergency Assignments are disignated by a red ! icon.
 
 **Assignments Table**
@@ -60,4 +80,5 @@ Emergency Assignments are disignated by a red ! icon.
 ![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](https://user-images.githubusercontent.com/84864458/125119971-cdbca600-e0bf-11eb-9460-fb54ebcf9140.png)
 
 
-
+</section>
+</section>
