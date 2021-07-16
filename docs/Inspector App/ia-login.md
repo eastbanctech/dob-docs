@@ -6,7 +6,7 @@ categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: User Guide Overview
+parent: Inspector App
 nav_order: 
 platform: false
 comments: false

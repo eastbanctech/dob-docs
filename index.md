@@ -1,11 +1,10 @@
 ---
 layout: home
-title: DCRA Inspection Portal and Inspector App
+title: Overview
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
 nav_order: 1
-has_children: true
 has_toc: false
 platform: false
 ---

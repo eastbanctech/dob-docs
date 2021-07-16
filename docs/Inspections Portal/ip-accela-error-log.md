@@ -6,18 +6,11 @@ categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: User Guide Portal Overview
+parent: Inspections Portal
 nav_order: 
 platform: false
 comments: false
 ---
-
-- [Navigate to Accela Error Log](#-Navigate-to-Accela-Error-Log)
-- [Column Description](#-Column-Description)
-- [Detailed Accela Error Log Page](#-Detailed-Accela-Error-Log-Page)
-- [Sorting](#-Sorting)
-
-<link rel="stylesheet" href="/User-Guide-Portal/styles.css">
 
 ### Navigate to Accela Error Log <a name="-Navigate-to-Accela-Error-Log"></a>
 To navigate to the Accela Error log page, click on Accela Error Log from the side navigation Panel.

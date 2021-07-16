@@ -6,17 +6,11 @@ categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: User Guide Portal Overview
+parent: Inspections Portal
 nav_order: 
 platform: false
 comments: false
 ---
-
-- [Field Descriptions](#-Field-Descriptions)
-- [Actions](#-Actions)
-    * [On Map](#-On-Map)
-    * [Request to Reschedule](#-Request-to-Reschedule)
-    * [Cancel Assignment](#-Cancel-Assignment)
 
 ### Field Descriptions <a name="-Field-Descriptions"></a>
 

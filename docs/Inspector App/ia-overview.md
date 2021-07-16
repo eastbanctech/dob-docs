@@ -1,6 +1,6 @@
 ---
 layout: home
-title: User Guide Overview
+title: Inspector App
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

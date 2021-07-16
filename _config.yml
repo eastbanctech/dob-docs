@@ -22,13 +22,14 @@ remote_theme: pmarsceill/just-the-docs
 
 color_scheme: foo
 
+
 # Aux links for the upper right navigation
-aux_links:
-  "Powered by TERRAiQ":
-    - "https://eastbanctech.com/products/terraiq/"
+#aux_links:
+#  "Powered by TERRAiQ":
+#    - "https://eastbanctech.com/products/terraiq/"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
+#aux_links_new_tab: true
 
 search_enabled: true
 search:

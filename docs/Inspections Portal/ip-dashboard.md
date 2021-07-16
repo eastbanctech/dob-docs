@@ -6,21 +6,11 @@ categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: User Guide Portal Overview
+parent: Inspections Portal
 nav_order: 
 platform: false
 comments: false
 ---
-
-- [Map legend](#-Map-legend)
-  * [Boundaries](#-Boundaries)
-  * [Groupings](#-Groupings)
-- [Assignment Card](#-Assignment-Card)
-- [Inspector Card](#-Inspector-Card)
-- [Filters](#-Filters)
-  * [Inspectors Filters](#-Inspectors-Filter)
-  * [Assignments Filters](#-Assignments-Filter)
-
 
 ### Map legend <a name="-Map-legend"></a>
 After logging in, the default view is the Dashboard with a map that displays the Inspectors' real-time location and the Assignments/Inspections on the map for TODAY only with status Assigned (more on statuses in section [Assignments Filters](#-Assignments-Filter)).
