@@ -21,7 +21,7 @@ function io_callback (entries) {
   });
 
 };
-
+/** 
 function createCookie(name, value) {
   document.cookie = name+"="+value+";";
 };
@@ -75,12 +75,12 @@ function changePlatform () {
   createCookie("platform", platform);
   
 };
-
+*/
 io_observer = new IntersectionObserver(io_callback, io_options);
 for(i =0; i < target.length; i++){
   io_observer.observe(target[i]);
 }
-
+/** 
 document.addEventListener('DOMContentLoaded', function() {
   var plat = readCookie("platform");
 
@@ -95,3 +95,4 @@ document.addEventListener('DOMContentLoaded', function() {
   changePlatform();
 
 }, false);
+**/

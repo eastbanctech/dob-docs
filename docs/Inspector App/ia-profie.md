@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to View Profile and About Page
+title: View Profile and About Page
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -11,6 +11,9 @@ nav_order:
 platform: false
 comments: false
 ---
+<section id="view-profile-and-about-page" markdown="1">
+
+## View Profile and About Page
 
 After logging in, select Settings
 
@@ -25,3 +28,5 @@ Select About to see the information about the Inspector App
 ![Group 30 -screenshot](https://user-images.githubusercontent.com/84864458/124956415-f8d2c700-dfe5-11eb-968a-3cd225675039.png)
 
 ![Group 32 -screenshot](https://user-images.githubusercontent.com/84864458/124956486-0a1bd380-dfe6-11eb-956d-27dd30fcc08c.png)
+
+</section>

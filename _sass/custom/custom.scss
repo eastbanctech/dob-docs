@@ -1,3 +1,7 @@
+//variables
+$toc-width: 248px; //width of table of contents
+
+
 // ios content
 .content-ios{
 
@@ -71,6 +75,7 @@ h1.content-android , h1.content-ios {
   @include mq(lg) {
     display:block;
     position: fixed;
+    min-width: $toc-width;
     right: 0;
     top: 60px;
     bottom: 0;
@@ -126,11 +131,13 @@ h1.content-android , h1.content-ios {
   @include mq(lg) {
     display:block;
     position: fixed;
+
+    width: $toc-width;
+
     right: 0;
     top: 0;
     left: calc(100% - #{$nav-width});
     margin-top:0;
-    width: $nav-width;
     height: 60px;
     padding-left: 0;
     background-color: $sidebar-color;
@@ -143,6 +150,9 @@ h1.content-android , h1.content-ios {
 // Platform selection feature heading
 .platform_form b {
   @include mq(lg) {
+    //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+    min-width: $toc-width;
+
   margin-left: 20px;
   font-size: 17px;
   }
@@ -157,11 +167,13 @@ h1.content-android , h1.content-ios {
   position: relative;
   max-width: $content-width;
   margin-left: $nav-width-md;
+  margin-right: $toc-width;
+
 }
 
 @include mq(lg) {
   margin-left: $nav-width;
-  margin-right: $nav-width;
+  margin-right: $toc-width;
 }
 }
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Reschedule an Assignment
+title: Rescheduling Assignments
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -12,7 +12,13 @@ platform: false
 comments: false
 ---
 
+<section id="rescheduling-assignments" markdown="1">
 
+## Rescheduling Assignments
+<br>
+<section id="rescheduling-current-assignment" markdown="1">
+
+### Rescheduling Current Assignment
 Click on Assignment Tab above the Schedule
 
 ![a6 -screenshot](https://user-images.githubusercontent.com/81990744/115766021-7555f200-a375-11eb-8309-4837ebbd702c.png)
@@ -36,8 +42,12 @@ The App will display the next Assignment (if any) on the page
 If there's no Assignment on the Schedule, the App displays the following
 
 ![no -screenshot](https://user-images.githubusercontent.com/81990744/115042546-9912c700-9ea1-11eb-9c79-ac56df10503c.png)
+</section>
 
-Another way to Reschedule an Assignment: Go to the Schedule and click on the Assignment you want to Reschedule, then click on the Enlarge Icon
+<section id="rescheduling-other-assignments" markdown="1">
+
+### Rescheduling Other Assignments
+Go to the Schedule and click on the Assignment you want to Reschedule, then click on the Enlarge Icon
 
 ![a8 -screenshot](https://user-images.githubusercontent.com/81990744/115766148-9cacbf00-a375-11eb-93be-cb67b1662718.png)
 
@@ -54,3 +64,5 @@ Now the Assignment is Rescheduled. Select the Ok button to dismiss the popup mes
 ![re13 -screenshot](https://user-images.githubusercontent.com/81990744/114879710-71ebc500-9dcf-11eb-83ef-8e632f4e0f6b.png)
 
 The App will display the next Assignment (if any), and if there's no assignment it will display No Assignment message
+</section>
+</section>

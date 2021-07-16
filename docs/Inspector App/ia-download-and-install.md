@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Download and Install the Dispatch App
+title: Download and Install Dispatch App
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -11,9 +11,14 @@ nav_order:
 platform: false
 comments: false
 ---
+<section id="download-and-install-the-dispatch-app" markdown="1">
+
+## Download and Install the Dispatch App
 
 Once your Apple ID has been submitted, you will receive an email from TestFlight (see image below) that you will have to view on your iPad to be able to use the Dispatch App for UAT on your device. 
 
-NOTE: If after clicking on the "View in TestFlight" button, the device asks for an AppleID, log into the Apple store with the AppleID submitted. 
+_**NOTE:** If after clicking on the "View in TestFlight" button, the device asks for an AppleID, log into the Apple store with the AppleID submitted._ 
 
 <img width="692" class="screenshot" alt="MicrosoftTeams-image (18)" src="https://user-images.githubusercontent.com/82533918/115172112-86131900-a092-11eb-835b-48a3559a8a3c.png">
+
+</section>

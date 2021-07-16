@@ -12,6 +12,8 @@ platform: false
 comments: false
 ---
 
+<section id="dispatch-app-login" markdown="1">
+## Dispatch App Login
 To use the Dispatch app, the user must login with a valid Access DC Username and Password.
 
 ![Group 33 -screenshot](https://user-images.githubusercontent.com/84864458/125092727-9dfda600-e09f-11eb-9d73-8260b0dbfc4d.png)
@@ -47,6 +49,10 @@ Once logged in, Inspectors will receive several popups requesting permissions an
 Once clicking On Duty button, Inspectors see their Schedule for the week as seen below.
 
 ![Resche -screenshot](https://user-images.githubusercontent.com/81990744/115764224-4cccf880-a373-11eb-8067-2fc141779015.png)
+</section>
+
+<section id="dispatch-app-logout" markdown="1">
+## Dispatch App Logout
 
 To logout click on the Settings icon.
 
@@ -59,7 +65,4 @@ Then click on the Logout button.
 After logging out, the App displays the login page.
 
 ![log2 -screenshot](https://user-images.githubusercontent.com/81990744/114920379-5e545480-9df7-11eb-95aa-feb4c5e058ee.png)
-
-
-
-
+</section>

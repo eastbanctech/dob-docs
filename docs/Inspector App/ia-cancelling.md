@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Cancel an Assignment
+title: Canceling an Assignment
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -12,6 +12,14 @@ platform: false
 comments: false
 ---
 
+<section id="canceling-assignments" markdown="1">
+
+## Canceling Assignments
+<br>
+
+<section id="canceling-current-assignment" markdown="1">
+
+### Canceling Current Assignment
 
 Click on Assignment tab above the Schedule
 
@@ -42,7 +50,11 @@ The App will display the next Assignment (if any)
 If there's no Assignment on the Schedule the App displays the following
 
 ![c7 -screenshot](https://user-images.githubusercontent.com/81990744/115876293-1eebc080-a414-11eb-9bbd-e2728f7a85d7.png)
+</section>
 
+<section id="canceling-other-assignments" markdown="1">
+
+### Canceling Other Assignments
 Another way to Cancel an Assignment: Select an Assignment from the schedule, click on it. Then click on the Enlarge Icon
 
 ![c13 -screenshot](https://user-images.githubusercontent.com/81990744/115876858-d1238800-a414-11eb-8297-84a59a025144.png)
@@ -61,7 +73,8 @@ Click on Ok to dismiss the popup message
 
 The App will display the next Assignment (if any), and if there's no assignment it will display No Assignment message
 
-
+</section>
+</section>
 
 
 
