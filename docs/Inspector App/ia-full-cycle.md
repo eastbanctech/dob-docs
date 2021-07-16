@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to work with Assignments in Dispatch App and CityGov App
+title: Working with Assignments in Dispatch App and CityGov App
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -12,6 +12,9 @@ platform: false
 comments: false
 ---
 
+<section id="working-with-assignments" markdown="1">
+
+## Working with Assignments
 
 Go to Current Assignment page and click on In Transit button to indicate travelling to the Assignment location
 
@@ -73,5 +76,5 @@ Finally click on Ok button to dismiss the Success popup message, the assignment 
 
 ![IMG_0302 -screenshot](https://user-images.githubusercontent.com/84864458/123642881-c9f07000-d7f1-11eb-85f8-fb231c46b88a.png)
 
-
+</section>
 

@@ -1,3 +1,7 @@
+//variables
+$toc-width: 248px; //width of table of contents
+
+
 // ios content
 .content-ios {
 
@@ -87,7 +91,7 @@ h1.content-android , h1.content-ios {
     display:block;
     //flex-wrap: nowrap;
     position: fixed;
-    width: $nav-width-md;
+    width: $toc-width;
     height: calc(100% - 60px);
     border-left: $border $border-color;
     padding-top: 8px;
@@ -95,7 +99,7 @@ h1.content-android , h1.content-ios {
 
   // .toc on large screen
   @include mq(lg) {
-    min-width: $nav-width;
+    min-width: $toc-width;
   }
 }
 
@@ -132,7 +136,7 @@ h1.content-android , h1.content-ios {
     display:block;
     //flex-wrap: nowrap;
     position: fixed;
-    width: $nav-width-md;
+    width: $toc-width;
     height: 60px;
     border-bottom: $border $border-color;
     border-left: $border $border-color;
@@ -142,7 +146,7 @@ h1.content-android , h1.content-ios {
   // .platform_form on large screen
   @include mq(lg) {
     //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-    min-width: $nav-width;
+    min-width: $toc-width;
   }
 }
 
@@ -156,13 +160,13 @@ h1.content-android , h1.content-ios {
   position: relative;
   max-width: $content-width;
   margin-left: $nav-width-md;
-  margin-right: $nav-width-md;
+  margin-right: $toc-width;
 }
 
 // .main on large screen
 @include mq(lg) {
   margin-left: $nav-width;
-  margin-right: $nav-width;
+  margin-right: $toc-width;
 }
 }
 

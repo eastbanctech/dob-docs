@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to log in to the Inspections Portal
+title: Login to Inspections Portal
 tags: user guide portal
 categories: first release
 author: EastBanc Technologies
@@ -11,7 +11,9 @@ nav_order:
 platform: false
 comments: false
 ---
+<section id="login-to-inspections-portal" markdown="1">
 
+## Login to Inspections Portal
 Navigate to [Inspections Portal](https://tq-city-inspector-portal-staging.azurewebsites.net/login)
 
 ![logpor -screenshot](https://user-images.githubusercontent.com/81990744/115262028-27858380-a102-11eb-82c2-a678593d4e7f.png)
@@ -24,3 +26,4 @@ Once you're logged in, the system displays the dashboard with the map of Inspect
 
 ![db1 -screenshot](https://user-images.githubusercontent.com/81990744/118874716-35712480-b8b9-11eb-9093-d23edc206664.png)
 
+</section>
