@@ -11,9 +11,12 @@ nav_order:
 platform: false
 comments: false
 ---
+<section id="viewing-accela-error-log-page" markdown="1">
+# Viewing Accela Error Log Page
+
 <section id="navigate-to-accela-error-log" markdown="1">
 
-### Navigate to Accela Error Log<a name="Navigate-to-Accela-Error-Log"></a>
+## Navigate to Accela Error Log<a name="Navigate-to-Accela-Error-Log"></a>
 To navigate to the Accela Error log page, click on Accela Error Log from the side navigation Panel.
 
 ![AC1 -screenshot](https://user-images.githubusercontent.com/81990744/119144360-95c9a880-ba16-11eb-9ea3-a8bfd1b8045a.png)
@@ -25,7 +28,7 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 <section id="column-description" markdown="1">
 
-### Column Description<a name="Column-Description"></a>
+## Column Description<a name="Column-Description"></a>
 
 ![acc10 -screenshot](https://user-images.githubusercontent.com/81990744/120532080-505d9180-c3ad-11eb-97ae-58d5d9903ff7.png)
 
@@ -40,7 +43,7 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 <section id="detailed-accela-error-log-page" markdown="1">
 
-### Detailed Accela Error Log Page<a name="Detailed-Accela-Error-Log-Page"></a>
+## Detailed Accela Error Log Page<a name="Detailed-Accela-Error-Log-Page"></a>
 
 Clicking on the arrow icon on the list, the user will be directed to the Accela Error Log Details page as seen on the second screenshot.
 
@@ -52,7 +55,7 @@ Clicking on the arrow icon on the list, the user will be directed to the Accela 
 
 <section id="sorting" markdown="1">
 
-### Sorting<a name="Sorting"></a>
+## Sorting<a name="Sorting"></a>
 
 Users could navigate to different Accela Error Log pages by selecting the page numbers.
 
@@ -71,6 +74,7 @@ The table of Accela Error Log is sortable by each column by clicking on each spe
 ![acc9 -screenshot](https://user-images.githubusercontent.com/81990744/120532603-d2e65100-c3ad-11eb-8d90-98eccc4ca4b7.png)
 
 
+</section>
 </section>
 
 

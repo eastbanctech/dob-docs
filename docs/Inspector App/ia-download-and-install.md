@@ -13,7 +13,7 @@ comments: false
 ---
 <section id="download-and-install-the-dispatch-app" markdown="1">
 
-## Download and Install the Dispatch App
+# Download and Install the Dispatch App
 
 Once your Apple ID has been submitted, you will receive an email from TestFlight (see image below) that you will have to view on your iPad to be able to use the Dispatch App for UAT on your device. 
 

@@ -14,11 +14,11 @@ comments: false
 
 <section id="view-details-of-assignments" markdown="1">
 
-## View Details of Assignments
+# View Details of Assignments
 
 <section id="view-current-assignment" markdown="1">
 
-### View Current Assignment
+## View Current Assignment
 
 
 Click on Assignment tab above the Schedule
@@ -32,7 +32,7 @@ This page is the Current Assignment page that the Inspector can work on
 
 <section id="view-all-assignments" markdown="1">
 
-### View all Assignments
+## View all Assignments
 
 Click on an Assignment from the Schedule
 

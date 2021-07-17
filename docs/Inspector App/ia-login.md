@@ -12,6 +12,9 @@ platform: false
 comments: false
 ---
 
+<section id="dispatch-app-login-and-logout" markdown="1">
+## Dispatch App Login and Logout
+
 <section id="dispatch-app-login" markdown="1">
 ## Dispatch App Login
 To use the Dispatch app, the user must login with a valid Access DC Username and Password.
@@ -65,4 +68,5 @@ Then click on the Logout button.
 After logging out, the App displays the login page.
 
 ![log2 -screenshot](https://user-images.githubusercontent.com/81990744/114920379-5e545480-9df7-11eb-95aa-feb4c5e058ee.png)
+</section>
 </section>
