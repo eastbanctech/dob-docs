@@ -7,7 +7,7 @@ author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Inspections Portal
-nav_order: 
+nav_order: 4
 platform: false
 comments: false
 ---
