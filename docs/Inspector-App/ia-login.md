@@ -13,7 +13,9 @@ comments: false
 ---
 
 <section id="dispatch-app-login-and-logout" markdown="1">
-## Dispatch App Login and Logout
+# Dispatch App Login and Logout
+
+Users have the ability to login and logout of the Inspector's App.
 
 <section id="dispatch-app-login" markdown="1">
 ## Dispatch App Login

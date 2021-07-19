@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working with Assignments in Dispatch App and CityGov App
+title: Working with Assignments
 tags: user guide
 categories: first release
 author: EastBanc Technologies
