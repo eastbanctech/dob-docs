@@ -16,6 +16,8 @@ comments: false
 
 # View Details of Assignments
 
+Users can view details of an assignment through the Inspector's App.
+
 <section id="view-current-assignment" markdown="1">
 
 ## View Current Assignment

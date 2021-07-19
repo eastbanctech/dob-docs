@@ -13,7 +13,10 @@ comments: false
 ---
 
 <section id="detailed-inspector-page" markdown="1">
+
 # Detailed Inspector Page
+
+User's can view detailed information about individual inspectors through the Inspections Portal.
 
 <section id="field-descriptions" markdown="1">
 

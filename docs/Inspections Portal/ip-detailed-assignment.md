@@ -13,7 +13,10 @@ comments: false
 ---
 
 <section id="detailed-assignment-page" markdown="1">
+
 # Detailed Assignment Page
+
+User's can view detailed information about individual assignments through the Inspections Portal.
 
 <section id="field-descriptions" markdown="1">
 
