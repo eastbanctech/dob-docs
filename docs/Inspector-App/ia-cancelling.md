@@ -16,6 +16,8 @@ comments: false
 
 # Canceling Assignments
 
+Users have the ability to cancel assignments through the Inspector's App.
+
 <section id="canceling-current-assignment" markdown="1">
 
 ## Canceling Current Assignment

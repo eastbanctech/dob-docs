@@ -9,4 +9,5 @@ nav_order: 4
 platform: false
 comments: false
 ---
-Inspections Portal Overview
+
+# Inspections Portal

@@ -17,6 +17,8 @@ comments: false
 # Rescheduling Assignments
 <section id="rescheduling-current-assignment" markdown="1">
 
+Users can reschedule assignments directly from the Inspector's App.
+
 ## Rescheduling Current Assignment
 Click on Assignment Tab above the Schedule
 

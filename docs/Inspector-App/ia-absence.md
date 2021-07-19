@@ -15,6 +15,8 @@ comments: false
 <section id="add-and-delete-an-absence" markdown="1">
 # Add and Delete an Absence
 
+Users have the ability to add or delete absences through the Inspector's App.
+
 <section id="adding-an-absence" markdown="1">
 ## Adding an Absence
 
