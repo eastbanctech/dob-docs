@@ -14,12 +14,11 @@ comments: false
 
 <section id="canceling-assignments" markdown="1">
 
-## Canceling Assignments
-<br>
+# Canceling Assignments
 
 <section id="canceling-current-assignment" markdown="1">
 
-### Canceling Current Assignment
+## Canceling Current Assignment
 
 Click on Assignment tab above the Schedule
 
@@ -54,7 +53,7 @@ If there's no Assignment on the Schedule the App displays the following
 
 <section id="canceling-other-assignments" markdown="1">
 
-### Canceling Other Assignments
+## Canceling Other Assignments
 Another way to Cancel an Assignment: Select an Assignment from the schedule, click on it. Then click on the Enlarge Icon
 
 ![c13 -screenshot](https://user-images.githubusercontent.com/81990744/115876858-d1238800-a414-11eb-8297-84a59a025144.png)

@@ -13,7 +13,7 @@ comments: false
 ---
 <section id="login-to-inspections-portal" markdown="1">
 
-## Login to Inspections Portal
+# Login to Inspections Portal
 Navigate to [Inspections Portal](https://tq-city-inspector-portal-staging.azurewebsites.net/login)
 
 ![logpor -screenshot](https://user-images.githubusercontent.com/81990744/115262028-27858380-a102-11eb-82c2-a678593d4e7f.png)

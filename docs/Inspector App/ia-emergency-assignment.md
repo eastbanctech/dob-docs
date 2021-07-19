@@ -14,7 +14,7 @@ comments: false
 
 <section id="emergency-assignments" markdown="1">
 
-## Emergency Assignments
+# Emergency Assignments
 When an emergency assignment is assigned to you it will have a red ! indication on your schedule.
 
 ![Emergency Schedule View -screenshot](https://user-images.githubusercontent.com/84864458/125116218-64866400-e0ba-11eb-8478-630692865857.PNG)
