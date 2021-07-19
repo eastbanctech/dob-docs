@@ -11,9 +11,13 @@ nav_order:
 platform: false
 comments: false
 ---
+
+<section id="detailed-inspector-page" markdown="1">
+# Detailed Inspector Page
+
 <section id="field-descriptions" markdown="1">
 
-### Field Descriptions<a name="-Field-Descriptions"></a>
+## Field Descriptions<a name="-Field-Descriptions"></a>
 
 Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
@@ -31,7 +35,7 @@ Clicking ON Map will allow users to locate the inspector on the map
 
 <section id="inspection-availability-hours" markdown="1">
 
-### Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
+## Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
 
 Currently Inspection Availability Hours are managed by the system administrators
 
@@ -41,7 +45,7 @@ Currently Inspection Availability Hours are managed by the system administrators
 
 <section id="inspector-schedules" markdown="1">
 
-### Inspector Schedules<a name="-Inspector-Schedules"></a>
+## Inspector Schedules<a name="-Inspector-Schedules"></a>
 
 An inspector's schedule can be accessed 3 different ways.
 
@@ -63,4 +67,5 @@ Full day absences are listed at the top of the day and partial day absences are 
 
 ![Group 44 -screenshot](https://user-images.githubusercontent.com/84864458/125123331-8553b700-e0c4-11eb-8c30-e98100e7766a.png)
 
+</section>
 </section>

@@ -11,9 +11,13 @@ nav_order:
 platform: false
 comments: false
 ---
+
+<section id="viewing-inspectors-page" markdown="1">
+# Viewing Inspectors Page
+
 <section id="navigate-to-inspectors-list" markdown="1">
 
-### Navigate to Inspectors List<a name="-Navigate"></a>
+## Navigate to Inspectors List<a name="-Navigate"></a>
 
 To navigate to the Inspector full list, click on Inspectors from the side navigation panel.
 
@@ -26,7 +30,7 @@ The user will be directed to the Inspectors page as seen below. The table is a f
 
 <section id="column-descriptions" markdown="1">
 
-### Column Descriptions<a name="-Column-Descriptions"></a>
+## Column Descriptions<a name="-Column-Descriptions"></a>
 
 ![I4 -screenshot](https://user-images.githubusercontent.com/81990744/118984151-32267900-b94b-11eb-8d3d-a2bfeb1412ab.png)
 
@@ -41,7 +45,7 @@ The user will be directed to the Inspectors page as seen below. The table is a f
 
 <section id="sorting" markdown="1">
 
-### Sorting<a name="-Sorting"></a>
+## Sorting<a name="-Sorting"></a>
 
 Users could navigate to different inspector pages by selecting the page numbers.
 
@@ -63,7 +67,7 @@ The table of Inspectors is sortable by each column by clicking on each specific 
 
 <section id="actions-from-columns" markdown="1">
 
-### Actions from Columns<a name="-Action-from-Columns"></a>
+## Actions from Columns<a name="-Action-from-Columns"></a>
 
 By clicking the location icon on the list, the users will be directed to the inspector's location on the map.
 
@@ -85,7 +89,7 @@ Clicking the On Map button/location icon on the Inspector Details page the users
 
 <section id="filter" markdown="1">
 
-### Filter<a name="Filter"></a>
+## Filter<a name="Filter"></a>
 
 Clicking the Filters button will display the Inspector filters menu, which allows the user to filter by Inspector Name, Type, Department and Status. Selecting specific filters will only display Inspectors that match the selected criteria. Clicking RESET TO DEFAULTS button will clear all selected filters.
 
@@ -108,6 +112,7 @@ Clicking the Filters button will display the Inspector filters menu, which allow
    * Inspecting - In the middle of conducting an Inspection
    * Off Duty - Off Duty for DCRA and the Inspector location is NOT being reported to DCRA
 
+</section>
 </section>
 
 

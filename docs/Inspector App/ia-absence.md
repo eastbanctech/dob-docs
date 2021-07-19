@@ -12,8 +12,10 @@ platform: false
 comments: false
 ---
 
-<section id="adding-an-absence" markdown="1">
+<section id="add-and-delete-an-absence" markdown="1">
+# Add and Delete an Absence
 
+<section id="adding-an-absence" markdown="1">
 ## Adding an Absence
 
 To add an absence click on the + icon on the schedule
@@ -60,4 +62,5 @@ Go to the Schedule and click on the "Absence" that is visible on the Schedule. T
 ![IMG_0332 -screenshot](https://user-images.githubusercontent.com/84864458/123667904-94a34c80-d808-11eb-8366-86fb1a0e6279.png)
 
 ![IMG_0333 -screenshot](https://user-images.githubusercontent.com/84864458/123667957-9f5de180-d808-11eb-9e52-8e2657b74449.png)
+</section>
 </section>

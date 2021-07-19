@@ -13,7 +13,7 @@ comments: false
 ---
 <section id="view-profile-and-about-page" markdown="1">
 
-## View Profile and About Page
+# View Profile and About Page
 
 After logging in, select Settings
 

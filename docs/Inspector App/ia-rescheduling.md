@@ -14,11 +14,10 @@ comments: false
 
 <section id="rescheduling-assignments" markdown="1">
 
-## Rescheduling Assignments
-<br>
+# Rescheduling Assignments
 <section id="rescheduling-current-assignment" markdown="1">
 
-### Rescheduling Current Assignment
+## Rescheduling Current Assignment
 Click on Assignment Tab above the Schedule
 
 ![a6 -screenshot](https://user-images.githubusercontent.com/81990744/115766021-7555f200-a375-11eb-8309-4837ebbd702c.png)
@@ -46,7 +45,7 @@ If there's no Assignment on the Schedule, the App displays the following
 
 <section id="rescheduling-other-assignments" markdown="1">
 
-### Rescheduling Other Assignments
+## Rescheduling Other Assignments
 Go to the Schedule and click on the Assignment you want to Reschedule, then click on the Enlarge Icon
 
 ![a8 -screenshot](https://user-images.githubusercontent.com/81990744/115766148-9cacbf00-a375-11eb-93be-cb67b1662718.png)

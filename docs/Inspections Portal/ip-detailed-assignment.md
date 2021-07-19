@@ -12,9 +12,12 @@ platform: false
 comments: false
 ---
 
+<section id="detailed-assignment-page" markdown="1">
+# Detailed Assignment Page
+
 <section id="field-descriptions" markdown="1">
 
-### Field Descriptions<a name="-Field-Descriptions"></a>
+## Field Descriptions<a name="-Field-Descriptions"></a>
 
 Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
 
@@ -28,11 +31,11 @@ Assignment Details page will display the following information: Inspection Numbe
 
 <section id="actions" markdown="1">
 
-### Actions<a name="-Actions"></a>
+## Actions<a name="-Actions"></a>
 
 <section id="on-map" markdown="1">
 
-#### On Map<a name="-On-Map"></a>
+### On Map<a name="-On-Map"></a>
 Clicking ON Map will allow users to locate the assignment on the map
 
 ![A19 -screenshot](https://user-images.githubusercontent.com/81990744/119044955-d67ae080-b988-11eb-8584-44304bc48021.png)
@@ -41,7 +44,7 @@ Clicking ON Map will allow users to locate the assignment on the map
 
 <section id="request-to-reschedule" markdown="1">
 
-#### Request to Reschedule<a name="-Request-to-Reschedule"></a>
+### Request to Reschedule<a name="-Request-to-Reschedule"></a>
 Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
@@ -59,7 +62,7 @@ Emergency assignments can be reassigned to specific users
 
 <section id="cancel-assignment" markdown="1">
 
-#### Cancel Assignment<a name="-Cancel-Assignment"></a>
+### Cancel Assignment<a name="-Cancel-Assignment"></a>
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
@@ -68,7 +71,7 @@ Clicking on Cancel Assignment button and confirming the action on the popup mess
 
 <section id="emergency-assignments" markdown="1">
 
-#### Emergency Assignments<a name="-Emergency Assignments"></a>
+### Emergency Assignments<a name="-Emergency Assignments"></a>
 Emergency Assignments are disignated by a red ! icon.
 
 **Assignments Table**
@@ -80,5 +83,6 @@ Emergency Assignments are disignated by a red ! icon.
 ![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](https://user-images.githubusercontent.com/84864458/125119971-cdbca600-e0bf-11eb-9460-fb54ebcf9140.png)
 
 
+</section>
 </section>
 </section>
