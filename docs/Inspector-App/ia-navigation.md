@@ -9,7 +9,7 @@ email: contact@eastbanctech.com
 parent: Inspector App
 nav_order: 
 platform: false
-comments: false
+comments: true
 ---
 
 <section id="navigating-to-assignment-location" markdown="1">

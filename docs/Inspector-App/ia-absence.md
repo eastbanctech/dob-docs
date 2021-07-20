@@ -9,7 +9,7 @@ email: contact@eastbanctech.com
 parent: Inspector App
 nav_order: 
 platform: false
-comments: false
+comments: true
 ---
 
 <section id="add-and-delete-an-absence" markdown="1">

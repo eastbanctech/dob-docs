@@ -9,7 +9,7 @@ email: contact@eastbanctech.com
 parent: Inspections Portal
 nav_order: 2
 platform: false
-comments: false
+comments: true
 ---
 
 <section id="overview-of-the-dashboard" markdown="1">

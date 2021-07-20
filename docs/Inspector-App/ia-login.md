@@ -9,7 +9,7 @@ email: contact@eastbanctech.com
 parent: Inspector App
 nav_order: 2
 platform: false
-comments: false
+comments: true
 ---
 
 <section id="dispatch-app-login-and-logout" markdown="1">
