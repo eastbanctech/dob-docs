@@ -66,7 +66,7 @@ Via the Inspector's details page by selecting Schedule.
 ![Group 43 -screenshot](https://user-images.githubusercontent.com/84864458/125123315-7ff66c80-e0c4-11eb-9006-8aed3861a02c.png)
 
 Once accessed you will see the current weeks assignments for the inspector and any absences they may have.
-Full day absences are listed at the top of the day and partial day absences are listed during the time the absence was applied. The image below outlines an inspectors scehdule and full/partial day absences. 
+Full day absences are listed at the top of the day and partial day absences are listed during the time the absence was applied. The image below outlines an inspectors schedule and full/partial day absences. 
 
 ![Group 44 -screenshot](https://user-images.githubusercontent.com/84864458/125123331-8553b700-e0c4-11eb-8c30-e98100e7766a.png)
 
