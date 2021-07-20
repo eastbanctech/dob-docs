@@ -11,6 +11,7 @@ nav_order: 7
 platform: false
 comments: true
 ---
+
 <section id="viewing-accela-error-log-page" markdown="1">
 # Viewing Accela Error Log Page
 
@@ -37,9 +38,9 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 1. Record Number Column: Record/CAP number listed
 2. Complaint Type Column: Record's Department
-3. Error TimeStamp Column: Date/Time the record rejected 
+3. Error TimeStamp Column: Date/Time the record rejected
 4. Error Status: Record's status
-5. Error Message Column: Reason why the record was rejected 
+5. Error Message Column: Reason why the record was rejected
 
 </section>
 

@@ -65,7 +65,7 @@ Emergency assignments can be reassigned to specific users
 
 <section id="cancel-assignment" markdown="1">
 
-### Cancel Assignment<a name="-Cancel-Assignment"></a>
+### Cancel an Assignment<a name="-Cancel-Assignment"></a>
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
@@ -75,7 +75,7 @@ Clicking on Cancel Assignment button and confirming the action on the popup mess
 <section id="emergency-assignments" markdown="1">
 
 ### Emergency Assignments<a name="-Emergency Assignments"></a>
-Emergency Assignments are disignated by a red ! icon.
+Emergency Assignments are disignated by a red [!] icon.
 
 **Assignments Table**
 

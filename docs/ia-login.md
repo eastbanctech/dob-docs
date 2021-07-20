@@ -18,6 +18,7 @@ comments: true
 Users have the ability to login and logout of the Inspector's App.
 
 <section id="dispatch-app-login" markdown="1">
+
 ## Dispatch App Login
 To use the Dispatch app, the user must login with a valid Access DC Username and Password.
 
@@ -25,7 +26,10 @@ To use the Dispatch app, the user must login with a valid Access DC Username and
 
 ![Group 34 -screenshot](https://user-images.githubusercontent.com/84864458/125092750-a5bd4a80-e09f-11eb-9f7c-17df857d0ce9.png)
 
-If this is the first logging in to the App, follow the steps below:
+<section id="first-login" markdown="1">
+
+### First Login
+If this is the first login to the App, follow the steps below:
 
 Click on Allow button.
 
@@ -54,6 +58,9 @@ Once logged in, Inspectors will receive several popups requesting permissions an
 Once clicking On Duty button, Inspectors see their Schedule for the week as seen below.
 
 ![Resche -screenshot](https://user-images.githubusercontent.com/81990744/115764224-4cccf880-a373-11eb-8067-2fc141779015.png)
+
+</section>
+
 </section>
 
 <section id="dispatch-app-logout" markdown="1">

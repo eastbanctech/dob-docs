@@ -65,5 +65,6 @@ Now the Assignment is Rescheduled. Select the Ok button to dismiss the popup mes
 ![re13 -screenshot](https://user-images.githubusercontent.com/81990744/114879710-71ebc500-9dcf-11eb-83ef-8e632f4e0f6b.png)
 
 The App will display the next Assignment (if any), and if there's no assignment it will display No Assignment message
+
 </section>
 </section>

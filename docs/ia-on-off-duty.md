@@ -38,7 +38,7 @@ By selecting On Duty button, the app displays an active Schedule and current Ass
 
 ## Off Duty
 
-However, if the Inspector selects Not Now button, the App allows the Inspector to view the Schedule and Assignment page, but not to work on any assignments because the Inspector cannot work on assignments when they are Off Duty and therefore the Schedule and Assignment pages are greyed out, i.e. they are inactive   
+However, if the Inspector selects the "Not Now" button, the App allows the Inspector to view the Schedule and Assignment page, but not to work on any assignments. Inspectors cannot work on assignments when they are Off Duty and therefore the Schedule and Assignment pages are greyed out and are inactive.
    
 ![o11 -screenshot](https://user-images.githubusercontent.com/81990744/114894672-d5c8ba80-9ddc-11eb-8a03-64616ae88fdc.png)
 

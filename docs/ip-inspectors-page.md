@@ -13,17 +13,18 @@ comments: true
 ---
 
 <section id="viewing-inspectors-page" markdown="1">
+
 # Viewing Inspectors Page
 
 <section id="navigate-to-inspectors-list" markdown="1">
 
 ## Navigate to Inspectors List<a name="-Navigate"></a>
 
-To navigate to the Inspector full list, click on Inspectors from the side navigation panel.
+To navigate to the full Inspectos list, click on Inspectors from the side navigation panel.
 
 ![I1 -screenshot](https://user-images.githubusercontent.com/81990744/118983951-fbe8f980-b94a-11eb-8aea-6068003bb3f4.png)
 
-The user will be directed to the Inspectors page as seen below. The table is a full list of Inspectors registered with DCRA and permissioned appropriately.
+The user will be directed to the Inspectors page as seen below. The table shows the full list of Inspectors registered with DCRA and permissioned appropriately.
 
 ![I3 -screenshot](https://user-images.githubusercontent.com/81990744/118984042-14f1aa80-b94b-11eb-9d62-9b94a9d3b007.png)
 </section>

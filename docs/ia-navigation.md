@@ -16,7 +16,7 @@ comments: true
 
 # Navigating to Assignment Location
 
-Go to the Current Assignment page and click on In Transit button. This is an indicator to both the Customer and DCRA that the Inspector is en route to the Assignment location
+Go to the Current Assignment page and click on the "In Transit" button. This is an indicator to both the Customer and DCRA that the Inspector is en route to the Assignment location
 
 ![navi6 -screenshot](https://user-images.githubusercontent.com/81990744/115037381-66b29b00-9e9c-11eb-8d02-6ee9909cf9dd.png)
 

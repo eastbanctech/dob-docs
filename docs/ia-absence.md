@@ -18,13 +18,14 @@ comments: true
 Users have the ability to add or delete absences through the Inspector's App.
 
 <section id="adding-an-absence" markdown="1">
+
 ## Adding an Absence
 
-To add an absence click on the + icon on the schedule
+To add an absence click on the [+] icon on the schedule
 
 ![Group 4 -screenshot](https://user-images.githubusercontent.com/84864458/123666612-607b5c00-d807-11eb-9df6-3b9b20facceb.png)
 
-Then click on "Title" and enter a title for the absence, like "Vacation" or "Sick day" and click on "Starts." The Inspector can only report absences for today and the future, not the past
+Then click on "Title" and enter a resaon for the absence, for example "Vacation" or "Sick day," and then chose a time-frame of the absence by clicking on "Starts." The Inspector can only report absences for today and the future, not the past.
 
 ![Group 5 -screenshot](https://user-images.githubusercontent.com/84864458/123666697-725cff00-d807-11eb-9a55-621744d61103.png)
 
@@ -42,24 +43,28 @@ Then click on "Ends" and enter the ending time of the absence
 
 ![IMG_0324 -screenshot](https://user-images.githubusercontent.com/84864458/123667185-e8616600-d807-11eb-956d-78685969a468.png)
 
-Then click Add and system will create the absence and add it to the schedule. The previously assigned Assignments will be removed from the Inspector's schedule and re-assigned and rescheduled by the system
+Then click Add and system will create the absence and add it to the schedule. Any previously assigned Assignments for this time-frame will be removed from the Inspector's schedule and re-assigned and rescheduled by the system.
 
 ![Group 9 -screenshot](https://user-images.githubusercontent.com/84864458/123667281-016a1700-d808-11eb-935b-4af1b8de8cdd.png)
 
 ![IMG_0326 -screenshot](https://user-images.githubusercontent.com/84864458/123667369-18106e00-d808-11eb-87ef-c6ee483106d9.png)
 
-If the user wants to report an absence for All Day, click on the + icon and enter/type a title for your absence. Then turn the All Day toggle switch on and select the date and click on Add button. The Absence will be displayed in the Schedule All Day
+<section id="adding-all-day-absences" markdown="1">
+
+### Adding All Day Absences
+If the user wants to report an All Day absence, they can click on the [+] icon and enter the reason for their absence in the "Title" field. Then they can toggle the All Day switch on, select the date, and click on Add button. The Absence will be displayed in the Schedule as All Day.
 
 ![Group 7 -screenshot](https://user-images.githubusercontent.com/84864458/123667476-2eb6c500-d808-11eb-87f2-e148f1b08ad2.png)
 
 ![Group 8 -screenshot](https://user-images.githubusercontent.com/84864458/123667678-5dcd3680-d808-11eb-8ef9-59ef7be0424f.png)
+</section>
 </section>
 
 <section id="deleting-an-absence" markdown="1">
 
 ## Deleting an Absence
 
-Go to the Schedule and click on the "Absence" that is visible on the Schedule. Then click on "Delete Absence" button. The system will delete the absence from the Inspector's Schedule and the Inspector will have that slot available for new Assignments
+Go to the Schedule and click on the "Absence" that is visible on the Schedule. Then click on the "Delete Absence" button. The system will delete the absence from the Inspector's Schedule and the Inspector will have that slot available for new Assignments.
 
 ![IMG_0332 -screenshot](https://user-images.githubusercontent.com/84864458/123667904-94a34c80-d808-11eb-8366-86fb1a0e6279.png)
 

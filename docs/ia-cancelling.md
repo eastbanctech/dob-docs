@@ -26,21 +26,21 @@ Click on Assignment tab above the Schedule
 
 ![c9 -screenshot](https://user-images.githubusercontent.com/81990744/115876106-ea780480-a413-11eb-87f7-4987d3cde504.png)
 
-Then click on Cancel Assignment button
+Then click on the Cancel Assignment button
 
 ![c10 -screenshot](https://user-images.githubusercontent.com/81990744/115876127-f06de580-a413-11eb-8d30-e99829aec982.png)
 
-Enter/Type reason for cancellation (optional)
+Enter the reason for cancellation (optional)
 
 ![c11 -screenshot](https://user-images.githubusercontent.com/81990744/115876152-f6fc5d00-a413-11eb-9b28-fb0324d18d66.png)
 
 ![c12 -screenshot](https://user-images.githubusercontent.com/81990744/115876175-fd8ad480-a413-11eb-9d23-4f4ff88c7135.png)
 
-Then click on Yes button
+Then click the Yes button
 
 ![c5 -screenshot](https://user-images.githubusercontent.com/81990744/115876222-0a0f2d00-a414-11eb-8001-fd919c593e38.png)
 
-Click on OK button to dismiss the popup message
+Click on the OK button to dismiss the popup message
 
 ![c6 -screenshot](https://user-images.githubusercontent.com/81990744/115876248-0f6c7780-a414-11eb-8e53-20b4bef80692.png)
 
@@ -56,23 +56,23 @@ If there's no Assignment on the Schedule the App displays the following
 <section id="canceling-other-assignments" markdown="1">
 
 ## Canceling Other Assignments
-Another way to Cancel an Assignment: Select an Assignment from the schedule, click on it. Then click on the Enlarge Icon
+Select an Assignment from the schedule, then click on it. Then click on the Enlarge Icon.
 
 ![c13 -screenshot](https://user-images.githubusercontent.com/81990744/115876858-d1238800-a414-11eb-8297-84a59a025144.png)
 
-From the Detailed Assignment page, click Cancel button
+From the Detailed Assignment page, click the Cancel button.
 
 ![can116 -screenshot](https://user-images.githubusercontent.com/81990744/114915357-6f9a6280-9df1-11eb-8db4-c51d6a3024fc.png)
 
-Enter/Type a reason for cancellation (optional) and click on Yes button
+Enter a reason for cancellation (optional) and click on the Yes button
 
 ![can118 -screenshot](https://user-images.githubusercontent.com/81990744/114915369-745f1680-9df1-11eb-801d-2665b564cd9c.png)
 
-Click on Ok to dismiss the popup message
+Click Ok to dismiss the popup message
 
 ![can114 -screenshot](https://user-images.githubusercontent.com/81990744/114915329-69a48180-9df1-11eb-9cf4-424b1fe5cfe4.png)
 
-The App will display the next Assignment (if any), and if there's no assignment it will display No Assignment message
+The App will display the next Assignment (if any), and if there's no assignment it will display a "No Assignment" message
 
 </section>
 </section>
