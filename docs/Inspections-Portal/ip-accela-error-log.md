@@ -14,10 +14,12 @@ comments: false
 <section id="viewing-accela-error-log-page" markdown="1">
 # Viewing Accela Error Log Page
 
+Users can use the Inspections Portal to view the Accela Error Log.
+
 <section id="navigate-to-accela-error-log" markdown="1">
 
 ## Navigate to Accela Error Log<a name="Navigate-to-Accela-Error-Log"></a>
-To navigate to the Accela Error log page, click on Accela Error Log from the side navigation Panel.
+To navigate to the Accela Error log page, click on Accela Error Log from the side navigation panel.
 
 ![AC1 -screenshot](https://user-images.githubusercontent.com/81990744/119144360-95c9a880-ba16-11eb-9ea3-a8bfd1b8045a.png)
 
