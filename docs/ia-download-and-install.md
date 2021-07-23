@@ -14,7 +14,7 @@ comments: true
 
 <section id="download-and-install-the-dispatch-app" markdown="1">
 
-# Download and Install the Dispatch App
+# How to Install the Dispatch App
 
 Step-1 --- On your DCRA iPad device, go to “DC APPS”
 
@@ -27,5 +27,6 @@ Step-2 ---Find “DCRA Dispatch” and click Install
 Step-3 ---After install, login to the app using your Access DC account. If you receive an error message, reach out to your manager to ensure you're correctly provisioned. 
 
 ![IMG_0CD1294A1B5A-1 -screenshot](https://user-images.githubusercontent.com/84864458/126816164-2de1250e-b8fe-41ec-a72a-3272aeaf564b.jpeg)
+
 
 </section>
