@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download and Install Dispatch App
+title: How to Install the Dispatch App
 tags: user guide
 categories: first release
 author: EastBanc Technologies
@@ -13,12 +13,19 @@ comments: true
 ---
 <section id="download-and-install-the-dispatch-app" markdown="1">
 
-# Download and Install the Dispatch App
+# How to Install the Dispatch App
 
-Once your Apple ID has been submitted, you will receive an email from TestFlight (see image below) that you will have to view on your iPad to be able to use the Dispatch App for UAT on your device. 
+Step-1 --- On your DCRA iPad device, go to “DC APPS”
 
-_**NOTE:** If after clicking on the "View in TestFlight" button, the device asks for an AppleID, log into the Apple store with the AppleID submitted._ 
+![How to download -screenshot](https://user-images.githubusercontent.com/84864458/126816003-45386c44-7c67-40d3-b4b2-29fc892efc63.png)
 
-<img width="692" class="screenshot" alt="MicrosoftTeams-image (18)" src="https://user-images.githubusercontent.com/82533918/115172112-86131900-a092-11eb-835b-48a3559a8a3c.png">
+Step-2 ---Find “DCRA Dispatch” and click Install
+
+![MicrosoftTeams-image -screenshot](https://user-images.githubusercontent.com/84864458/126816075-366925a2-94ee-4a4f-a357-2e6c0d2c4d4b.png)
+
+Step-3 ---After install, login to the app using your Access DC account. If you receive an error message, reach out to your manager to ensure you're correctly provisioned. 
+
+![IMG_0CD1294A1B5A-1 -screenshot](https://user-images.githubusercontent.com/84864458/126816164-2de1250e-b8fe-41ec-a72a-3272aeaf564b.jpeg)
+
 
 </section>
