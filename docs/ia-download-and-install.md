@@ -11,6 +11,7 @@ nav_order: 1
 platform: false
 comments: true
 ---
+
 <section id="download-and-install-the-dispatch-app" markdown="1">
 
 # How to Install the Dispatch App
