@@ -7,7 +7,7 @@ author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Inspector App
-nav_order: 
+nav_order: 5
 ---
 
 <section id="working-with-assignments" markdown="1">
