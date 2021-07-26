@@ -8,8 +8,6 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Inspector App
 nav_order: 1
-platform: false
-comments: true
 ---
 
 <section id="download-and-install-the-dispatch-app" markdown="1">

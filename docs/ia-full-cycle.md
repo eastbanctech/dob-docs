@@ -8,8 +8,6 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Inspector App
 nav_order: 5
-platform: false
-comments: true
 ---
 
 <section id="working-with-assignments" markdown="1">

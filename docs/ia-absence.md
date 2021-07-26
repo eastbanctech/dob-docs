@@ -8,8 +8,6 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Inspector App
 nav_order: 10
-platform: false
-comments: true
 ---
 
 <section id="add-and-delete-an-absence" markdown="1">

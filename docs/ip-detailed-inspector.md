@@ -8,8 +8,6 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Inspections Portal
 nav_order: 4
-platform: false
-comments: true
 ---
 
 <section id="detailed-inspector-page" markdown="1">
