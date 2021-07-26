@@ -8,8 +8,6 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Inspections Portal
 nav_order: 7
-platform: false
-comments: true
 ---
 
 <section id="viewing-accela-error-log-page" markdown="1">
