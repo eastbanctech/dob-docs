@@ -1,6 +1,43 @@
 //variables
 $toc-width: 250px; //width of table of contents
 
+// ios content
+.content-ios{
+
+}
+
+// android content
+.content-android{
+
+}
+
+// headings with content class
+h1.content-android , h1.content-ios {
+  margin-top: 8px;
+}
+
+// custom scrollbar
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #d6dee1;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #a8bbbf;
+  }
+  body {
+    background-color: $sidebar-color;
+  }
 
 // left side-bar
 .side-bar {
@@ -129,6 +166,7 @@ $toc-width: 250px; //width of table of contents
 // including search and aux-link bar
 .main {
 @include mq(md) {
+  background-color: #FFFFFF;
   position: relative;
   max-width: $content-width;
   margin-left: $nav-width-md;
