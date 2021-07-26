@@ -11,18 +11,19 @@ nav_order: 2
 ---
 
 <section id="overview-of-the-dashboard" markdown="1">
+
 # Overview of the Dashboard
 
 <section id="map-legend" markdown="1">
 
-## Map Legend<a name="-Map-legend"></a>
+## Map Legend
 After logging in, the default view is the Dashboard with a map that displays the Inspectors' real-time location and the Assignments/Inspections on the map for TODAY only with status Assigned (more on statuses in section [Assignments Filters](#-Assignments-Filter)).
 
 ![db1 -screenshot](https://user-images.githubusercontent.com/81990744/118853344-a6a4dd80-b8a1-11eb-9bc4-310f98fc1082.png)
 
 <section id="boundaries" markdown="1">
 
-### Boundaries<a name="-Boundaries"></a>
+### Boundaries
 The map displays the DCRA boundaries on the map.
 
 ![db1 -screenshot](https://user-images.githubusercontent.com/81990744/118853344-a6a4dd80-b8a1-11eb-9bc4-310f98fc1082.png)
@@ -31,7 +32,7 @@ The map displays the DCRA boundaries on the map.
 
 <section id="groupings" markdown="1">
 
-### Groupings<a name="-Groupings"></a>
+### Groupings
 When there're two or more inpsections in a certain location, the map displays how many of them are grouped together. Zooming in on the map to that location separates that grouping into individual inspections or assignment groupings as seen on the second screenshot
 
 ![db2 -screenshot](https://user-images.githubusercontent.com/81990744/118853547-df44b700-b8a1-11eb-9916-a983ac958a96.png)
@@ -47,7 +48,7 @@ When there're two or more Inspectors in a certain location, the map displays how
 
 <section id="assignment-card" markdown="1">
 
-## Assignment Card<a name="-Assignment-Card"></a>
+## Assignment Card
 Clicking on an Inspection number on the map displays a popup called the Assignment card with the following information: Inspection number, Inspection date/time, Inspection type, Inspection address and Inspector assigned.
 
 Clicking through on the Inspection number on the card navigates to Assignment Details page.
@@ -64,7 +65,7 @@ Clicking on Assignment groupings on the map displays a list of Inspection Number
 
 <section id="inspector-card" markdown="1">
 
-## Inspector Card<a name="-Inspector-Card"></a>
+## Inspector Card
 Clicking on the Inspector icon on the map displays the Inspector card with the following information: Inspector name, Inspector status, Schedule and Details
 
 ![db6 -screenshot](https://user-images.githubusercontent.com/81990744/118858806-88da7700-b8a7-11eb-84ee-96b8024a340c.png)
@@ -80,14 +81,14 @@ Clicking through on the Inspector Name, Initials, or Details button on the card 
 
 <section id="filters" markdown="1">
 
-## Filters<a name="-Filters"></a>
+## Filters
 To filter out specific Assignments or Inspectors, click on the filter icon.
 
 ![db9 -screenshot](https://user-images.githubusercontent.com/81990744/118859222-00a8a180-b8a8-11eb-909d-3d99c5ac4a58.png)
 
 <section id="inspectors-filter" markdown="1">
 
-### Inspectors Filter<a name="-Inspectors-Filter"></a>
+### Inspectors Filter
 Clicking on the filter icon displays the filters menu with RESET TAB and RESET ALL buttons.
    * RESET TAB button: Clicking Reset TAB button will resets all fields to default in the current filter menu
    * RESET ALL button: Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
@@ -111,7 +112,7 @@ Clicking on the filter icon displays the filters menu with RESET TAB and RESET A
 
 <section id="assignments-filter" markdown="1">
 
-### Assignments Filter<a name="-Assignments-Filter"></a>
+### Assignments Filter
 Selecting Assignments from the filter menu bar displays the assignment filter.
 
 ![Group 56 -screenshot](https://user-images.githubusercontent.com/84864458/125126373-02812b00-e0c9-11eb-8bd9-a9289a3b55bb.png)

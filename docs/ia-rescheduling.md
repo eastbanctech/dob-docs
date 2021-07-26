@@ -13,9 +13,10 @@ nav_order: 6
 <section id="rescheduling-assignments" markdown="1">
 
 # Rescheduling Assignments
-<section id="rescheduling-current-assignment" markdown="1">
 
 Users can reschedule assignments directly from the Inspector's App.
+
+<section id="rescheduling-current-assignment" markdown="1">
 
 ## Rescheduling Current Assignment
 Click on Assignment Tab above the Schedule
