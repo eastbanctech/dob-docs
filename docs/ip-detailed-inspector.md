@@ -20,9 +20,7 @@ User's can view detailed information about individual inspectors through the Ins
 
 <section id="field-descriptions" markdown="1">
 
-## Field Descriptions<a name="-Field-Descriptions"></a>
-
-Clicking the arrow icon will allow the user to navigate to the Inspector Details page
+### Field Descriptions<a name="-Field-Descriptions"></a>
 
 ![I18 -screenshot](https://user-images.githubusercontent.com/81990744/119042869-6b300f00-b986-11eb-9b9a-7df1faea50e4.png)
 
@@ -38,7 +36,7 @@ Clicking ON Map will allow users to locate the inspector on the map
 
 <section id="inspection-availability-hours" markdown="1">
 
-## Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
+### Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
 
 Currently Inspection Availability Hours are managed by the system administrators
 
@@ -48,7 +46,7 @@ Currently Inspection Availability Hours are managed by the system administrators
 
 <section id="inspector-schedules" markdown="1">
 
-## Inspector Schedules<a name="-Inspector-Schedules"></a>
+### Inspector Schedules<a name="-Inspector-Schedules"></a>
 
 An inspector's schedule can be accessed 3 different ways.
 
@@ -66,9 +64,60 @@ Via the Inspector's details page by selecting Schedule.
 ![Group 43 -screenshot](https://user-images.githubusercontent.com/84864458/125123315-7ff66c80-e0c4-11eb-9006-8aed3861a02c.png)
 
 Once accessed you will see the current weeks assignments for the inspector and any absences they may have.
-Full day absences are listed at the top of the day and partial day absences are listed during the time the absence was applied. The image below outlines an inspectors schedule and full/partial day absences. 
+Full day absences are listed at the top of the day and partial day absences are listed during the time the absence was applied. The image below outlines an inspectors scehdule and full/partial day absences. 
 
-![Group 44 -screenshot](https://user-images.githubusercontent.com/84864458/125123331-8553b700-e0c4-11eb-8c30-e98100e7766a.png)
+![image 28 -screenshot](https://user-images.githubusercontent.com/84864458/127001445-2933b7a1-7617-4121-be00-ed021ea3acf3.png)
+
+</section>
+
+<section id="creating-an-absence" markdown="1">
+
+### Creating an Absence<a name="-Creating-An-Absence"></a>
+
+To create an absence select the Add Absence button at the top right of the Inspector's schedule.
+
+![Group 61 -screenshot](https://user-images.githubusercontent.com/84864458/127017307-e63aa30b-e402-4285-8f49-b6ac9f133826.png)
+
+Creating an absence requires that you provide a title.
+
+![Group 75 -screenshot](https://user-images.githubusercontent.com/84864458/127017637-21c26310-ab6a-4441-a787-b85958749a16.png)
+
+By default the system is set up to create partial day absences. To create a partial day absence you will need to select the start date/time and end date/time.
+
+![Group 62 -screenshot](https://user-images.githubusercontent.com/84864458/127017896-fb70354d-559d-40fe-8cd6-c09167733f62.png)
+
+![Group 64 -screenshot](https://user-images.githubusercontent.com/84864458/127017928-4d19139a-9957-4463-ac80-dbf1839f5f8b.png)
+
+![Group 65 -screenshot](https://user-images.githubusercontent.com/84864458/127017950-392e0bf2-e606-48e8-b905-70cc20051eff.png)
+
+After providing the start date/time and end date/time you can select the Save button. The system will confirm the creation select the Ok button to review your schedule.
+
+![Group 66 -screenshot](https://user-images.githubusercontent.com/84864458/127018114-9327190f-6282-44bb-893b-7d297df5f95e.png)
+
+![Group 67 -screenshot](https://user-images.githubusercontent.com/84864458/127018127-6e5325f9-81ba-4a3d-988c-3ab39ba7a809.png)
+
+To create an all day absence you must select the checkbox for All day.
+
+![Group 68 -screenshot](https://user-images.githubusercontent.com/84864458/127018422-9a913d0b-cb55-4052-9c7b-0b1621fc5815.png)
+
+All day absences require a title and start/end date.
+
+![Group 69 -screenshot](https://user-images.githubusercontent.com/84864458/127018661-a53d8d66-181f-4c91-9270-5597f398c4bd.png)
+
+![Group 70 -screenshot](https://user-images.githubusercontent.com/84864458/127018694-ae9a122e-5b72-41f9-8149-46a12fffcf4c.png)
+
+![Group 67 -screenshot](https://user-images.githubusercontent.com/84864458/127019767-dab684e5-b5dd-4b18-a245-b315974c0f1c.png)
+
+To delete an absence select the absence that is no longer needed, and select the Delete Absence button on the absence details popover. 
+
+![Group 71 -screenshot](https://user-images.githubusercontent.com/84864458/127019095-856517a7-2e79-46c1-99bd-93983e65fab8.png)
+
+![Group 72 -screenshot](https://user-images.githubusercontent.com/84864458/127019113-2047f4f6-2842-4200-9aa8-65bc2e051169.png)
+
+The system will ask you to confirm the deletion action.  If you want to delete the absence select the Delete button, if you no longer wish to delete select the cancel button.
+
+![Group 73 -screenshot](https://user-images.githubusercontent.com/84864458/127019284-606f2822-334b-4084-babb-f7fb723a0f8c.png)
+
 
 </section>
 </section>
