@@ -20,7 +20,9 @@ User's can view detailed information about individual inspectors through the Ins
 
 <section id="field-descriptions" markdown="1">
 
-### Field Descriptions<a name="-Field-Descriptions"></a>
+## Field Descriptions<a name="-Field-Descriptions"></a>
+
+Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
 ![I18 -screenshot](https://user-images.githubusercontent.com/81990744/119042869-6b300f00-b986-11eb-9b9a-7df1faea50e4.png)
 
@@ -36,7 +38,7 @@ Clicking ON Map will allow users to locate the inspector on the map
 
 <section id="inspection-availability-hours" markdown="1">
 
-### Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
+## Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
 
 Currently Inspection Availability Hours are managed by the system administrators
 
@@ -46,7 +48,7 @@ Currently Inspection Availability Hours are managed by the system administrators
 
 <section id="inspector-schedules" markdown="1">
 
-### Inspector Schedules<a name="-Inspector-Schedules"></a>
+## Inspector Schedules<a name="-Inspector-Schedules"></a>
 
 An inspector's schedule can be accessed 3 different ways.
 
@@ -64,7 +66,7 @@ Via the Inspector's details page by selecting Schedule.
 ![Group 43 -screenshot](https://user-images.githubusercontent.com/84864458/125123315-7ff66c80-e0c4-11eb-9006-8aed3861a02c.png)
 
 Once accessed you will see the current weeks assignments for the inspector and any absences they may have.
-Full day absences are listed at the top of the day and partial day absences are listed during the time the absence was applied. The image below outlines an inspectors scehdule and full/partial day absences. 
+Full day absences are listed at the top of the day and partial day absences are listed during the time the absence was applied. The image below outlines an inspectors schedule and full/partial day absences. 
 
 ![image 28 -screenshot](https://user-images.githubusercontent.com/84864458/127001445-2933b7a1-7617-4121-be00-ed021ea3acf3.png)
 
@@ -72,7 +74,7 @@ Full day absences are listed at the top of the day and partial day absences are 
 
 <section id="creating-an-absence" markdown="1">
 
-### Creating an Absence<a name="-Creating-An-Absence"></a>
+## Creating an Absence<a name="-Creating-An-Absence"></a>
 
 To create an absence select the Add Absence button at the top right of the Inspector's schedule.
 
