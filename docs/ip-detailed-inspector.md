@@ -18,7 +18,7 @@ User's can view detailed information about individual inspectors through the Ins
 
 <section id="field-descriptions" markdown="1">
 
-## Field Descriptions<a name="-Field-Descriptions"></a>
+## Field Descriptions
 
 Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
@@ -36,7 +36,7 @@ Clicking ON Map will allow users to locate the inspector on the map
 
 <section id="inspection-availability-hours" markdown="1">
 
-## Inspection Availability Hours<a name="-Inspection-Availability-Hours"></a>
+## Inspection Availability Hours
 
 Currently Inspection Availability Hours are managed by the system administrators
 
@@ -46,7 +46,7 @@ Currently Inspection Availability Hours are managed by the system administrators
 
 <section id="inspector-schedules" markdown="1">
 
-## Inspector Schedules<a name="-Inspector-Schedules"></a>
+## Inspector Schedules
 
 An inspector's schedule can be accessed 3 different ways.
 
@@ -72,7 +72,7 @@ Full day absences are listed at the top of the day and partial day absences are 
 
 <section id="creating-an-absence" markdown="1">
 
-## Creating an Absence<a name="-Creating-An-Absence"></a>
+## Creating an Absence
 
 To create an absence select the Add Absence button at the top right of the Inspector's schedule.
 

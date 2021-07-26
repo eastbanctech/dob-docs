@@ -18,7 +18,7 @@ User's can view detailed information about individual assignments through the In
 
 <section id="field-descriptions" markdown="1">
 
-## Field Descriptions<a name="-Field-Descriptions"></a>
+## Field Descriptions
 
 Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
 
@@ -32,11 +32,11 @@ Assignment Details page will display the following information: Inspection Numbe
 
 <section id="actions" markdown="1">
 
-## Actions<a name="-Actions"></a>
+## Actions
 
 <section id="on-map" markdown="1">
 
-### On Map<a name="-On-Map"></a>
+### On Map
 Clicking ON Map will allow users to locate the assignment on the map
 
 ![A19 -screenshot](https://user-images.githubusercontent.com/81990744/119044955-d67ae080-b988-11eb-8584-44304bc48021.png)
@@ -45,7 +45,7 @@ Clicking ON Map will allow users to locate the assignment on the map
 
 <section id="request-to-reschedule" markdown="1">
 
-### Request to Reschedule<a name="-Request-to-Reschedule"></a>
+### Request to Reschedule
 Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
@@ -63,7 +63,7 @@ Emergency assignments can be reassigned to specific users
 
 <section id="cancel-assignment" markdown="1">
 
-### Cancel an Assignment<a name="-Cancel-Assignment"></a>
+### Cancel an Assignment
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![A9 -screenshot](https://user-images.githubusercontent.com/81990744/119044435-2c02bd80-b988-11eb-85ca-301074c51c03.png)
@@ -72,7 +72,7 @@ Clicking on Cancel Assignment button and confirming the action on the popup mess
 
 <section id="emergency-assignments" markdown="1">
 
-### Emergency Assignments<a name="-Emergency Assignments"></a>
+### Emergency Assignments
 Emergency Assignments are disignated by a red [!] icon.
 
 **Assignments Table**

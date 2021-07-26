@@ -11,13 +11,14 @@ nav_order: 7
 ---
 
 <section id="viewing-accela-error-log-page" markdown="1">
+
 # Viewing Accela Error Log Page
 
 Users can use the Inspections Portal to view the Accela Error Log.
 
 <section id="navigate-to-accela-error-log" markdown="1">
 
-## Navigate to Accela Error Log<a name="Navigate-to-Accela-Error-Log"></a>
+## Navigate to Accela Error Log
 To navigate to the Accela Error log page, click on Accela Error Log from the side navigation panel.
 
 ![AC1 -screenshot](https://user-images.githubusercontent.com/81990744/119144360-95c9a880-ba16-11eb-9ea3-a8bfd1b8045a.png)
@@ -29,7 +30,7 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 <section id="column-description" markdown="1">
 
-## Column Description<a name="Column-Description"></a>
+## Column Description
 
 ![acc10 -screenshot](https://user-images.githubusercontent.com/81990744/120532080-505d9180-c3ad-11eb-97ae-58d5d9903ff7.png)
 
@@ -44,7 +45,7 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 <section id="detailed-accela-error-log-page" markdown="1">
 
-## Detailed Accela Error Log Page<a name="Detailed-Accela-Error-Log-Page"></a>
+## Detailed Accela Error Log Page
 
 Clicking on the arrow icon on the list, the user will be directed to the Accela Error Log Details page as seen on the second screenshot.
 
@@ -56,7 +57,7 @@ Clicking on the arrow icon on the list, the user will be directed to the Accela 
 
 <section id="sorting" markdown="1">
 
-## Sorting<a name="Sorting"></a>
+## Sorting
 
 Users could navigate to different Accela Error Log pages by selecting the page numbers.
 

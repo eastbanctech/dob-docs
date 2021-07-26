@@ -10,9 +10,11 @@ parent: Inspections Portal
 nav_order: 5
 ---
 <section id="Viewing-assignments-page" markdown="1">
+
 # Viewing Assignments Page
 
 <section id="navigate-to-assignment-list" markdown="1">
+
 ## Navigate to Assignment List
 
 Select Assignments from the main menu bar to navigate to the Assignments page
@@ -26,7 +28,8 @@ The user will be directed to the Assignment page as seen below. The table is a f
 </section>
 
 <section id="column-descriptions" markdown="1">
-## Column Descriptions<a name="-Column-Descriptions"></a>
+
+## Column Descriptions
 
 ![A3 -screenshot](https://user-images.githubusercontent.com/81990744/119018529-29916b00-b96a-11eb-8e07-e61e92b73b25.png)
 ![Group 54 -screenshot](https://user-images.githubusercontent.com/84864458/125125068-175cbf00-e0c7-11eb-9ef9-5c4c0f2ce6f6.png)
@@ -48,11 +51,11 @@ The user will be directed to the Assignment page as seen below. The table is a f
 
 <section id="actions-from-columns" markdown="1">
 
-## Actions from Columns<a name="-Actions-from-Columns"></a>
+## Actions from Columns
 
 <section id="map" markdown="1">
 
-### Map<a name="-Map"></a>
+### Map
 By clicking the location icon on the list, the users will be directed to the assignment location on the map
 
 ![A6 -screenshot](https://user-images.githubusercontent.com/81990744/119037584-2a34fc00-b980-11eb-8bd8-68183add4faf.png)
@@ -63,7 +66,7 @@ By clicking the location icon on the list, the users will be directed to the ass
 
 <section id="detailed-assignment-page" markdown="1">
 
-### Detailed Assignment Page<a name="-Detailed-Assignment-Page"></a>
+### Detailed Assignment Page
 Clicking on the arrow icon on the list, the users will be directed to Assignment Details page
 
 ![A8](https://user-images.githubusercontent.com/81990744/119037910-8a2ba280-b980-11eb-8a07-10bf47a2d9bb.png)
@@ -75,7 +78,7 @@ Clicking on the arrow icon on the list, the users will be directed to Assignment
 
 <section id="sorting" markdown="1">
 
-## Sorting<a name="-Sorting"></a>
+## Sorting
 Users could navigate to different assignment pages by selecting the page numbers
 
 ![A10 -screenshot](https://user-images.githubusercontent.com/81990744/119038023-a92a3480-b980-11eb-802f-bfd8a446b9d3.png)
@@ -95,7 +98,7 @@ The table of Inspections is sortable by each column by clicking on each sepecifi
 
 <section id="filter" markdown="1">
 
-## Filter<a name="-Filter"></a>
+## Filter
 Clicking on the Filters button will display the Assignment filters menu, which allows the user to filter by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address
 
 ![A15 -screenshot](https://user-images.githubusercontent.com/81990744/119038606-4d13e000-b981-11eb-960b-9bb1e1f52acb.png)

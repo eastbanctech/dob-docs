@@ -10,7 +10,7 @@ parent: Inspector App
 nav_order: 1
 ---
 
-<section id="download-and-install-the-dispatch-app" markdown="1">
+<section id="how-to-install-the-dispatch-app" markdown="1">
 
 # How to Install the Dispatch App
 

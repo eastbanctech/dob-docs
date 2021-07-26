@@ -150,7 +150,9 @@ layout: table_wrappers
           {{ content }}
         {% endif %}
 
-        <div class="platform_form"></div>
+        <div class="platform_form">
+          <!--Empty platform_form is necessary for styling purposes-->
+        </div>
 
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
