@@ -1,21 +1,8 @@
 //variables
 $toc-width: 250px; //width of table of contents
 
-// ios content
-.content-ios{
 
-}
-
-// android content
-.content-android{
-
-}
-
-// headings with content class
-h1.content-android , h1.content-ios {
-  margin-top: 8px;
-}
-
+/*
 // custom scrollbar
 ::-webkit-scrollbar {
   -webkit-appearance: none;
@@ -35,9 +22,7 @@ h1.content-android , h1.content-ios {
   ::-webkit-scrollbar-thumb:hover {
     background-color: #a8bbbf;
   }
-  body {
-    background-color: $sidebar-color;
-  }
+  */
 
 // left side-bar
 .side-bar {
