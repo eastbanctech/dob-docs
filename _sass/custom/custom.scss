@@ -6,14 +6,15 @@ $toc-width: 250px; //width of table of contents
 ::-webkit-scrollbar {
   @include mq(sm) {
     -webkit-appearance: none;
+    width: 8px;
   }
 }
   
 ::-webkit-scrollbar-thumb {
   @include mq(sm) {  
     background-color: #a1232731;
-    border-radius: 20px;
-    border: 6px solid transparent;
+    border-radius: 30px;
+    border: 2px solid transparent;
     background-clip: content-box;
   }
 }
