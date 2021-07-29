@@ -9,7 +9,7 @@ has_toc: false
 platform: false
 ---
 
-# DCRA Dispatch App User's Guide
+# DCRA Dispatch User Guide
 
 <br>
 
