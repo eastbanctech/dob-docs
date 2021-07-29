@@ -4,23 +4,37 @@ $toc-width: 250px; //width of table of contents
 
 // custom scrollbar
 ::-webkit-scrollbar {
-  -webkit-appearance: none;
+  @include mq(sm) {
+    -webkit-appearance: none;
   }
+}
   
-  ::-webkit-scrollbar-thumb {
-    background-color: #d6dee1;
+::-webkit-scrollbar-thumb {
+  @include mq(sm) {  
+    background-color: #a1232731;
     border-radius: 20px;
     border: 6px solid transparent;
     background-clip: content-box;
   }
+}
   
-  ::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
+  @include mq(sm) {  
     background-color: transparent;
   }
-  
-  ::-webkit-scrollbar-thumb:hover {
-    background-color: #a8bbbf;
+}
+
+body::-webkit-scrollbar-track {
+  @include mq(lg) {  
+    background-color: $sidebar-color;
   }
+}
+  
+::-webkit-scrollbar-thumb:hover {
+  @include mq(sm) {
+    background-color: #a12327b2;
+  }
+}
 
 
 // left side-bar
