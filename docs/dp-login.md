@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Login to Inspections Portal
-tags: user guide portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspections Portal
+parent: Dispatch Portal
 nav_order: 1
 ---
 <section id="login-to-inspections-portal" markdown="1">

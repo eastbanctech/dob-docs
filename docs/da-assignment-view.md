@@ -1,12 +1,11 @@
 ---
 layout: page
 title: View Details of Assignments
-tags: user guide
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspector App
+parent: Dispatch App
 nav_order: 4
 ---
 
@@ -14,7 +13,7 @@ nav_order: 4
 
 # View Details of Assignments
 
-Users can view details of an assignment through the Inspector's App.
+Users can view details of an assignment through the Dispatch App.
 
 <section id="view-current-assignment" markdown="1">
 
