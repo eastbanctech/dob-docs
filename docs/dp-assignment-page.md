@@ -18,11 +18,11 @@ nav_order: 5
 
 Select Assignments from the main menu bar to navigate to the Assignments page
 
-![A1 -screenshot](https://user-images.githubusercontent.com/81990744/119017800-5e50f280-b969-11eb-9916-9ecbb2d7bdc5.png)
+![A1 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list.png)
 
 The user will be directed to the Assignment page as seen below. The table is a full list of Assignments submitted in the KRM form and Accepted by Accela
 
-![A2 -screenshot](https://user-images.githubusercontent.com/81990744/119017845-6f016880-b969-11eb-9ddc-32fe4dbb06ad.png)
+![A2 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list1.png)
 
 </section>
 
@@ -30,8 +30,8 @@ The user will be directed to the Assignment page as seen below. The table is a f
 
 ## Column Descriptions
 
-![A3 -screenshot](https://user-images.githubusercontent.com/81990744/119018529-29916b00-b96a-11eb-8e07-e61e92b73b25.png)
-![Group 54 -screenshot](https://user-images.githubusercontent.com/84864458/125125068-175cbf00-e0c7-11eb-9ef9-5c4c0f2ce6f6.png)
+![A3 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions.png)
+![Group 54 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions1.png)
 
 
 
@@ -46,6 +46,7 @@ The user will be directed to the Assignment page as seen below. The table is a f
 5. Assigned Inspector Column: Assigned Inspector's first name and last name
 
 6. Department Column: Inspection's Department
+
 </section>
 
 <section id="actions-from-columns" markdown="1">
@@ -57,9 +58,9 @@ The user will be directed to the Assignment page as seen below. The table is a f
 ### Map
 By clicking the location icon on the list, the users will be directed to the assignment location on the map
 
-![A6 -screenshot](https://user-images.githubusercontent.com/81990744/119037584-2a34fc00-b980-11eb-8bd8-68183add4faf.png)
+![A6 -screenshot](../images/dispatch-portal/dp-assignment-page/map.png)
 
-![A7 -screenshot](https://user-images.githubusercontent.com/81990744/119037595-2dc88300-b980-11eb-8ac4-32081320e1b2.png)
+![A7 -screenshot](../images/dispatch-portal/dp-assignment-page/map1.png)
 
 </section>
 
@@ -68,9 +69,9 @@ By clicking the location icon on the list, the users will be directed to the ass
 ### Detailed Assignment Page
 Clicking on the arrow icon on the list, the users will be directed to Assignment Details page
 
-![A8](https://user-images.githubusercontent.com/81990744/119037910-8a2ba280-b980-11eb-8a07-10bf47a2d9bb.png)
+![A8](../images/dispatch-portal/dp-assignment-page/detailed-assignment-page.png)
 
-![A9](https://user-images.githubusercontent.com/81990744/119037927-8e57c000-b980-11eb-910b-e9eb10377e39.png)
+![A9](../images/dispatch-portal/dp-assignment-page/detailed-assignment-page1.png)
 
 </section>
 </section>
@@ -80,19 +81,19 @@ Clicking on the arrow icon on the list, the users will be directed to Assignment
 ## Sorting
 Users could navigate to different assignment pages by selecting the page numbers
 
-![A10 -screenshot](https://user-images.githubusercontent.com/81990744/119038023-a92a3480-b980-11eb-802f-bfd8a446b9d3.png)
+![A10 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting.png)
 
 The table of Inspections is sortable by each column by clicking on each sepecific column to either sort it oldest to the newest or newest to the oldest. For example, to sort the table by Inspection's number, Click the Inspection column, as seen below.
 
-![A11 -screenshot](https://user-images.githubusercontent.com/81990744/119038250-e2fb3b00-b980-11eb-9965-3a7dafd4c65d.png)
+![A11 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting1.png)
 
-![A12 -screenshot](https://user-images.githubusercontent.com/81990744/119038261-e5f62b80-b980-11eb-95fe-a703bb4dd457.png)
+![A12 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting2.png))
 
 ... or by Date/Time and so forth for each column
 
-![A13 -screenshot](https://user-images.githubusercontent.com/81990744/119038331-00c8a000-b981-11eb-89ec-88563000d7d9.png)
+![A13 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting3.png)
 
-![A14 -screenshot](https://user-images.githubusercontent.com/81990744/119038345-045c2700-b981-11eb-9d56-6859ac4acc16.png)
+![A14 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting4.png)
 </section>
 
 <section id="filter" markdown="1">
@@ -100,8 +101,8 @@ The table of Inspections is sortable by each column by clicking on each sepecifi
 ## Filter
 Clicking on the Filters button will display the Assignment filters menu, which allows the user to filter by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address
 
-![A15 -screenshot](https://user-images.githubusercontent.com/81990744/119038606-4d13e000-b981-11eb-960b-9bb1e1f52acb.png)
-![Group 53 -screenshot](https://user-images.githubusercontent.com/84864458/125124939-e3819980-e0c6-11eb-8d9b-6e23120efb3e.png)
+![A15 -screenshot](../images/dispatch-portal/dp-assignment-page/filter.png)
+![Group 53 -screenshot](../images/dispatch-portal/dp-assignment-page/filter1.png)
 
 1. The emergency filter will allow the user to display only emergency assignments.
 
