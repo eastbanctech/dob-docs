@@ -16,7 +16,7 @@ nav_order: 2
 <section id="map-legend" markdown="1">
 
 ## Map Legend
-After logging in, the default view is the Dashboard with a map that displays the Inspectors' real-time location and the Assignments/Inspections on the map for TODAY only with status Assigned (more on statuses in section [Assignments Filters](#-Assignments-Filter)).
+After logging in, the default view is the Dashboard with a map that displays the Inspectors' real-time location and the Assignments/Inspections on the map for TODAY only with status Assigned (more on statuses in section [Assignments Filters](#Assignments-Filter)).
 
 ![db1 -screenshot](../images/dispatch-portal/dp-dashboard/dashboard.png)
 
