@@ -1,7 +1,7 @@
 ---
 layout: page
 tags: user guide portal
-title: Login to Inspections Portal
+title: Login to Dispatch Portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
