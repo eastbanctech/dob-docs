@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Inspections Portal
+title: Dispatch Portal
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
