@@ -13,7 +13,7 @@ platform: false
 
 <br>
 
-<img src="images/DCRA-Logo-1.png" style="border:none; width=100%">
+<img src="images/home/DCRA-Logo-1.png" style="border:none; width=100%">
 
 DCRA is the District of Columbia's regulatory agency. DCRA's mission is to protect the health, safety, economic interests, and quality of life of residents, businesses, and visitors in the District of Columbia by issuing licenses and permits, conducting inspections, enforcing building, housing, and safety codes, regulating land use and development, and providing consumer education and advocacy services. 
 
