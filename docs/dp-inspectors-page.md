@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Viewing Inspectors Page
-tags: user guide portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspections Portal
+parent: Dispatch Portal
 nav_order: 3
 ---
 

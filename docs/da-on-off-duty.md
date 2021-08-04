@@ -1,12 +1,11 @@
 ---
 layout: page
 title: On Duty and Off Duty
-tags: user guide
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspector App
+parent: Dispatch App
 nav_order: 3
 ---
 
@@ -14,7 +13,7 @@ nav_order: 3
 
 
 # On Duty and Off Duty
-Users have the ability to use the Inspector app while both on duty and off duty.
+Users have the ability to use the Dispatch app while both on duty and off duty.
 
 <section id="on-duty" markdown="1">
 

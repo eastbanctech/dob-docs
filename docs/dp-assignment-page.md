@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Viewing Assignments Page
-tags: user guide portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspections Portal
+parent: Dispatch Portal
 nav_order: 5
 ---
 <section id="Viewing-assignments-page" markdown="1">

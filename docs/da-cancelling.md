@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Canceling an Assignment
-tags: user guide
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspector App
+parent: Dispatch App
 nav_order: 7
 ---
 
@@ -14,7 +13,7 @@ nav_order: 7
 
 # Canceling Assignments
 
-Users have the ability to cancel assignments through the Inspector's App.
+Users have the ability to cancel assignments through the Dispatch App.
 
 <section id="canceling-current-assignment" markdown="1">
 

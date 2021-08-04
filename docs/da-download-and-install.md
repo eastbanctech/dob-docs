@@ -1,12 +1,11 @@
 ---
 layout: page
 title: How to Install the Dispatch App
-tags: user guide
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspector App
+parent: Dispatch App
 nav_order: 1
 ---
 
