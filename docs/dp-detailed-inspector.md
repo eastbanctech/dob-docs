@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Detailed Inspector Page
-tags: user guide portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspections Portal
+parent: Dispatch Portal
 nav_order: 4
 ---
 
@@ -14,7 +13,7 @@ nav_order: 4
 
 # Detailed Inspector Page
 
-User's can view detailed information about individual inspectors through the Inspections Portal.
+User's can view detailed information about individual inspectors through the Dispatch Portal.
 
 <section id="field-descriptions" markdown="1">
 

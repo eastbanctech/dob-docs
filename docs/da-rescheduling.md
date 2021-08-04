@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Rescheduling Assignments
-tags: user guide
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspector App
+parent: Dispatch App
 nav_order: 6
 ---
 
@@ -14,7 +13,7 @@ nav_order: 6
 
 # Rescheduling Assignments
 
-Users can reschedule assignments directly from the Inspector's App.
+Users can reschedule assignments directly from the Dispatch App.
 
 <section id="rescheduling-current-assignment" markdown="1">
 

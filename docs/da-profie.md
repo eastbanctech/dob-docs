@@ -1,12 +1,11 @@
 ---
 layout: page
 title: View Profile and About Page
-tags: user guide
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspector App
+parent: Dispatch App
 nav_order: 11
 ---
 <section id="view-profile-and-about-page" markdown="1">

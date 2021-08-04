@@ -1,19 +1,18 @@
 ---
 layout: page
 title: Add and Delete an Absence
-tags: user guide
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Inspector App
+parent: Dispatch App
 nav_order: 10
 ---
 
 <section id="add-and-delete-an-absence" markdown="1">
 # Add and Delete an Absence
 
-Users have the ability to add or delete absences through the Inspector's App.
+Users have the ability to add or delete absences through the Dispatch App.
 
 <section id="adding-an-absence" markdown="1">
 
