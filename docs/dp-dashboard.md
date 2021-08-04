@@ -18,14 +18,14 @@ nav_order: 2
 ## Map Legend
 After logging in, the default view is the Dashboard with a map that displays the Inspectors' real-time location and the Assignments/Inspections on the map for TODAY only with status Assigned (more on statuses in section [Assignments Filters](#-Assignments-Filter)).
 
-![db1 -screenshot](image/ip-dashboard/dashboard.png)
+![db1 -screenshot](images/dispatch-portal/dp-dashboard/dashboard.png)
 
 <section id="boundaries" markdown="1">
 
 ### Boundaries
 The map displays the DCRA boundaries on the map.
 
-![db1 -screenshot](image/ip-dashboard/dashboard.png)
+![db1 -screenshot](images/dispatch-portal/dp-dashboard/dashboard.png)
 
 </section>
 
@@ -34,13 +34,13 @@ The map displays the DCRA boundaries on the map.
 ### Groupings
 When there're two or more inpsections in a certain location, the map displays how many of them are grouped together. Zooming in on the map to that location separates that grouping into individual inspections or assignment groupings as seen on the second screenshot
 
-![db2 -screenshot](image/ip-dashboard/groupings.png)
+![db2 -screenshot](images/dispatch-portal/dp-dashboard/groupings.png)
 
-![db34](image/ip-dashboard/groupings1.png)
+![db34](images/dispatch-portal/dp-dashboard/groupings1.png)
 
 When there're two or more Inspectors in a certain location, the map displays how many of them are grouped together. Zooming in on the map separates that grouping into individual inspectors. 
 
-![db3 -screenshot](image/ip-dashboard/groupings2.png)
+![db3 -screenshot](images/dispatch-portal/dp-dashboard/groupings2.png)
 
 </section>
 </section>
@@ -52,13 +52,13 @@ Clicking on an Inspection number on the map displays a popup called the Assignme
 
 Clicking through on the Inspection number on the card navigates to Assignment Details page.
 
-![db4 -screenshot](image/ip-dashboard/assignment.png)
+![db4 -screenshot](images/dispatch-portal/dp-dashboard/assignment.png)
 
-![db5 -screenshot](image/ip-dashboard/assignment1.png)
+![db5 -screenshot](images/dispatch-portal/dp-dashboard/assignment1.png)
 
 Clicking on Assignment groupings on the map displays a list of Inspection Numbers with their status and clicking on an Inspection number from the list displays Assignment card popup.
 
-![db31 -screenshot](image/ip-dashboard/assignment2.png)
+![db31 -screenshot](images/dispatch-portal/dp-dashboard/assignment2.png)
 
 </section>
 
@@ -67,15 +67,15 @@ Clicking on Assignment groupings on the map displays a list of Inspection Number
 ## Inspector Card
 Clicking on the Inspector icon on the map displays the Inspector card with the following information: Inspector name, Inspector status, Schedule and Details
 
-![db6 -screenshot](image/ip-dashboard/inspector-card.png)
+![db6 -screenshot](images/dispatch-portal/dp-dashboard/inspector-card.png)
 
-![db15 -screenshot](image/ip-dashboard/inspector-card1.png)
+![db15 -screenshot](images/dispatch-portal/dp-dashboard/inspector-card1.png)
 
 Clicking through on the Inspector Name, Initials, or Details button on the card navigates to Inspector Details page, as seen in the 2nd screenshot. 
 
-![db16 -screenshot](image/ip-dashboard/inspector-card2.png)
+![db16 -screenshot](images/dispatch-portal/dp-dashboard/inspector-card2.png)
 
-![db8 -screenshot](image/ip-dashboard/inspector-card3.png)
+![db8 -screenshot](images/dispatch-portal/dp-dashboard/inspector-card3.png)
 </section>
 
 <section id="filters" markdown="1">
@@ -83,7 +83,7 @@ Clicking through on the Inspector Name, Initials, or Details button on the card 
 ## Filters
 To filter out specific Assignments or Inspectors, click on the filter icon.
 
-![db9 -screenshot](image/ip-dashboard/filters.png)
+![db9 -screenshot](images/dispatch-portal/dp-dashboard/filters.png)
 
 <section id="inspectors-filter" markdown="1">
 
@@ -92,7 +92,7 @@ Clicking on the filter icon displays the filters menu with RESET TAB and RESET A
    * RESET TAB button: Clicking Reset TAB button will resets all fields to default in the current filter menu
    * RESET ALL button: Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
 
-![db11 -screenshot](image/ip-dashboard/inspectors-filter.png)
+![db11 -screenshot](images/dispatch-portal/dp-dashboard/inspectors-filter.png)
 
 1. To filter for a specific Inspector by name, click on Inspector name and begin typing in the Inspector's name (first or last), and select one of the auto-complete matches from    the list.
 
@@ -114,7 +114,7 @@ Clicking on the filter icon displays the filters menu with RESET TAB and RESET A
 ### Assignments Filter
 Selecting Assignments from the filter menu bar displays the assignment filter.
 
-![Group 56 -screenshot](image/ip-dashboard/assignments-filter.png)
+![Group 56 -screenshot](images/dispatch-portal/dp-dashboard/assignments-filter.png)
 
 1. To view only emergency assignments on the map, select the Emergency Inspection checkbox.
 
@@ -147,7 +147,7 @@ Selecting Clusters from the filter menu will display the Clusters filter
 
 Selecting a single, more than one, or All button/s from the filter menu displays the Inspections only in the selected cluster/s.
 
-![db14 -screenshot](image/ip-dashboard/clusters-filter.png)
+![db14 -screenshot](images/dispatch-portal/dp-dashboard/clusters-filter.png)
 
 </section>
 </section>
