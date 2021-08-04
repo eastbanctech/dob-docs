@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Viewing Accela Error Log Page
-tags: user guide portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
@@ -14,7 +13,7 @@ nav_order: 7
 
 # Viewing Accela Error Log Page
 
-Users can use the Inspections Portal to view the Accela Error Log.
+Users can use the Dispatch Portal to view the Accela Error Log.
 
 <section id="navigate-to-accela-error-log" markdown="1">
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Overview of the Dashboard
-tags: user guide portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies

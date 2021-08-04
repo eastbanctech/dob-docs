@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Viewing Inspectors Page
-tags: user guide portal
 categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
