@@ -14,16 +14,16 @@ nav_order: 11
 
 After logging in, select Settings
 
-![Group 29 -screenshot](https://user-images.githubusercontent.com/84864458/124956377-ec4e6e80-dfe5-11eb-8cb3-0a64c1159a54.png)
+![Group 29 -screenshot](../images/dispatch-app/da-profile/view-profile-and-about-page1.png)
 
 The Profile page will be displayed, including the Inspection Availability Hours
 
-![Group 31 -screenshot](https://user-images.githubusercontent.com/84864458/124956447-012b0200-dfe6-11eb-9ead-3c57156b3842.png)
+![Group 31 -screenshot](../images/dispatch-app/da-profile/view-profile-and-about-page2.png)
 
 Select About to see the information about the Inspector App
 
-![Group 30 -screenshot](https://user-images.githubusercontent.com/84864458/124956415-f8d2c700-dfe5-11eb-968a-3cd225675039.png)
+![Group 30 -screenshot](../images/dispatch-app/da-profile/view-profile-and-about-page3.png)
 
-![Group 32 -screenshot](https://user-images.githubusercontent.com/84864458/124956486-0a1bd380-dfe6-11eb-956d-27dd30fcc08c.png)
+![Group 32 -screenshot](../images/dispatch-app/da-profile/view-profile-and-about-page4.png)
 
 </section>

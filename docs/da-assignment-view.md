@@ -22,11 +22,11 @@ Users can view details of an assignment through the Dispatch App.
 
 Click on Assignment tab above the Schedule
 
-![a6 -screenshot](https://user-images.githubusercontent.com/81990744/115767443-27da8480-a377-11eb-9af5-bb8b4c8603dd.png)
+![a6 -screenshot](../images/dispatch-app/da-assignment-view/view-current-assignment1.png)
 
 This page is the Current Assignment page that the Inspector can work on
 
-![a2 -screenshot](https://user-images.githubusercontent.com/81990744/115767464-2f019280-a377-11eb-8c86-b245b82a8569.png)
+![a2 -screenshot](../images/dispatch-app/da-assignment-view/view-current-assignment2.png)
 </section>
 
 <section id="view-all-assignments" markdown="1">
@@ -35,15 +35,15 @@ This page is the Current Assignment page that the Inspector can work on
 
 Click on an Assignment from the Schedule
 
-![a5 -screenshot](https://user-images.githubusercontent.com/81990744/115767494-36c13700-a377-11eb-8c77-80c59b2c405c.png)
+![a5 -screenshot](../images/dispatch-app/da-assignment-view/view-all-assignments1.png)
 
 Then click on the Enlarge icon
 
-![a8 -screenshot](https://user-images.githubusercontent.com/81990744/115767535-43de2600-a377-11eb-9036-205952d594ff.png)
+![a8 -screenshot](../images/dispatch-app/da-assignment-view/view-all-assignments2.png)
 
 This page is the Detailed Assignment page and although it provides all the details, the Inspector cannot work on it because it's not the Current Assignment. The Inspector, however, can Request to Reschedule or Cancel the Assignment from this page
 
-![a9 -screenshot](https://user-images.githubusercontent.com/81990744/115767564-493b7080-a377-11eb-8c99-41d981d5f474.png)
+![a9 -screenshot](../images/dispatch-app/da-assignment-view/view-all-assignments3.png)
 
 </section>
 </section>
