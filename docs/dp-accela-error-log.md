@@ -20,11 +20,11 @@ Users can use the Dispatch Portal to view the Accela Error Log.
 ## Navigate to Accela Error Log
 To navigate to the Accela Error log page, click on Accela Error Log from the side navigation panel.
 
-![AC1 -screenshot](images/dispatch-portal/dp-acella-error-log/nav-to-acella-error-log.png)
+![AC1 -screenshot](../images/dispatch-portal/dp-accela-error-log/nav-to-accela-error-log.png)
 
  The user will be directed to the Accela Error Log page as seen below. The table is full of inspection submitted in Accela which doesn't meet parameters for auto-scheduling.
  
-![acc2 -screenshot](images/dispatch-portal/dp-acella-error-log/nav-to-acella-error-log1.png)
+![acc2 -screenshot](../images/dispatch-portal/dp-accela-error-log/nav-to-accela-error-log1.png)
 
 </section>
 
@@ -32,7 +32,7 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 ## Column Description
 
-![acc10 -screenshot](images/dispatch-portal/dp-acella-error-log/column-description.png)
+![acc10 -screenshot](../images/dispatch-portal/dp-accela-error-log/column-description.png)
 
 
 1. Record Number Column: Record/CAP number listed
@@ -49,9 +49,9 @@ To navigate to the Accela Error log page, click on Accela Error Log from the sid
 
 Clicking on the arrow icon on the list, the user will be directed to the Accela Error Log Details page as seen on the second screenshot.
 
-![acc3 -screenshot](images/dispatch-portal/dp-acella-error-log/detailed-error-log.png)
+![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log.png)
 
-![acc4 -screenshot](images/dispatch-portal/dp-acella-error-log/detailed-error-log1.png)
+![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png)
 
 </section>
 
@@ -61,19 +61,19 @@ Clicking on the arrow icon on the list, the user will be directed to the Accela 
 
 Users could navigate to different Accela Error Log pages by selecting the page numbers.
 
-![acc5 -screenshot](images/dispatch-portal/dp-acella-error-log/sorting.png)
+![acc5 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting.png)
 
 The table of Accela Error Log is sortable by each column by clicking on each specific column to either sort it oldest to the newest or newest to the oldest. For example, to sort the table by Record's number, click the Record Column, as seen below.
 
-![acc6 -screenshot](images/dispatch-portal/dp-acella-error-log/sorting1.png)
+![acc6 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting1.png)
 
-![acc7 -screenshot](images/dispatch-portal/dp-acella-error-log/sorting2.png)
+![acc7 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting2.png)
 
 ... or by Date/Time and so forth for each column.
 
-![acc8 -screenshot](images/dispatch-portal/dp-acella-error-log/sorting3.png)
+![acc8 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting3.png)
 
-![acc9 -screenshot](images/dispatch-portal/dp-acella-error-log/sorting4.png)
+![acc9 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting4.png)
 
 
 </section>

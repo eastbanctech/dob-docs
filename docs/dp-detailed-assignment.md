@@ -21,11 +21,11 @@ User's can view detailed information about individual assignments through the Di
 
 Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
 
-![A8 -screenshot](images/dispatch-portal/dp-detailed-assignment/field-descriptions.png)
+![A8 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions.png)
 
 Assignment Details page will display the following information: Inspection Number, Inspection Status, Inspection Type, Inspection Date/Time, Inspection Address, Inspector Name, Department, Inspction cluster, Created On, Created By, Inspection Contact Name, Email and Cancel Assignment and Request Reschedule Assignment buttons
 
-![A9 -screenshot](images/dispatch-portal/dp-detailed-assignment/field-descriptions1.png)
+![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions1.png)
 
 </section>
 
@@ -38,7 +38,7 @@ Assignment Details page will display the following information: Inspection Numbe
 ### On Map
 Clicking ON Map will allow users to locate the assignment on the map
 
-![A19 -screenshot](images/dispatch-portal/dp-detailed-assignment/on-map.png)
+![A19 -screenshot](../images/dispatch-portal/dp-detailed-assignment/on-map.png)
 
 </section>
 
@@ -47,17 +47,17 @@ Clicking ON Map will allow users to locate the assignment on the map
 ### Request to Reschedule
 Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
 
-![A9 -screenshot](images/dispatch-portal/dp-detailed-assignment/reschedule.png)
+![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule.png)
 
 Emergency assignments can be reassigned to specific users
 
-![Group 57 -screenshot](images/dispatch-portal/dp-detailed-assignment/reschedule1.png)
+![Group 57 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule1.png)
 
-![Group 58 -screenshot](images/dispatch-portal/dp-detailed-assignment/reschedule2.png)
+![Group 58 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule2.png)
 
-![Group 59 -screenshot](images/dispatch-portal/dp-detailed-assignment/reschedule3.png)
+![Group 59 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule3.png)
 
-![Group 60 -screenshot](images/dispatch-portal/dp-detailed-assignment/reschedule4.png)
+![Group 60 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule4.png)
 </section>
 
 <section id="cancel-assignment" markdown="1">
@@ -65,7 +65,7 @@ Emergency assignments can be reassigned to specific users
 ### Cancel an Assignment
 Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
-![A9 -screenshot](images/dispatch-portal/dp-detailed-assignment/cancel-assignment.png)
+![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/cancel-assignment.png)
 
 </section>
 
@@ -76,11 +76,11 @@ Emergency Assignments are disignated by a red [!] icon.
 
 **Assignments Table**
 
-![Screen Shot 2021-07-09 at 2 11 50 PM -screenshot](images/dispatch-portal/dp-detailed-assignment/assignments-table.png)
+![Screen Shot 2021-07-09 at 2 11 50 PM -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignments-table.png)
 
 **Assignment Details**
 
-![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](images/dispatch-portal/dp-detailed-assignment/assignment-details.png)
+![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignment-details.png)
 
 </section>
 </section>
