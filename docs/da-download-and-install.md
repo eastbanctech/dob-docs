@@ -23,7 +23,7 @@ Step-2 ---Find “DCRA Dispatch” and click Install
 
 Step-3 ---After install, login to the app using your Access DC account. If you receive an error message, reach out to your manager to ensure you're correctly provisioned. 
 
-![IMG_0CD1294A1B5A-1 -screenshot](../images/dispatch-app/da-download-and-install/how-to-install-the-dispatch-app3.png)
+![IMG_0CD1294A1B5A-1 -screenshot](../images/dispatch-app/da-download-and-install/how-to-install-the-dispatch-app3.jpeg)
 
 
 </section>
