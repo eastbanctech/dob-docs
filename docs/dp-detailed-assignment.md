@@ -82,6 +82,13 @@ Emergency Assignments are disignated by a red [!] icon.
 
 ![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignment-details.png)
 
+### Completed Assignments
+When an assignment is completed additional details are added to the Assignment details page and users are no longer allowed to cancel or reschedule the assignments. 
+
+Completed assignments display the result of the inspection. The results are displayed under the column labled Accela Data and the field label Accela Resulted Status.
+
+![Completed Assignment -screenshot](../images/dispatch-portal/dp-detailed-assignment/completed-assignment.png)
+
 </section>
 </section>
 </section>
