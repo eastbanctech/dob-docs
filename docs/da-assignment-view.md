@@ -1,7 +1,6 @@
 ---
 layout: page
 title: View Details of Assignments
-categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

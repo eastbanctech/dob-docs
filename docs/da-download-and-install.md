@@ -1,7 +1,6 @@
 ---
 layout: page
 title: How to Install the Dispatch App
-categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

@@ -6,7 +6,6 @@ name: Eastbanc Technologies
 email: contact@eastbanctech.com
 nav_order: 1
 has_toc: false
-platform: false
 ---
 
 # DCRA Dispatch User Guide

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Add and Delete an Absence
-categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: View Profile and About Page
-categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
