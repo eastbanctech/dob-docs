@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Dispatch App Login and Logout
-categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
