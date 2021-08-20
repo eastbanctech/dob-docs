@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Viewing Inspectors Page
-categories: first release
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
