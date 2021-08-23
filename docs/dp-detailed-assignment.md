@@ -88,8 +88,6 @@ Completed assignments display the result of the inspection in Accela. The result
 
 ![Completed Assignment -screenshot](../images/dispatch-portal/dp-detailed-assignment/completed-assignment.png)
 
-If an inspection is resulted 
-
 </section>
 </section>
 </section>
