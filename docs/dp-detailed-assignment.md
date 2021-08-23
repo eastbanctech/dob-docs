@@ -90,7 +90,7 @@ Completed assignments display the result of the inspection in Accela. The result
 
 Additionally, if a completed assignment requires a follow-up inspection the information will be provided via the Accela Data column.  The Accela Data column will either display the date the follow-up will be created or a link to the follow-up inspection. 
 
-![Completed Assignment Follow Up -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignment-details-follow-up-inspection-.png)
+![Completed Assignment Follow Up -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignment-details-follow-up-inspection.png)
 
 </section>
 </section>
