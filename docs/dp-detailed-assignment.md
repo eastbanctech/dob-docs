@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detailed Assignment Page
+title: Detailed Assignment Page <sup>NEW</sup>
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
