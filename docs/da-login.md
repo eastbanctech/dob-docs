@@ -36,13 +36,13 @@ Then click on Go To Settings button.
 
 Find the DCRA Dispatch application in the Settings menu bar; select the Location option.
 
-![Group 37 -screenshot](../images/dispatch-app/da-login/first-login3.png)
+![Group 37 -screenshot](../images/dispatch-app/da-login/ipad-settings1.png)
 
 Change the ALLOW LOCATIONS ACCESS setting to Always; a new option will become available labeled Precise Location, toggle this to on.
 
-![Group 38 -screenshot](../images/dispatch-app/da-login/first-login4.png)
-![Group 39 -screenshot](../images/dispatch-app/da-login/first-login5.png)
-![Group 40 -screenshot](../images/dispatch-app/da-login/first-login6.png)
+![Group 38 -screenshot](../images/dispatch-app/da-login/ipad-settings2.png)
+![Group 39 -screenshot](../images/dispatch-app/da-login/ipad-settings3.png)
+![Group 40 -screenshot](../images/dispatch-app/da-login/ipad-settings4.png)
 
 Return to the application upon completing the above steps.
 
