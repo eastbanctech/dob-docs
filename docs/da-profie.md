@@ -1,6 +1,6 @@
 ---
 layout: page
-title: View Profile and About Page
+title: View Profile and About Page <sup>UPDATED</sup>
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -9,7 +9,7 @@ nav_order: 11
 ---
 <section id="view-profile-and-about-page" markdown="1">
 
-# View Profile and About Page
+# View Profile and About Page <sup>UPDATED</sup>
 
 After logging in, select Settings
 
