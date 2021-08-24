@@ -1,6 +1,6 @@
 ---
 layout: page
-title: View Details of Assignments
+title: View Details of Assignments <sup>UPDATED</sup>
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -30,7 +30,7 @@ This page is the Current Assignment page that the Inspector can work on
 
 <section id="view-all-assignments" markdown="1">
 
-## View all Assignments
+## View all Assignments <sup>UPDATED</sup>
 
 Click on an Assignment from the Schedule
 
@@ -43,6 +43,11 @@ Then click on the Enlarge icon
 This page is the Detailed Assignment page and although it provides all the details, the Inspector cannot work on it because it's not the Current Assignment. The Inspector, however, can Request to Reschedule or Cancel the Assignment from this page
 
 ![a9 -screenshot](../images/dispatch-app/da-assignment-view/view-all-assignments3.png)
+
+Once an assignment is completed, the system will add additional details regarding the status from Accela. 
+
+![Completed Assignment -screenshot](../images/dispatch-app/da-assignment-view/view-completed-assignment.jpg)
+
 
 </section>
 </section>
