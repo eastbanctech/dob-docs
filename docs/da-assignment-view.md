@@ -44,6 +44,11 @@ This page is the Detailed Assignment page and although it provides all the detai
 
 ![a9 -screenshot](../images/dispatch-app/da-assignment-view/view-all-assignments3.png)
 
+Once an assignment is completed, the system will add additional details regarding the status from Accela. 
+
+![Completed Assignment -screenshot](../images/dispatch-app/da-assignment-view/view-completed-assignment.jpg)
+
+
 </section>
 </section>
 
