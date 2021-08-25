@@ -88,11 +88,6 @@ The table of Inspections is sortable by each column by clicking on each sepecifi
 
 ![A12 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting2.png))
 
-... or by Date/Time and so forth for each column
-
-![A13 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting3.png)
-
-![A14 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting4.png)
 </section>
 
 <section id="filter" markdown="1">

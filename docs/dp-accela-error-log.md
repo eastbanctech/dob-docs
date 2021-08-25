@@ -56,31 +56,5 @@ Clicking on the arrow icon on the list, the user will be directed to the Accela 
 
 <section id="sorting" markdown="1">
 
-## Sorting
-
-Users could navigate to different Accela Error Log pages by selecting the page numbers.
-
-![acc5 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting.png)
-
-The table of Accela Error Log is sortable by each column by clicking on each specific column to either sort it oldest to the newest or newest to the oldest. For example, to sort the table by Record's number, click the Record Column, as seen below.
-
-![acc6 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting1.png)
-
-![acc7 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting2.png)
-
-... or by Date/Time and so forth for each column.
-
-![acc8 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting3.png)
-
-![acc9 -screenshot](../images/dispatch-portal/dp-accela-error-log/sorting4.png)
-
-
 </section>
 </section>
-
-
-
-
-
-
-

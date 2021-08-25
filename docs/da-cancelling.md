@@ -30,8 +30,6 @@ Enter the reason for cancellation (optional)
 
 ![c11 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment3.png)
 
-![c12 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment4.png)
-
 Then click the Yes button
 
 ![c5 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment5.png)

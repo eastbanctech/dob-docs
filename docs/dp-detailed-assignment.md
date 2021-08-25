@@ -66,6 +66,10 @@ Clicking on Cancel Assignment button and confirming the action on the popup mess
 
 ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/cancel-assignment.png)
 
+![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/cancel-assignment1.png)
+
+![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/cancel-assignment2.png)
+
 </section>
 
 <section id="emergency-assignments" markdown="1">
