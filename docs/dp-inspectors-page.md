@@ -52,14 +52,6 @@ The table of Inspectors is sortable by each column by clicking on each specific 
 
 ![I6 -screenshot](../images/dispatch-portal/dp-inspectors-page/sorting1.png)
 
-![I7 -screenshot](../images/dispatch-portal/dp-inspectors-page/sorting2.png)
-
-... or by Inspector's status and so forth for each column.
-
-![I9 -screenshot](../images/dispatch-portal/dp-inspectors-page/sorting3.png)
-
-![I10 -screenshot](../images/dispatch-portal/dp-inspectors-page/sorting4.png)
-
 </section>
 
 <section id="actions-from-columns" markdown="1">
