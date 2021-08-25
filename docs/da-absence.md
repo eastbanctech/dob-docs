@@ -65,5 +65,9 @@ Go to the Schedule and click on the "Absence" that is visible on the Schedule. T
 ![IMG_0332 -screenshot](../images/dispatch-app/da-absence/deleting-an-absence1.png)
 
 ![IMG_0333 -screenshot](../images/dispatch-app/da-absence/deleting-an-absence2.png)
+
+## Holidays
+Recognized holidays will restrict assignments from being assigned to inspectors, and cannot be removed from the schedule. 
+
 </section>
 </section>
