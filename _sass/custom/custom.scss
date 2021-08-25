@@ -196,3 +196,19 @@ body::-webkit-scrollbar-track {
     display:block;
   }
 }
+
+.breadcrumb-nav sup {
+  display:none;
+}
+
+sup.updated {
+  color:blue;
+  font-size:55%;
+  top: -0.55em;
+}
+
+sup.new {
+  color:green;
+  font-size:55%;
+  top: -0.55em;
+}
