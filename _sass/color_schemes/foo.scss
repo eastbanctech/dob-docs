@@ -11,5 +11,10 @@ $link-color: #db412d;
 // change color of headings
 $body-heading-color: #a12327;
 
-
-
+$media-queries: (
+  xs: 320px,
+  sm: 500px,
+  md: $nav-width + 650px,
+  lg: $nav-width + $toc-width + 650px,
+  xl: 1500px,
+) ;
