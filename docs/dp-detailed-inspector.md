@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detailed Inspector Page <sup>UPDATED</sup>
+title: Detailed Inspector Page <sup class="updated">UPDATED</sup>
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -14,9 +14,9 @@ nav_order: 4
 
 User's can view detailed information about individual inspectors through the Dispatch Portal.
 
-<section id="field-descriptions" markdown="1">
+<section id="field-descriptions-updated" markdown="1">
 
-## Field Descriptions <sup>UPDATED</sup>
+## Field Descriptions <sup class="updated">UPDATED</sup>
 
 Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
@@ -42,9 +42,9 @@ Currently Inspection Availability Hours are managed by the system administrators
 
 </section>
 
-<section id="inspector-schedules" markdown="1">
+<section id="inspector-schedules-updated" markdown="1">
  
-## Inspector Schedules <sup>UPDATED</sup>
+## Inspector Schedules <sup class="updated">UPDATED</sup>
 
 An inspector's schedule can be accessed 3 different ways.
 
