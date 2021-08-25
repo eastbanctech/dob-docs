@@ -17,9 +17,9 @@ nav_order: 2
 ## Dispatch App Login
 To use the Dispatch app, the user must login with a valid Access DC Username and Password.
 
-![Group 33 -screenshot](../images/dispatch-app/da-login/dispatch-app-login1.jpg)
+![Group 33 -screenshot](../images/dispatch-app/da-login/dispatch-app-login1.png)
 
-![Group 34 -screenshot](../images/dispatch-app/da-login/dispatch-app-login2.jpg)
+![Group 34 -screenshot](../images/dispatch-app/da-login/dispatch-app-login2.png)
 
 <section id="first-login" markdown="1">
 
