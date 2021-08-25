@@ -12,16 +12,16 @@ nav_order: 3
 
 
 # On Duty and Off Duty
-Users have the ability to use the Dispatch app while both on duty and off duty.
+Users have the ability to use the Dispatch app while both on duty and off duty. 
 
 <section id="on-duty" markdown="1">
 
 ## On Duty
-Once the Inspector logs in, a popup message appears on the screen
+Once the Inspector logs in, a popup message appears on the screen.
 
 ![o1 -screenshot](../images/dispatch-app/da-on-off-duty/on-duty1.png)
 
-By selecting On Duty button, the app displays an active Schedule and current Assignment page
+By selecting On Duty button, the app displays an active Schedule and current Assignment page.
 
 ![010 -screenshot](../images/dispatch-app/da-on-off-duty/on-duty2.png)
 
