@@ -50,7 +50,7 @@ Once logged in, Inspectors will receive several popups requesting permissions an
 
 ![o1 -screenshot](../images/dispatch-app/da-login/first-login7.png)
 
-Once clicking On Duty button, Inspectors see their Schedule for the week as seen below.
+Once clicking On Duty button, Inspectors will see their Schedule for the week as seen below.
 
 ![Resche -screenshot](../images/dispatch-app/da-login/first-login8.png)
 
