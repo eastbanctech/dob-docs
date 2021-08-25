@@ -197,16 +197,19 @@ body::-webkit-scrollbar-track {
   }
 }
 
+// superscripts in breadcrumb navigation
 .breadcrumb-nav sup {
   display:none;
 }
 
+// "updated" superscripts
 sup.updated {
   color:blue;
   font-size:55%;
   top: -0.55em;
 }
 
+// "new" superscripts
 sup.new {
   color:green;
   font-size:55%;
