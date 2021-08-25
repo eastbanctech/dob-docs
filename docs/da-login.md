@@ -15,7 +15,9 @@ nav_order: 2
 <section id="dispatch-app-login" markdown="1">
 
 ## Dispatch App Login
-To use the Dispatch app, the user must login with a valid Access DC Username and Password.
+To use the Dispatch app, the user must login with a valid Access DC Username and Password. 
+
+To resolve any login issues with the Dispatch app, inspectors should contact their manager or technical support. 
 
 ![Group 33 -screenshot](../images/dispatch-app/da-login/dispatch-app-login1.png)
 
@@ -50,7 +52,7 @@ Once logged in, Inspectors will receive several popups requesting permissions an
 
 ![o1 -screenshot](../images/dispatch-app/da-login/first-login7.png)
 
-Once clicking On Duty button, Inspectors see their Schedule for the week as seen below.
+Once clicking On Duty button, Inspectors will see their Schedule for the week as seen below.
 
 ![Resche -screenshot](../images/dispatch-app/da-login/first-login8.png)
 
