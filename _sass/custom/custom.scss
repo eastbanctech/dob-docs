@@ -183,6 +183,13 @@ body::-webkit-scrollbar-track {
   border: 1px solid #000000;   
 }
 
+// all images
+img {
+  width: 570px;
+  margin-left:25px;
+  
+}
+
 // hidden platform specific images
 .hidden {
   display: none;
