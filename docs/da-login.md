@@ -17,7 +17,7 @@ nav_order: 2
 ## Dispatch App Login
 To use the Dispatch app, the user must login with a valid Access DC Username and Password. 
 
-To resolve any login issues with the Dispatch app, inspectors should contact their manager or technical support. 
+To resolve any login issues with the Dispatch app, Inspectors should contact their manager or technical support. 
 
 ![Group 33 -screenshot](../images/dispatch-app/da-login/dispatch-app-login1.png)
 
@@ -26,35 +26,29 @@ To resolve any login issues with the Dispatch app, inspectors should contact the
 <section id="first-login" markdown="1">
 
 ### First Login
-If this is the first login to the App, follow the steps below:
+If this is the first login to the Dispatch app, after entering the Email and Password, follow the steps below:
 
-Click on Allow button.
+1. Click Allow button to give permission to track the location of the device.
 
 ![Group 35 -screenshot](../images/dispatch-app/da-login/first-login1.png)
 
-Then click on Go To Settings button.
+2. Click Go To Settings button.
 
 ![Group 36 -screenshot](../images/dispatch-app/da-login/first-login2.png)
 
-Find the DCRA Dispatch application in the Settings menu bar; select the Location option.
+3. Find the DCRA Dispatch app in the Settings menu bar; select the Location option.
 
 ![Group 37 -screenshot](../images/dispatch-app/da-login/ipad-settings1.png)
 
-Change the ALLOW LOCATIONS ACCESS setting to Always; a new option will become available labeled Precise Location, toggle this to on.
+4. Change the ALLOW LOCATIONS ACCESS setting to Always; a new option will become available labeled Precise Location, toggle this to on.
 
 ![Group 38 -screenshot](../images/dispatch-app/da-login/ipad-settings2.png)
 ![Group 39 -screenshot](../images/dispatch-app/da-login/ipad-settings3.png)
 ![Group 40 -screenshot](../images/dispatch-app/da-login/ipad-settings4.png)
 
-Return to the application upon completing the above steps.
+5. Return to the application upon completing the above steps.
 
-Once logged in, Inspectors will receive several popups requesting permissions and indicator to begin work so that their location can be reported to DCRA.
-
-![o1 -screenshot](../images/dispatch-app/da-login/first-login7.png)
-
-Once clicking On Duty button, Inspectors will see their Schedule for the week as seen below.
-
-![Resche -screenshot](../images/dispatch-app/da-login/first-login8.png)
+6. Review [On and Off Duty functionality](https://dcra-dispatch-docs.terraiq.io/docs/da-on-off-duty.html)
 
 </section>
 
@@ -64,16 +58,17 @@ Once clicking On Duty button, Inspectors will see their Schedule for the week as
 
 ## Dispatch App Logout
 
-To logout click on the Settings icon.
+To logout:
+
+1. Click on the Settings icon.
 
 ![reshe1 -screenshot](../images/dispatch-app/da-login/dispatch-app-logout1.png)
 
-Then click on the Logout button.
+2. Click on the Logout button.
 
 ![P4 -screenshot](../images/dispatch-app/da-login/dispatch-app-logout2.png)
 
 After logging out, the App displays the login page.
 
-![log2 -screenshot](../images/dispatch-app/da-login/dispatch-app-logout3.png)
 </section>
 </section>
