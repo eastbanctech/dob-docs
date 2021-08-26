@@ -14,15 +14,14 @@ nav_order: 7
 
 The Dispatch Portal allows users to review assignment errors that occur between Accela and the Dispatch Portal.  
 
+* The system requires certain criteria to be met in order to create assignments for Inspectors.  If the assignment criteria is not met an error will be added to the log for review. When an error occurs the system is not able to auto-schedule an assignment. 
+
 <section id="navigate-to-accela-error-log" markdown="1">
 
 ## Navigate to Accela Error Log
 1. Click on Accela Error Log from the side navigation panel.
 
 ![AC1 -screenshot](../images/dispatch-portal/dp-accela-error-log/nav-to-accela-error-log.png)
-
-* The system requires certain criteria to be met in order to create assignments for Inspectors.  If the assignment criteria is not met an error will be added to the log for review. When an error occurs the system is not able to auto-schedule an assignment. 
-
 
 <section id="detailed-accela-error-log-page" markdown="1">
 
