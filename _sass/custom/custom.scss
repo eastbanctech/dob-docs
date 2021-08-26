@@ -185,9 +185,24 @@ body::-webkit-scrollbar-track {
 
 // all images
 img {
-  width: 630px;
-  margin-left:22px;
-  
+  @include mq(sm) {
+    width: 630px;
+    margin-left:10px;
+  }
+  @include mq(md) {
+    margin-left:20px;
+  }
+}
+
+// images that should be displayed bigger
+img.big-size {
+  margin-left:0;
+  width: 800px;
+}
+
+// images without borders
+img.no-border {
+  border:none;
 }
 
 // hidden platform specific images
