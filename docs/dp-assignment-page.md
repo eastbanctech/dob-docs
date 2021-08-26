@@ -89,21 +89,21 @@ nav_order: 5
 ![A15 -screenshot](../images/dispatch-portal/dp-assignment-page/filter.png)
 ![Group 53 -screenshot](../images/dispatch-portal/dp-assignment-page/filter1.png)
 
-    1. The emergency filter will allow the user to display only emergency assignments.
-    2. Filtering using specific Inspection Number, click on Enter number and type in the Inpsection Number, then by pressing enter displays the selected Inspection on the list.
-    3. Selecting All, Initial and Follow Up displays the selected Type of Inspection/Assignment.
-    4. Filtering Inspections by department, click on Select department and selecting Illegal Construction and/or OIS displays Inspections of the selected department on the list.
-    5. Selecting one, all or more of Assignment status filters, displays the selected Assignments with those statuses on the list. The Assignment status is driven by the actions of    the Inspector in the Inspector app or CityGov app, or an authorized Inspections Portal or Accela user. 
-      * Assigned - the Inspection has an assigned time/date and Inspector
-      * Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
-      * Inspection in Progress - Inspector is in the middle of conducting an inspection
-      * Completed - Inspector resulted the Inspection in CityGov app
-      * Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
-      * Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
-      * Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
-    6. Filtering Inspection by Assignment Date, click on the Select assignments date range and selecting the range from the calendar displays Inspections within the selected date      range on the list
-    7. Filtering Inspections by the Assigned Inspector, click on Enter Inspector's First or Last Name and begin typing in the Inspector's name (first or last), and select one of the    auto-complete matches from the list.
-    8. Filtering Inspections by address, click on Enter Assignment Address and type the inspection address, then by pressing enter displays assignment/s with the selected address on    the list.
+1. The emergency filter will allow the user to display only emergency assignments.
+2. Filtering using specific Inspection Number
+3. Selecting All, Initial and Follow Up displays the selected Type of Assignment.
+4. Filter Inspections by a specific department.
+5. Selecting specific assignment statuses:
+* Assigned - the Inspection has an assigned time/date and Inspector
+* Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
+* Inspection in Progress - Inspector is in the middle of conducting an inspection
+* Completed - Inspector resulted the Inspection in CityGov app
+* Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
+* Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
+* Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
+6. Filtering Inspection by a specific Assignment Date.
+7. Filtering Inspections by the Assigned Inspector.
+8. Filtering Inspections by address a specific DC address.
 </section>
 </section>
 
