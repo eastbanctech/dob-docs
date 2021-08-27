@@ -10,36 +10,27 @@ nav_order: 2
 
 <section id="overview-of-the-dashboard" markdown="1">
 
-# Overview of the Dashboard
+# Dashboard
 
 <section id="map-legend" markdown="1">
 
-## Map Legend
-After logging in, the default view is the Dashboard with a map that displays the Inspectors' real-time location and the Assignments/Inspections on the map for TODAY only with status Assigned (more on statuses in section [Assignments Filters](#Assignments-Filter)).
-
-![db1 -screenshot](../images/dispatch-portal/dp-dashboard/dashboard.png)
+## Map
+Upon login, the Dashboard is displayed with the Inspectors' and Assignments' real-time location.
 
 <section id="boundaries" markdown="1">
 
-### Boundaries
-The map displays the DCRA boundaries on the map.
-
-![db1 -screenshot](../images/dispatch-portal/dp-dashboard/dashboard.png)
+### DCRA Boundaries
+The map displays the DCRA boundaries via a red outline.
 
 </section>
 
 <section id="groupings" markdown="1">
 
-### Groupings
-When there're two or more inpsections in a certain location, the map displays how many of them are grouped together. Zooming in on the map to that location separates that grouping into individual inspections or assignment groupings as seen on the second screenshot
+### Inspector and Assignment Grouping
+When two or more assignments or inspectors are grouped together the system will combine each into a single icon with the number of assignments or inspectors for that area.  Zooming in exposes additonal details about each group type.  
 
-![db2 -screenshot](../images/dispatch-portal/dp-dashboard/groupings.png)
-
-![db34](../images/dispatch-portal/dp-dashboard/groupings1.png)
-
-When there're two or more Inspectors in a certain location, the map displays how many of them are grouped together. Zooming in on the map separates that grouping into individual inspectors. 
-
-![db3 -screenshot](../images/dispatch-portal/dp-dashboard/groupings2.png)
+![Dashboard Grouping -screenshot](../images/dispatch-portal/dp-dashboard/dashboard.png)
+![Dashboard Zoom -screenshot](../images/dispatch-portal/dp-dashboard/dashboard1.png)
 
 </section>
 </section>
@@ -52,8 +43,6 @@ Clicking on an Inspection number on the map displays a popup called the Assignme
 Clicking through on the Inspection number on the card navigates to Assignment Details page.
 
 ![db4 -screenshot](../images/dispatch-portal/dp-dashboard/assignment.png)
-
-![db5 -screenshot](../images/dispatch-portal/dp-dashboard/assignment1.png)
 
 Clicking on Assignment groupings on the map displays a list of Inspection Numbers with their status and clicking on an Inspection number from the list displays Assignment card popup.
 
