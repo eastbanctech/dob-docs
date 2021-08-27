@@ -16,13 +16,11 @@ User's can view detailed information about individual assignments through the Di
 
 <section id="field-descriptions" markdown="1">
 
-## Field Descriptions
-
-Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
+1. Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
 
 ![A8 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions.png)
 
-Assignment Details page will display the following information: Inspection Number, Inspection Status, Inspection Type, Inspection Date/Time, Inspection Address, Inspector Name, Department, Inspction cluster, Created On, Created By, Inspection Contact Name, Email and Cancel Assignment and Request Reschedule Assignment buttons
+* Assignment Details page will display the following information: Inspection Number, Inspection Status, Inspection Type, Inspection Date/Time, Inspection Address, Inspector Name, Department, Inspction cluster, Created On, Created By, Inspection Contact Name, Email and Cancel Assignment and Request Reschedule Assignment buttons
 
 ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions1.png)
 
@@ -35,7 +33,7 @@ Assignment Details page will display the following information: Inspection Numbe
 <section id="on-map" markdown="1">
 
 ### On Map
-Clicking ON Map will allow users to locate the assignment on the map
+2. Clicking ON Map will allow users to locate the assignment on the map
 
 ![A19 -screenshot](../images/dispatch-portal/dp-detailed-assignment/on-map.png)
 
@@ -44,7 +42,7 @@ Clicking ON Map will allow users to locate the assignment on the map
 <section id="request-to-reschedule" markdown="1">
 
 ### Request to Reschedule
-Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
+3. Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
 
 ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule.png)
 
@@ -62,7 +60,7 @@ Emergency assignments can be reassigned to specific users
 <section id="cancel-assignment" markdown="1">
 
 ### Cancel an Assignment
-Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
+4. Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/cancel-assignment.png)
 
@@ -88,7 +86,9 @@ Emergency Assignments are disignated by a red [!] icon.
 </section>
 
 <section id="completed-assignments-new" markdown="1">
+
 ### Completed Assignments <sup class="new">NEW</sup>
+
 When an assignment is completed (resulted in DCRA Mobile Inspection App or Accela), additional details are added to the Assignment details page. Users can no longer cancel or reschedule the assignment. 
 
 Completed assignments display the result of the inspection in Accela. The results are displayed under the column Accela Data.
