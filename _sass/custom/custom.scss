@@ -186,7 +186,7 @@ body::-webkit-scrollbar-track {
 // all images
 img {
   @include mq(sm) {
-    width: 630px;
+    width: 725px;
     margin-left:10px;
   }
   @include mq(md) {
@@ -197,7 +197,7 @@ img {
 // images that should be displayed bigger
 img.big-size {
   margin-left:0;
-  width: 800px;
+  width: 900px;
 }
 
 // images without borders
