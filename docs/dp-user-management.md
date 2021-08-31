@@ -56,6 +56,21 @@ The Editing User Permissions modal allows for updates to the User's Role, Depart
 
 ![User Permissions Editing -screenshot](../images/dispatch-portal/dp-user-management/userpermissions1.png)
 
+#### User's Role
+
+1. **User Admin** - has access to all features and functionality on the Portal, the only user that has access to User Management functionality.
+2. **Manager** - has access to all Portal pages including Reports and can edit Inspector Settings, but no access to User Management functionality.
+3. **Portal User** - has access to all Portal pages, except Reports and User Management.
+4. **Inspector** - has access to Help page on the Portal and is able to login to the Dispatch app.
+
+#### Department
+
+Department designates what types of inspections can bee assigned to the inspector. 
+
+#### Status
+
+Status designates whether or not the user can access the Dipatch Portal and Dispatch App.  Inactive users cannot access the systems; Active users will be permitted to access the Dispatch Portal and Dispatch App based on their role. 
+
 ## Inspector Details
 
 When viewing an Inspector's Details admins and managers can make updates to an inspectors settings by selecting the Edit Inspector Settings button.
@@ -67,3 +82,15 @@ When viewing an Inspector's Details admins and managers can make updates to an i
 Updates can be made to the Inspector's Type, Clusters, and Availability.
 
 ![Inspector Details Editing -screenshot](../images/dispatch-portal/dp-user-management/inspectordetails1.png)
+
+#### Inspector Type
+
+Inspector Type designates whether the inspector is Internal or External. 
+
+#### Clusters
+
+Clusters designates the assignment allowed for the Inspector based on preferred clusters.
+
+#### Availability
+
+Inspectors avialability can be adjust by designating what days are available via the checkbox to the left of the day and the hours the user is available via the start and end timeframe dropdowns.  If the inspector has a day they are not avialable the start and end timeframe dropdowns will not be present and the text "No Availability" will be dipslayed. 
