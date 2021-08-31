@@ -32,7 +32,7 @@ Users can be found by searching via the search bar located in the top right corn
 
 Filtering allows the results to be defined by role, inspector type, department, cluster, or user status.
 
-![User Management Fileters -screenshot](../images/dispatch-portal/dp-user-management/usermanagementpage2.png)
+![User Management Filters -screenshot](../images/dispatch-portal/dp-user-management/usermanagementpage2.png)
 
 The User Management table has standard table sorting by column. 
 
@@ -44,7 +44,7 @@ User Admins have the ability to add users to the Dispatch system. Selecting Add 
     * If User is meant to be an Inspector of any kind, they also must have a profile in Accela set up with the same email address used in Access DC.
 * Creating a new user triggers an invite email that is sent to the provided email address and adds the user to the User List with status "Invited."
 * After the new user logs in for the first time the system will automatically move them to "Active."
-* Invitations can be resent from the User Permissions Details Page only when the the user has the "Invited" status.
+* Invitations can be resent from the User Permissions Details Page only when the user has the "Invited" status.
 
 ![User Management Add New User -screenshot](../images/dispatch-portal/dp-user-management/addnewuser.png)
 
@@ -95,7 +95,7 @@ Currently, only PM inspectors are assigned to clusters
 * External Inspectors can have 24 hour availability as well and use absences to modify their availability.
     * Currently External Inspectors even if provisioned in Dispatch will not receive any inspections.
 
-Inspectors availability can be adjust by designating what days are available via the checkbox to the left of the day and the hours the user is available via the start and end timeframe dropdowns. To indicate the Inspector is off on specific days, a checkbox should be unselected and "No Availability" will be dipslayed. 
+Inspectors availability can be adjust by designating what days are available via the checkbox to the left of the day and the hours the user is available via the start and end timeframe dropdowns. To indicate the Inspector is off on specific days, a checkbox should be unselected and "No Availability" will be displayed. 
 
 ## User Permission Details Page
 
