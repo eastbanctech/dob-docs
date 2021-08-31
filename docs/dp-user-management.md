@@ -12,7 +12,7 @@ nav_order: 9
 
 # User Management <sup class="new">NEW</sup>
 
-User Admins and Managers have access to the User Management functionality through the Dispatch Portal.  The User Management feature allows for updates to a users role, permissions, assigned clusters, and inpsectors avialable working hours. User Management is accessed via the main navigation menu (outlined in red below).  
+User Admins have access to the User Management functionality through the Dispatch Portal.  The User Management feature allows for updates to a users role, permissions, assigned clusters, and inpsectors avialable working hours. User Management is accessed via the main navigation menu (outlined in red below).  
 
 ![Dashboard -screenshot](../images/dispatch-portal/dp-user-management/dashboard.png)
 
@@ -30,7 +30,7 @@ Creating a new user triggers an invite email that is sent to the provided email 
 
 ![User Management Add New User -screenshot](../images/dispatch-portal/dp-user-management/addnewuser.png)
  
-### Search, Filtering, and Sorting 
+### Search, Filter, and Sort
 
 The User Management page features standard searching (by name or email), filtering (by role, inspector type, department, cluster, or status), and table sorting functionality.
 
