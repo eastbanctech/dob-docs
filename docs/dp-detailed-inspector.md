@@ -102,7 +102,7 @@ All day absences require a title and start/end date.
 
 ![Group 69 -screenshot](../images/dispatch-portal/dp-detailed-inspector/absence8.png)
 
-![Group 70 -screenshot](../images/dispatch-portal/dp-detailed-inspector/absence9.png))
+![Group 70 -screenshot](../images/dispatch-portal/dp-detailed-inspector/absence9.png)
 
 ![Group 67 -screenshot](../images/dispatch-portal/dp-detailed-inspector/absence10.png)
 
