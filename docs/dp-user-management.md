@@ -12,7 +12,7 @@ nav_order: 9
 
 # User Management <sup class="new">NEW</sup>
 
-User Admins have access to the User Management functionality through the Dispatch Portal.  The User Management feature allows for updates to a users role, permissions, assigned clusters, and inpsectors avialable working hours. User Management is accessed via the main navigation menu (outlined in red below).  
+User Admins have access to the User Management functionality through the Dispatch Portal.  The User Management feature allows for updates to a users role, permissions, assigned clusters, and inpsector's available working hours. User Management is accessed via the main navigation menu (outlined in red below).  
 
 ![Dashboard -screenshot](../images/dispatch-portal/dp-user-management/dashboard.png)
 
@@ -49,7 +49,7 @@ A user can have up to two different roles and can be considered only one of the 
 2. **Manager** - has access to all Portal pages including Reports and can edit Inspector Settings, but no access to User Management functionality.
 3. **Portal User** - has access to all Portal pages, except Reports and User Management.
 4. **Inspector** - has access to Help page on the Portal and is able to login to the Dispatch app.
-* Selecting Inspector will require additonal details (Inspector Type, Clusters, and Availability).
+* Selecting Inspector will require additional details (Inspector Type, Clusters, and Availability).
 
 #### Department
 
@@ -67,7 +67,7 @@ Inspector Type designates whether the inspector is Internal, Duty Officer, Exter
 
 Clusters designates the assignment allowed for the Inspector based on preferred clusters. Clusters are not required when creating a user.
 
-Seleting clusters will limit the inspections the new user can perform to the selected clusters. 
+Selecting clusters will limit the inspections the new user can perform to the selected clusters. 
 
 #### Availability
 
@@ -83,19 +83,19 @@ Users can be found by searching via the search bar located in the top right corn
 
 Filtering allows the results to be defined by role, inspector type, department, cluster, or status.
 
-![User Management Fileters -screenshot](../images/dispatch-portal/dp-user-management/usermanagementpage2.png)
+![User Management Filters -screenshot](../images/dispatch-portal/dp-user-management/usermanagementpage2.png)
 
 The User Management table has standard table sorting by column. 
 
 ## User Permission Details
 
-Seleting a user via the User Mangement table navigates to the User Permission Details page. From the User Permission Details page updates can be made to the selected user by selecting the Edit User Permissions button.  The View Inspectors Settings button navigates to the Inspector Details page for the seleted user. 
+Selecting a user via the User Management table navigates to the User Permission Details page. From the User Permission Details page updates can be made to the selected user by selecting the Edit User Permissions button.  The View Inspectors Settings button navigates to the Inspector Details page for the selected user. 
 
 ![User Permissions Details -screenshot](../images/dispatch-portal/dp-user-management/userpermissions.png)
 
 ### Edit User Permissions 
 
-The Editing User Permissions modal allows for updates to the User's Role, Department, and status. All udpates must be saved once updates have been made via the Save Changes button. 
+The Editing User Permissions modal allows for updates to the User's Role, Department, and status. All updates must be saved once updates have been made via the Save Changes button. 
 
 ![User Permissions Editing -screenshot](../images/dispatch-portal/dp-user-management/userpermissions1.png)
 
@@ -109,7 +109,7 @@ Department designates what types of inspections can bee assigned to the inspecto
 
 #### Status
 
-Status designates whether or not the user can access the Dipatch Portal and Dispatch App.  Inactive users cannot access the systems; Active users will be permitted to access the Dispatch Portal and Dispatch App based on their role. 
+Status designates whether or not the user can access the Dispatch Portal and Dispatch App.  Inactive users cannot access the systems; Active users will be permitted to access the Dispatch Portal and Dispatch App based on their role. 
 
 ## Inspector Details
 
@@ -135,11 +135,11 @@ Inspector Type designates whether the inspector is Internal, Duty Officer, Exter
 
 Clusters designates the assignment allowed for the Inspector based on preferred clusters. Clusters are not required when creating a user.
 
-Seleting clusters will limit the inspections the new user can perform to the selected clusters. 
+Selecting clusters will limit the inspections the new user can perform to the selected clusters. 
 
 #### Availability
 
-Inspectors avialability can be adjust by designating what days are available via the checkbox to the left of the day and the hours the user is available via the start and end timeframe dropdowns.  If the inspector has a day they are not avialable the start and end timeframe dropdowns will not be present and the text "No Availability" will be dipslayed. 
+Inspectors availability can be adjust by designating what days are available via the checkbox to the left of the day and the hours the user is available via the start and end timeframe dropdowns.  If the inspector has a day they are not available the start and end timeframe dropdowns will not be present and the text "No Availability" will be displayed. 
 
 ## No Invitation Login
 
