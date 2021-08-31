@@ -8,7 +8,7 @@ parent: Dispatch Portal
 nav_order: 9
 ---
 
-<section id="user-management-page" markdown="1">
+<section id="user-management-new" markdown="1">
 
 # User Management <sup class="new">NEW</sup>
 
@@ -16,12 +16,16 @@ User Admins have access to the User Management functionality through the Dispatc
 
 ![Dashboard -screenshot](../images/dispatch-portal/dp-user-management/dashboard.png)
 
+<section id="user-management-page" markdown="1">
+
 ## User Management Page
 
 The User Management page contains all users within the Dispatch system, and acts as the hub to add users, search for users, and update user permissions.
 
 ![User Management -screenshot](../images/dispatch-portal/dp-user-management/usermanagementpage.png)
  
+<section id="add-new-user" markdown="1">
+
 ### Add New User
 
 User Admins have the ability to add users to the Dispatch system.  Selecting Add New User triggers a modal window allowing the creation of a new Dispatch user. Once all required field are satisfied selecting Add User confirms the action. 
@@ -30,16 +34,23 @@ User Admins have the ability to add users to the Dispatch system.  Selecting Add
 * After the new user logs in for the first time they will automatically move to "Active".
 * Invitations can be resent from the User Permissions Details Page only when the the user has the "Invited" status.
 
-
 ![User Management Add New User -screenshot](../images/dispatch-portal/dp-user-management/addnewuser.png)
+
+<section id="access-dc-account-email-address" markdown="1">
 
 #### Access DC Account Email Address
 
 An email address is required to create a new account. 
 
+</section>
+<section id="name" markdown="1">
+
 #### Name
 
 A Name is required in order to create a new account. 
+
+</section>
+<section id="user-role" markdown="1">
 
 #### User Role
 
@@ -51,9 +62,15 @@ A user can have up to two different roles and can be considered only one of the 
 4. **Inspector** - has access to Help page on the Portal and is able to login to the Dispatch app.
 * Selecting Inspector will require additonal details (Inspector Type, Clusters, and Availability).
 
+</section>
+<section id="department" markdown="1">
+
 #### Department
 
 At minimum one department is required to create a new account. (NOTE: Managers and Portal Users are not required to have a Department)
+
+</section>
+<section id="inspector-type" markdown="1">
 
 #### Inspector Type
 
@@ -63,15 +80,25 @@ Inspector Type designates whether the inspector is Internal, Duty Officer, Exter
 2. **Duty Officers** – Managers who conduct inspections under special circumstances, such as emergencies that need to be done when no other inspector is available
 3. **External Inspectors** - Inspectors that are Resident Inspectors or other 3rd party inspectors
 
+</section>
+<section id="clusters" markdown="1">
+
 #### Clusters
 
 Clusters designates the assignment allowed for the Inspector based on preferred clusters. Clusters are not required when creating a user.
 
 Seleting clusters will limit the inspections the new user can perform to the selected clusters. 
 
+</section>
+<section id="availability" markdown="1">
+
 #### Availability
 
 Inspectors avialability can be adjust by designating what days are available via the checkbox to the left of the day and the hours the user is available via the start and end timeframe dropdowns.  If the inspector has a day they are not avialable the start and end timeframe dropdowns will not be present and the text "No Availability" will be dipslayed. 
+
+</section>
+</section>
+<section id="search-filter-and-sort" markdown="1">
  
 ### Search, Filter, and Sort
 
@@ -85,7 +112,11 @@ Filtering allows the results to be defined by role, inspector type, department, 
 
 ![User Management Fileters -screenshot](../images/dispatch-portal/dp-user-management/usermanagementpage2.png)
 
-The User Management table has standard table sorting by column. 
+The User Management table has standard table sorting by column.
+
+</section>
+</section>
+<section id="user-permission-details" markdown="1">
 
 ## User Permission Details
 
@@ -93,23 +124,38 @@ Seleting a user via the User Mangement table navigates to the User Permission De
 
 ![User Permissions Details -screenshot](../images/dispatch-portal/dp-user-management/userpermissions.png)
 
+<section id="edit-user-permissions" markdown="1">
+
 ### Edit User Permissions 
 
 The Editing User Permissions modal allows for updates to the User's Role, Department, and status. All udpates must be saved once updates have been made via the Save Changes button. 
 
 ![User Permissions Editing -screenshot](../images/dispatch-portal/dp-user-management/userpermissions1.png)
 
+<section id="user-role" markdown="1">
+
 #### User Role
 
 User Role designates the functionality the user is permitted to utilize. 
+
+</section>
+<section id="department" markdown="1">
 
 #### Department
 
 Department designates what types of inspections can bee assigned to the inspector. 
 
+</section>
+<section id="status" markdown="1">
+
 #### Status
 
 Status designates whether or not the user can access the Dipatch Portal and Dispatch App.  Inactive users cannot access the systems; Active users will be permitted to access the Dispatch Portal and Dispatch App based on their role. 
+
+</section>
+</section>
+</section>
+<section id="inspector-details" markdown="1">
 
 ## Inspector Details
 
@@ -117,11 +163,16 @@ When viewing an Inspector's Details admins and managers can make updates to an i
 
 ![Inspector Details -screenshot](../images/dispatch-portal/dp-user-management/inspectordetails.png)
 
+<section id="edit-inspector-settings" markdown="1">
+
 ### Edit Inspector Settings
 
 Updates can be made to the Inspector's Type, Clusters, and Availability.
 
 ![Inspector Details Editing -screenshot](../images/dispatch-portal/dp-user-management/inspectordetails1.png)
+
+</section>
+<section id="inspector-type" markdown="1">
 
 ### Inspector Type
 
@@ -131,15 +182,25 @@ Inspector Type designates whether the inspector is Internal, Duty Officer, Exter
 2. **Duty Officers** – Managers who conduct inspections under special circumstances, such as emergencies that need to be done when no other inspector is available
 3. **External Inspectors** - Inspectors that are Resident Inspectors or other 3rd party inspectors
 
+<section id="clusters" markdown="1">
+
 #### Clusters
 
 Clusters designates the assignment allowed for the Inspector based on preferred clusters. Clusters are not required when creating a user.
 
 Seleting clusters will limit the inspections the new user can perform to the selected clusters. 
 
+</section>
+<section id="availability" markdown="1">
+
 #### Availability
 
 Inspectors avialability can be adjust by designating what days are available via the checkbox to the left of the day and the hours the user is available via the start and end timeframe dropdowns.  If the inspector has a day they are not avialable the start and end timeframe dropdowns will not be present and the text "No Availability" will be dipslayed. 
+
+</section>
+</section>
+</section>
+<section id="no-invitation-login" markdown="1">
 
 ## No Invitation Login
 
@@ -147,3 +208,6 @@ Users that try to log in without an invitation who haven't been provisioned in t
 
 * The user must reach out to a User Admin to set up Permissions and an Active status. 
 * No invitation login users will not have a "Resend Invitation" link on the User Permissions Details page
+
+</section>
+</section>

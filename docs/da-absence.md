@@ -9,6 +9,7 @@ nav_order: 10
 ---
 
 <section id="add-and-delete-an-absence" markdown="1">
+
 # Add and Delete an Absence
 
 Users have the ability to add or delete absences through the Dispatch App.
@@ -65,6 +66,9 @@ Go to the Schedule and click on the "Absence" that is visible on the Schedule. T
 ![IMG_0332 -screenshot](../images/dispatch-app/da-absence/deleting-an-absence1.png)
 
 ![IMG_0333 -screenshot](../images/dispatch-app/da-absence/deleting-an-absence2.png)
+
+</section>
+<section id="holidays" markdown="1">
 
 ## Holidays
 Recognized holidays will restrict assignments from being assigned to inspectors, and cannot be removed from the schedule. 
