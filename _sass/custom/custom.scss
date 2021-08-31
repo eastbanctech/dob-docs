@@ -228,12 +228,14 @@ img.no-border {
 sup.updated {
   color:blue;
   font-size:55%;
-  top: -0.55em;
+  top: -0.62em;
+  font-weight:bolder;
 }
 
 // "new" superscripts
 sup.new {
-  color:green;
+  color:red;
   font-size:55%;
-  top: -0.55em;
+  top: -0.62em;
+  font-weight:bolder;
 }
