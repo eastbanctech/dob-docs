@@ -63,7 +63,7 @@ A user can have up to two different roles and can be considered only one of the 
 1. **User Admin** - has access to all features and functionality on the Portal, the only user that has access to User Management functionality.
 2. **Manager** - has access to all Portal pages including Reports and can edit Inspector Settings, but no access to User Management functionality.
 3. **Portal User** - has access to all Portal pages, except Reports and User Management.
-4. **Inspector** - has access to Help page on the Portal and is able to login to the Dispatch app. Selecting Inspector will require additonal details (Inspector Type, Clusters, and Inspection Availability Hours).
+4. **Inspector** - has access to the Dispatch app only. Selecting Inspector will require additonal details (Inspector Type, Clusters, and Inspection Availability Hours).
 
 #### Department
 

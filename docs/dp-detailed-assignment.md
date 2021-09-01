@@ -14,17 +14,17 @@ nav_order: 6
 
 User's can view detailed information about individual assignments through the Dispatch Portal.
 
+
 <section id="field-descriptions" markdown="1">
 
 1. Clicking on the arrow icon will allow the user to navigate to the Assignment Details page
+
 
 ![A8 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions.png)
 
 * Assignment Details page will display the following information: Inspection Number, Inspection Status, Inspection Type, Inspection Date/Time, Inspection Address, Inspector Name, Department, Inspction cluster, Created On, Created By, Inspection Contact Name, Email and Cancel Assignment and Request Reschedule Assignment buttons
 
-![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions1.png)
-
-</section>
+    ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions1.png)
 
 <section id="actions" markdown="1">
 
@@ -33,7 +33,7 @@ User's can view detailed information about individual assignments through the Di
 <section id="on-map" markdown="1">
 
 ### On Map
-2. Clicking ON Map will allow users to locate the assignment on the map
+Clicking ON Map will allow users to locate the assignment on the map
 
 ![A19 -screenshot](../images/dispatch-portal/dp-detailed-assignment/on-map.png)
 
@@ -42,7 +42,7 @@ User's can view detailed information about individual assignments through the Di
 <section id="request-to-reschedule" markdown="1">
 
 ### Request to Reschedule
-3. Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
+Clicking on Request to Reschedule button and confirming the action on the popup messages will allow the user to reschedule an assignment
 
 ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule.png)
 
@@ -57,10 +57,10 @@ Emergency assignments can be reassigned to specific users
 ![Group 60 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule4.png)
 </section>
 
-<section id="cancel-assignment" markdown="1">
+<section id="cancel-an-assignment" markdown="1">
 
 ### Cancel an Assignment
-4. Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
+Clicking on Cancel Assignment button and confirming the action on the popup messages will allow the user to cancel an assignment
 
 ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/cancel-assignment.png)
 

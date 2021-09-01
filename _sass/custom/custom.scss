@@ -7,6 +7,7 @@ $toc-width: 300px; //width of table of contents
   @include mq(sm) {
     -webkit-appearance: none;
     width: 8px;
+    height: 8px;
   }
 }
   

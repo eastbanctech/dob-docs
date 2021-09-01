@@ -70,7 +70,3 @@ The App will display the next Assignment (if any), and if there's no assignment 
 
 </section>
 </section>
-
-
-
-

@@ -19,38 +19,32 @@ The Dispatch Portal allows users to review assignment errors that occur between 
 <section id="navigate-to-accela-error-log" markdown="1">
 
 ## Navigate to Accela Error Log
-1. Click on Accela Error Log from the side navigation panel.
+Click on Accela Error Log from the side navigation panel.
 
 ![AC1 -screenshot](../images/dispatch-portal/dp-accela-error-log/nav-to-accela-error-log.png)
 
+</section>
 <section id="detailed-accela-error-log-page" markdown="1">
 
 ## Detailed Accela Error Log Page
 
-2. Selecting the arrow/chevron button directs the user to a more detailed page regarding the seleted error. 
+Selecting the arrow/chevron button directs the user to a more detailed page regarding the seleted error. 
 ![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log.png)
 
 ![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png)
 
 </section>
-
-</section>
-
 <section id="column-description" markdown="1">
 
 ## Column Description
 
 ![acc10 -screenshot](../images/dispatch-portal/dp-accela-error-log/column-description.png)
 
-    1. Record Number Column: Record/CAP number listed
-    2. Complaint Type Column: Record's Department
-    3. Error TimeStamp Column: Date/Time the record rejected
-    4. Error Status: Record's status
-    5. Error Message Column: Reason why the record was rejected
-
-</section>
-
-<section id="sorting" markdown="1">
+1. Record Number Column: Record/CAP number listed
+2. Complaint Type Column: Record's Department
+3. Error TimeStamp Column: Date/Time the record rejected
+4. Error Status: Record's status
+5. Error Message Column: Reason why the record was rejected
 
 </section>
 </section>
