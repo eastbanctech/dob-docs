@@ -96,7 +96,6 @@ Selecting Assignments from the filter menu bar displays the assignment filter.
 3. Filter displayed Assignments by specific Type or all Types
 4. Filter displayed Assignments by specific Departments
 5. Filter displayed Assignments by specific Assignment Status or all Assignment Statuses
-
    * Assigned - the Inspection has an assigned time/date and Inspector
    * Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
    * Inspection in Progress - Inspector is in the middle of conducting an inspection
@@ -104,7 +103,6 @@ Selecting Assignments from the filter menu bar displays the assignment filter.
    * Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
    * Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
    * Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
-
 6. Filter displayed Assignments by specific Assigned Inspectors
 7. Filter displayed Assignments by specific Addresses
 </section>
