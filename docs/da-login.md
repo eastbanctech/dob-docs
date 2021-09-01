@@ -51,7 +51,6 @@ If this is the first login to the Dispatch app, after entering the Email and Pas
 6. Review [On and Off Duty functionality](https://dcra-dispatch-docs.terraiq.io/docs/da-on-off-duty.html)
 
 </section>
-
 </section>
 
 <section id="dispatch-app-logout" markdown="1">

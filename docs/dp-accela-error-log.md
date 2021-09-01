@@ -23,6 +23,7 @@ The Dispatch Portal allows users to review assignment errors that occur between 
 
 ![AC1 -screenshot](../images/dispatch-portal/dp-accela-error-log/nav-to-accela-error-log.png)
 
+</section>
 <section id="detailed-accela-error-log-page" markdown="1">
 
 ## Detailed Accela Error Log Page
@@ -33,9 +34,6 @@ The Dispatch Portal allows users to review assignment errors that occur between 
 ![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png)
 
 </section>
-
-</section>
-
 <section id="column-description" markdown="1">
 
 ## Column Description
@@ -47,10 +45,6 @@ The Dispatch Portal allows users to review assignment errors that occur between 
     3. Error TimeStamp Column: Date/Time the record rejected
     4. Error Status: Record's status
     5. Error Message Column: Reason why the record was rejected
-
-</section>
-
-<section id="sorting" markdown="1">
 
 </section>
 </section>

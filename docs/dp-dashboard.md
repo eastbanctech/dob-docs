@@ -8,23 +8,23 @@ parent: Dispatch Portal
 nav_order: 2
 ---
 
-<section id="overview-of-the-dashboard" markdown="1">
+<section id="dashboard" markdown="1">
 
 # Dashboard
 
-<section id="map-legend" markdown="1">
+<section id="map" markdown="1">
 
 ## Map
 Upon login, the Dashboard is displayed with the Inspectors' and Assignments' real-time location.
 
-<section id="boundaries" markdown="1">
+<section id="dcra-boundaries" markdown="1">
 
 ### DCRA Boundaries
 The map displays the DCRA boundaries via a red outline.
 
 </section>
 
-<section id="groupings" markdown="1">
+<section id="inspector-and-assignment-grouping" markdown="1">
 
 ### Inspector and Assignment Grouping
 When two or more assignments or inspectors are grouped together the system will combine each into a single icon with the number of assignments or inspectors for that area.  Zooming in exposes additonal details about each group type.  
