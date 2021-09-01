@@ -51,4 +51,3 @@ Once an assignment is completed, the system will add additional details regardin
 ![Completed Assignment -screenshot](../images/dispatch-app/da-assignment-view/view-completed-assignment1.png)
 </section>
 </section>
-

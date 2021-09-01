@@ -7,7 +7,7 @@ email: contact@eastbanctech.com
 parent: Dispatch Portal
 nav_order: 5
 ---
-<section id="Viewing-assignments-page" markdown="1">
+<section id="viewing-assignments-page" markdown="1">
 
 # Viewing Assignments Page
 
@@ -45,7 +45,7 @@ Selecting Assignments navigates the user to the Assignments page.
 
 ## Actions from Columns
 
-<section id="map" markdown="1">
+<section id="assignment-location" markdown="1">
 
 ### Assignment Location
 Selecting the location pin button navigates the user to the Dashboard and focuses the map to the exact location of the select assignment. 
@@ -71,14 +71,19 @@ Selecting the arrow/chevron button navigates the user to a detailed page outlini
 ## Sorting
 The Assignments page allows users to navigate through assignments via table pagination and sort via column functionlity. 
 
+<section id="pagination" markdown="1">
+
 ### Pagination
 
 ![A10 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting.png)
+
+<section id="column-sorting" markdown="1">
 
 ### Column Sorting
 
 ![A11 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting1.png)
 
+</section>
 </section>
 
 <section id="filter" markdown="1">
@@ -106,5 +111,4 @@ Selecting the Filters button allows the user to define the assignment displayed 
 8. Filtering Inspections by address a specific DC address.
 </section>
 </section>
-
 
