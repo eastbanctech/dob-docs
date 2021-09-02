@@ -13,15 +13,15 @@ nav_order: 8
 # Emergency Assignments
 When an emergency assignment is assigned to you it will have a red [!] indication on your schedule.
 
-![Emergency Schedule View -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments1.png)
+![Emergency Schedule View -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments1.png){: data-lightbox="1"}
 
 Selecting an inspection via your schedule will trigger a popover containing additional details about the assignment. The popover will also have the red [!] indication.
 
-![IMG_0388 -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments2.png)
+![IMG_0388 -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments2.png){: data-lightbox="2"}
 
 Both the current assigment screen and the assignment details screens will also display the red [!] indicator as well as text reading "Emergency Assignment."
 
-![IMG_0387 -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments3.png)
+![IMG_0387 -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments3.png){: data-lightbox="3-group"}
 
-![IMG_0389 -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments4.png)
+![IMG_0389 -screenshot](../images/dispatch-app/da-emergency-assignment/emergency-assignments4.png){: data-lightbox="3-group"}
 </section>

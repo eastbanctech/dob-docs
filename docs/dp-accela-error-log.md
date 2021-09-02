@@ -21,7 +21,7 @@ The Dispatch Portal allows users to review assignment errors that occur between 
 ## Navigate to Accela Error Log
 Click on Accela Error Log from the side navigation panel.
 
-![AC1 -screenshot](../images/dispatch-portal/dp-accela-error-log/nav-to-accela-error-log.png)
+![AC1 -screenshot](../images/dispatch-portal/dp-accela-error-log/nav-to-accela-error-log.png){: data-lightbox="1"}
 
 </section>
 <section id="detailed-accela-error-log-page" markdown="1">
@@ -29,16 +29,16 @@ Click on Accela Error Log from the side navigation panel.
 ## Detailed Accela Error Log Page
 
 Selecting the arrow/chevron button directs the user to a more detailed page regarding the seleted error. 
-![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log.png)
+![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log.png){: data-lightbox="2-group"}
 
-![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png)
+![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png){: data-lightbox="2-group"}
 
 </section>
 <section id="column-description" markdown="1">
 
 ## Column Description
 
-![acc10 -screenshot](../images/dispatch-portal/dp-accela-error-log/column-description.png)
+![acc10 -screenshot](../images/dispatch-portal/dp-accela-error-log/column-description.png){: data-lightbox="3"}
 
 1. Record Number Column: Record/CAP number listed
 2. Complaint Type Column: Record's Department
