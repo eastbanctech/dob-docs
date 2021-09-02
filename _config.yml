@@ -12,8 +12,8 @@ plugins:
 
 
 #google analytics
-#ga_tracking: G-CJZGLX01YZ
-#ga_tracking_anonymize_ip: true
+ga_tracking: G-6SZD9S4XRF
+ga_tracking_anonymize_ip: true
 
 
 # Build settings
