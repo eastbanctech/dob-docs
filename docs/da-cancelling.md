@@ -20,31 +20,31 @@ Users have the ability to cancel assignments through the Dispatch App.
 
 Click on Assignment tab above the Schedule
 
-![c9 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment1.png)
+![c9 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment1.png){: data-lightbox="1"}
 
 Then click on the Cancel Assignment button
 
-![c10 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment2.png)
+![c10 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment2.png){: data-lightbox="2"}
 
 Enter the reason for cancellation (optional)
 
-![c11 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment3.png)
+![c11 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment3.png){: data-lightbox="3"}
 
 Then click the Yes button
 
-![c5 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment5.png)
+![c5 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment5.png){: data-lightbox="4"}
 
 Click on the OK button to dismiss the popup message
 
-![c6 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment6.png)
+![c6 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment6.png){: data-lightbox="5"}
 
 The App will display the next Assignment (if any)
 
-![c8 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment7.png)
+![c8 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment7.png){: data-lightbox="6"}
 
 If there's no Assignment on the Schedule the App displays the following
 
-![c7 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment8.png)
+![c7 -screenshot](../images/dispatch-app/da-cancelling/canceling-current-assignment8.png){: data-lightbox="7"}
 </section>
 
 <section id="canceling-other-assignments" markdown="1">
@@ -52,19 +52,19 @@ If there's no Assignment on the Schedule the App displays the following
 ## Canceling Other Assignments
 Select an Assignment from the schedule, then click on it. Then click on the Enlarge Icon.
 
-![c13 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments1.png)
+![c13 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments1.png){: data-lightbox="8"}
 
 From the Detailed Assignment page, click the Cancel button.
 
-![can116 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments2.png)
+![can116 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments2.png){: data-lightbox="9"}
 
 Enter a reason for cancellation (optional) and click on the Yes button
 
-![can118 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments3.png)
+![can118 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments3.png){: data-lightbox="10"}
 
 Click Ok to dismiss the popup message
 
-![can114 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments4.png)
+![can114 -screenshot](../images/dispatch-app/da-cancelling/canceling-other-assignments4.png){: data-lightbox="11"}
 
 The App will display the next Assignment (if any), and if there's no assignment it will display a "No Assignment" message
 

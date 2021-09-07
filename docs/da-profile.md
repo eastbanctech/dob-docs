@@ -13,15 +13,15 @@ nav_order: 11
 
 After logging in, select Settings
 
-![Schedule Settings -screenshot](../images/dispatch-app/da-profile/view-profile-and-about-page1.png)
+![Schedule Settings -screenshot](../images/dispatch-app/da-profile/view-profile-and-about-page1.png){: data-lightbox="1"}
 
 The Profile page will be displayed, including the Inspection Availability Hours
 
-![Profile -screenshot](../images/dispatch-app/da-profile/da-profile.PNG)
+![Profile -screenshot](../images/dispatch-app/da-profile/da-profile.PNG){: data-lightbox="2"}
 
 Select About to see the information about the Inspector App
 
-![About -screenshot](../images/dispatch-app/da-profile/da-about.PNG)
+![About -screenshot](../images/dispatch-app/da-profile/da-about.PNG){: data-lightbox="3"}
 
 Selecting Help will navigate you to the Dispatch User Guide
 

@@ -29,8 +29,8 @@ The map displays the DCRA boundaries via a red outline.
 ### Inspector and Assignment Grouping
 When two or more assignments or inspectors are grouped together the system will combine each into a single icon with the number of assignments or inspectors for that area.  Zooming in exposes additonal details about each group type.  
 
-![Dashboard Grouping -screenshot](../images/dispatch-portal/dp-dashboard/dashboard.png)
-![Dashboard Zoom -screenshot](../images/dispatch-portal/dp-dashboard/dashboard1.png)
+![Dashboard Grouping -screenshot](../images/dispatch-portal/dp-dashboard/dashboard.png){: data-lightbox="1-group"}
+![Dashboard Zoom -screenshot](../images/dispatch-portal/dp-dashboard/dashboard1.png){: data-lightbox="1-group"}
 
 </section>
 </section>
@@ -42,11 +42,11 @@ Clicking on an Inspection number on the map displays a popup called the Assignme
 
 Clicking through on the Inspection number on the card navigates to Assignment Details page.
 
-![db4 -screenshot](../images/dispatch-portal/dp-dashboard/assignment.png)
+![db4 -screenshot](../images/dispatch-portal/dp-dashboard/assignment.png){: data-lightbox="2"}
 
 Clicking on Assignment groupings on the map displays a list of Inspection Numbers with their status and clicking on an Inspection number from the list displays Assignment card popup.
 
-![db31 -screenshot](../images/dispatch-portal/dp-dashboard/assignment2.png)
+![db31 -screenshot](../images/dispatch-portal/dp-dashboard/assignment2.png){: data-lightbox="3"}
 
 </section>
 
@@ -57,7 +57,7 @@ Clicking on the Inspector icon on the map displays the Inspector card with the f
 
 Clicking the Icon, Inspector Name, or Details button on the card navigates to Inspector Details page.
 
-![db6 -screenshot](../images/dispatch-portal/dp-dashboard/inspector-card.png)
+![db6 -screenshot](../images/dispatch-portal/dp-dashboard/inspector-card.png){: data-lightbox="4"}
 
 </section>
 
@@ -66,7 +66,7 @@ Clicking the Icon, Inspector Name, or Details button on the card navigates to In
 ## Filters
 To filter out specific Assignments or Inspectors, click on the filter icon.
 
-![db9 -screenshot](../images/dispatch-portal/dp-dashboard/filters.png)
+![db9 -screenshot](../images/dispatch-portal/dp-dashboard/filters.png){: data-lightbox="5"}
 
 <section id="inspectors-filter" markdown="1">
 
@@ -75,7 +75,7 @@ Clicking on the filter icon displays the filters menu with RESET TAB and RESET A
    * RESET TAB button: Clicking Reset TAB button will resets all fields to default in the current filter menu
    * RESET ALL button: Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
 
-![db11 -screenshot](../images/dispatch-portal/dp-dashboard/filters2.png)
+![db11 -screenshot](../images/dispatch-portal/dp-dashboard/filters2.png){: data-lightbox="6"}
 
 1. Filter displayed Inspectors by a specific name
 2. Filter displayed Inspectors by specific Departments
@@ -89,7 +89,7 @@ Clicking on the filter icon displays the filters menu with RESET TAB and RESET A
 ### Assignments Filter
 Selecting Assignments from the filter menu bar displays the assignment filter.
 
-![Group 56 -screenshot](../images/dispatch-portal/dp-dashboard/assignments-filter.png)
+![Group 56 -screenshot](../images/dispatch-portal/dp-dashboard/assignments-filter.png){: data-lightbox="7"}
 
 1. Filter displayed Assignments by Emergency
 2. Filter displayed Assignments by specific Inspection Number
@@ -115,7 +115,7 @@ Selecting Clusters from the filter will display the Clusters filter.
 
 Selecting a single, multiple, or All from the filter  displays Inspections for the selected cluster(s).
 
-![db14 -screenshot](../images/dispatch-portal/dp-dashboard/clusters-filter.png)
+![db14 -screenshot](../images/dispatch-portal/dp-dashboard/clusters-filter.png){: data-lightbox="8"}
 
 </section>
 </section>
