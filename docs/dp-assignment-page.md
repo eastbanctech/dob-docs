@@ -17,9 +17,9 @@ nav_order: 5
 
 Selecting Assignments navigates the user to the Assignments page.
 
-![A1 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list.png)
+![A1 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list.png){: data-lightbox="1-group"}
 
-![A2 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list1.png)
+![A2 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list1.png){: data-lightbox="1-group"}
 
 * The Assignments page includes a table of all assignments. 
 
@@ -29,8 +29,8 @@ Selecting Assignments navigates the user to the Assignments page.
 
 ## Column Descriptions
 
-![A3 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions.png)
-![Group 54 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions1.png)
+![A3 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions.png){: data-lightbox="2-group"}
+![Group 54 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions1.png){: data-lightbox="2-group"}
 
 1. Inspection Column: Inspection's number listed this will be followed by an emergency indication if the assignment is an emergency as shown above
 2. Status Column: Inspection's status
@@ -50,7 +50,7 @@ Selecting Assignments navigates the user to the Assignments page.
 ### Assignment Location
 Selecting the location pin button navigates the user to the Dashboard and focuses the map to the exact location of the select assignment. 
 
-![A6 -screenshot](../images/dispatch-portal/dp-assignment-page/map.png)
+![A6 -screenshot](../images/dispatch-portal/dp-assignment-page/map.png){: data-lightbox="3"}
 
 
 </section>
@@ -60,7 +60,7 @@ Selecting the location pin button navigates the user to the Dashboard and focuse
 ### Detailed Assignment Page
 Selecting the arrow/chevron button navigates the user to a detailed page outlining information about the assignment. 
 
-![A8](../images/dispatch-portal/dp-assignment-page/detailed-assignment-page.png)
+![A8](../images/dispatch-portal/dp-assignment-page/detailed-assignment-page.png){: data-lightbox="4"}
 
 
 </section>
@@ -75,13 +75,13 @@ The Assignments page allows users to navigate through assignments via table pagi
 
 ### Pagination
 
-![A10 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting.png)
+![A10 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting.png){: data-lightbox="5"}
 
 <section id="column-sorting" markdown="1">
 
 ### Column Sorting
 
-![A11 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting1.png)
+![A11 -screenshot](../images/dispatch-portal/dp-assignment-page/sorting1.png){: data-lightbox="6"}
 
 </section>
 </section>
@@ -91,8 +91,8 @@ The Assignments page allows users to navigate through assignments via table pagi
 ## Filter
 Selecting the Filters button allows the user to define the assignment displayed by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address.
 
-![A15 -screenshot](../images/dispatch-portal/dp-assignment-page/filter.png)
-![Group 53 -screenshot](../images/dispatch-portal/dp-assignment-page/filter1.png)
+![A15 -screenshot](../images/dispatch-portal/dp-assignment-page/filter.png){: data-lightbox="7-group"}
+![Group 53 -screenshot](../images/dispatch-portal/dp-assignment-page/filter1.png){: data-lightbox="7-group"}
 
 1. The emergency filter will allow the user to display only emergency assignments.
 2. Filtering using specific Inspection Number

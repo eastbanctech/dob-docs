@@ -12,9 +12,9 @@ nav_order: 8
 
 # Reports Page <sup class="new">NEW</sup>
 
-![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/dp-dashboard-reports.png)
-![Reports Top Level Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab1.png)
-![Reports Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab2.png)
-![Reports Inspector Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab3.png)
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/dp-dashboard-reports.png){: data-lightbox="1-group"}
+![Reports Top Level Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab1.png){: data-lightbox="1-group"}
+![Reports Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab2.png){: data-lightbox="1-group"}
+![Reports Inspector Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab3.png){: data-lightbox="1-group"}
 
 </section>
