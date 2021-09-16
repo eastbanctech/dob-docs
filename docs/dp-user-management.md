@@ -87,7 +87,7 @@ A user can have up to two different roles and can be considered only one of the 
 
 Selecting a department designates the types of inspections Inspectors can get assigned. 
 
-* Department is a required field for users designated as Inspectors only (must select at least one).
+* Department is an optional field for users designated as Inspectors.
 * Managers and Portal Users are not required to have a Department, but if one is selected, it would serve as a pre-selected filter for Portal pages.
     * Exception: Reports are embedded from Power BI and therefore don't have a dependency on the selected Department and it must be selected manually.
 * If Inspector is categorized as a Duty Officer, then the Duty Officer should be assigned to all available Department they are expected to conduct an inspection in.
