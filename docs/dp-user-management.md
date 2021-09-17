@@ -73,7 +73,7 @@ A Name is required in order to create a new account.
 
 #### User Roles
 
-A user can have up to two different roles and can be considered only one of the following User Admin OR Manager OR Portal user. 
+A user can have up to two different roles: 1. Inspector and 2. Only one of the following: User Admin OR Manager OR Portal user. 
 
 1. **User Admin** - has access to all features and functionality on the Portal, the only user that has access to User Management functionality.
 2. **Manager** - has access to all Portal pages including Reports and can edit Inspector Settings, but no access to User Management functionality.
