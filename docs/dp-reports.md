@@ -34,14 +34,66 @@ The inspection map breaks down inspections across the map based on the type of i
 **Inspection Life Cycle**
 The inspection life cylce shows the progression of each inspection from start to it's eventual outcome. The wider the line the more inspections in the path. 
 
-IAMGE HERE
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Overview.png){: data-lightbox="1-group"}
 
 ## Metrics Tab
 The metrics tab allows users to review information about how the amount of inspections, unique inspections, and averages for how long inspections are taking from creation to result. 
 
-![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/dp-dashboard-reports.png){: data-lightbox="1-group"}
-![Reports Top Level Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab1.png){: data-lightbox="1-group"}
-![Reports Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab2.png){: data-lightbox="1-group"}
-![Reports Inspector Overview -screenshot](../images/dispatch-portal/dp-reports/dp-reports-tab3.png){: data-lightbox="1-group"}
+**Metrics Available**
+* Average time from any type of submission to close any type of inspection for this case (including all rescheduled and follow-ups) in DAYS
+* Average time from any type of submission to inspection result (incl. cancel only)(no matter the inspection outcome) in HOURS
+* Average time from any type of submission to inspection result (incl. cancel and reshecedule)(no matter the inspection outcome) in HOURS
+* Total number of inspections successfully schedule using the automated system (incl reschedules and follow-ups)
+* Total number of Unique initial and follow up(that were scehduled without initial inspecion) inspections successfully scheduled using the automated system
+
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Metrics.png){: data-lightbox="1-group"}
+
+## Flow Tab
+The flow tab outlines the submissions that were made via KRM, 311, or manually. It tracks the submissions through CAP record creation in Accela and further whether the record was successfully scheduled through Dispatch. 
+
+**Flow Points**
+* **Processed KRM Complaints** - The number of records submitted through various KRM forms.
+* **Processed 311 Complaints** - The number of records submitted through the 311 process.
+** **Error Rates** - Next to Processed KRM and 311 there is an arrow designating the flow of the record.  This is a point where we begin to show error rate for the submitted records in red. The percentage of that error rate is displayed above and below the flow arrows.
+* **Auto-created CAP Records in Accela** - The number of records from Processed KRM and 311 that successfully created CAP records with Accela.
+* **Manually-created Inspections in Accela** - CAP records not created via the KRM or 311 functionality.
+** **Error Rates** - Similar to Processed KRM and 311 the system tracks whether or not the CAP record creates an Inspection with the Dispatch system.  If a record is not created successfully it is considered an error. An arrow signifies the flow of the record. Next to each error the number of failing records is displayed in red with the percetage of the errors dispalyed above. 
+* **Auto-scheduled Initial Inspections** Auto-created CAP Records in Accela displays the number of inspections created by the system throug KRM and 311. Manually-created CAP Records in Accela displays the number of inspections created through manual processes. Both do no include records that errored via any previous flow point. The number between Auto-created CAP Records in Accela and Manually-created CAP Records in Accela is the total number of successful inspections created through all processes. 
+
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Flow.png){: data-lightbox="1-group"}
+
+## Inspections Tab
+The inspections tab outlines information about inspections within the Dispatch app.
+
+* **Inspections by Status** - Displays the resulting status of inspections compared against each inspection type.
+* **Inspections By Created Date** - Displays the type of inspections created for a given time range. 
+* **Non-Rejected Inspections By Type** - Displays the number of inspection for each inspection type. 
+* **Non-Rejected Inspections By Department** - Displays the number of inspections created for each department according to inspection type. 
+* **Initial Inspections With Accela Resulted Status** - Displays the number of initial inspections for each resulting status.
+* **Follow Up Inspections With Accela Resulted Status** - Displays the number of follow-up inspections for each resulting status.
+
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Inspections.png){: data-lightbox="1-group"}
+
+## Inspectors Tab
+The inspectors tab outline inspection information based on specific inspectors. 
+
+Heat Map and Inspection Map are defined via the Dashboard section above.
+ * **Inspections By Status By Inspector** - Displays the number of inspections associated to an inspector by the status of the inspection. 
+ * **Inspections With Accela Resulted Status By Inspector** - Display the number of inspections associated to an inspector based on the resulting status of the inspections. 
+
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Inspectors.png){: data-lightbox="1-group"}
+
+## Completed Inspections Tab
+The completed inpsections tab is defined via the Inspections Life Cycle section of the Dashboard section above. 
+
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Completed-Inspections.png){: data-lightbox="1-group"}
+
+## Inspections Complaint Details
+The inspections complaint details outlines information about the submitting customer and submitted address for complaints.
+
+* **Customers By Number Of Requests** - Displays the number of complaints submitted by a paticular customer.
+* **Inspection Address By Number of Assignemnts** - Displays the number of complains submitted for a specific address. 
+
+![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Inspection-Complaint-Details.png){: data-lightbox="1-group"}
 
 </section>
