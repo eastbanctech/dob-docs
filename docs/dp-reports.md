@@ -37,7 +37,7 @@ The inspection life cylce shows the progression of each inspection from start to
 ![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Overview.png){: data-lightbox="1-group"}
 
 ## Metrics Tab
-The metrics tab allows users to review information about how the amount of inspections, unique inspections, and averages for how long inspections are taking from creation to result. 
+The metrics tab allows users to review information about the amount of inspections, unique inspections, and averages for how long inspections are taking from creation to result. 
 
 **Metrics Available**
 * Average time from any type of submission to close any type of inspection for this case (including all rescheduled and follow-ups) in DAYS
