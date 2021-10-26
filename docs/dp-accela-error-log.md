@@ -56,11 +56,11 @@ Selecting the arrow/chevron button directs the user to a more detailed page rega
 
 ![acc10 -screenshot](../images/dispatch-portal/dp-accela-error-log/column-description.png){: data-lightbox="3"}
 
-1. Record Number Column: Record/CAP number listed
-2. Complaint Type Column: Record's Department
-3. Error TimeStamp Column: Date/Time the record rejected
-4. Error Status: Record's status
-5. Error Message Column: Reason why the record was rejected
+1. **Record Number Column** - Record/CAP number listed
+2. **Complaint Type Column** - Record's Department
+3. **Error TimeStamp Column** - Date/Time the record rejected
+4. **Error Status** - Record's status
+5. **Error Message Column** - Reason why the record was rejected
 
 </section>
 </section>
