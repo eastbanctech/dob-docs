@@ -33,6 +33,22 @@ Selecting the arrow/chevron button directs the user to a more detailed page rega
 
 ![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png){: data-lightbox="2-group"}
 
+**Fields**
+
+* **Error Message** - Displays the error that was encountered when attempting to schedule an assignment. 
+* **Error Time Stamp** - Displays the system time when the error occured with the Dispatch application.
+* **How to Correct this Error** - Displays a brief description on how users may resolve the issue either through being hidden from the log for errors that cannot be fixed or attempting to schedule the assignment once the error has been fixed.
+* **Username in Accela** -  Displays the username of the user who created the case in Accela. 
+* **Date Record Created in Accela** - Displays the date the case was created in Accela.
+* **Department** -  Displays the department for the case. 
+* **Record Complaint Type Kustomer** - Displays the user information for the submitting user from Kustomer.
+* **Address** - Displays the address provided for the case. 
+* **FOIA Description** - Displays all information provided for the case. 
+
+**Actions**
+* **Hide from Error Log** - Removes the error from the log. 
+* **Schedule Inspection** - Triggers the system to reattempt scheduling the case. 
+
 </section>
 <section id="column-description" markdown="1">
 
@@ -40,11 +56,11 @@ Selecting the arrow/chevron button directs the user to a more detailed page rega
 
 ![acc10 -screenshot](../images/dispatch-portal/dp-accela-error-log/column-description.png){: data-lightbox="3"}
 
-1. Record Number Column: Record/CAP number listed
-2. Complaint Type Column: Record's Department
-3. Error TimeStamp Column: Date/Time the record rejected
-4. Error Status: Record's status
-5. Error Message Column: Reason why the record was rejected
+1. **Record Number Column** - Record/CAP number listed
+2. **Complaint Type Column** - Record's Department
+3. **Error TimeStamp Column** - Date/Time the record rejected
+4. **Error Status** - Record's status
+5. **Error Message Column** - Reason why the record was rejected
 
 </section>
 </section>
