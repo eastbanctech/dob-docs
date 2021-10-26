@@ -34,7 +34,7 @@ At the top right of the Accela Error Log table users will have the option to sea
 
 Selecting the arrow/chevron button directs the user to a more detailed page regarding the seleted error. 
  
-![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log.png){: data-lightbox="2-group"}
+![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log-new.png){: data-lightbox="2-group"}
 
 ![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png){: data-lightbox="2-group"}
 
