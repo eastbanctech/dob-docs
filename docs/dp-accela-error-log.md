@@ -27,9 +27,14 @@ Click on Accela Error Log from the side navigation panel.
 <section id="detailed-accela-error-log-page" markdown="1">
 
 ## Detailed Accela Error Log Page
+At the top right of the Accela Error Log table users will have the option to search for a record via the search text box or filter records based on department or error date. 
+
+![acc5 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log2.png){: data-lightbox="2-group"}
+![acc6 -screenshot](../images/dispatch-portal/dp-accela-error-log/Filters.png){: data-lightbox="2-group"}
 
 Selecting the arrow/chevron button directs the user to a more detailed page regarding the seleted error. 
-![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log.png){: data-lightbox="2-group"}
+ 
+![acc3 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log-new.png){: data-lightbox="2-group"}
 
 ![acc4 -screenshot](../images/dispatch-portal/dp-accela-error-log/detailed-error-log1.png){: data-lightbox="2-group"}
 
@@ -56,11 +61,10 @@ Selecting the arrow/chevron button directs the user to a more detailed page rega
 
 ![acc10 -screenshot](../images/dispatch-portal/dp-accela-error-log/column-description.png){: data-lightbox="3"}
 
-1. **Record Number Column** - Record/CAP number listed
-2. **Complaint Type Column** - Record's Department
-3. **Error TimeStamp Column** - Date/Time the record rejected
-4. **Error Status** - Record's status
-5. **Error Message Column** - Reason why the record was rejected
+1. **Record Number** - Record/CAP number listed
+2. **Department** - Record's Department
+3. **Error TimeStamp** - Date/Time the record rejected
+5. **Error Message** - Reason why the record was rejected
 
 </section>
 </section>
