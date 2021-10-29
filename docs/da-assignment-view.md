@@ -1,6 +1,6 @@
 ---
 layout: page
-title: View Details of Assignments <sup class="updated">UPDATED</sup>
+title: View Details of Assignments 
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -30,7 +30,7 @@ This page is the Current Assignment page that the Inspector can work on
 
 <section id="view-all-assignments-updated" markdown="1">
 
-## View all Assignments <sup class="updated">UPDATED</sup>
+## View all Assignments 
 
 Click on an Assignment from the Schedule
 
