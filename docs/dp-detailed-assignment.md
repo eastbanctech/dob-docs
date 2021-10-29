@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detailed Assignment Page <sup class="updated">UPDATED</sup>
+title: Detailed Assignment Page 
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -10,7 +10,7 @@ nav_order: 6
 
 <section id="detailed-assignment-page-updated" markdown="1">
 
-# Detailed Assignment Page <sup class="updated">UPDATED</sup>
+# Detailed Assignment Page 
 
 User's can view detailed information about individual assignments through the Dispatch Portal.
 
@@ -87,7 +87,7 @@ Emergency Assignments are disignated by a red [!] icon.
 
 <section id="completed-assignments-new" markdown="1">
 
-### Completed Assignments <sup class="new">NEW</sup>
+### Completed Assignments 
 
 When an assignment is completed (resulted in DCRA Mobile Inspection App or Accela), additional details are added to the Assignment details page. Users can no longer cancel or reschedule the assignment. 
 
