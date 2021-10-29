@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detailed Inspector Page <sup class="updated">UPDATED</sup>
+title: Detailed Inspector Page 
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -16,8 +16,7 @@ User's can view detailed information about individual inspectors through the Dis
 
 <section id="field-descriptions-updated" markdown="1">
 
-## Field Descriptions <sup class="updated">UPDATED</sup>
-
+## Field Descriptions 
 Clicking the arrow icon will allow the user to navigate to the Inspector Details page
 
 ![I18 -screenshot](../images/dispatch-portal/dp-detailed-inspector/field-descriptions.png){: data-lightbox="1"}
