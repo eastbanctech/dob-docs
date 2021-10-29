@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview of the Dashboard
+title: Overview of the Dashboard <sup class="updated">UPDATED</sup>
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -63,7 +63,7 @@ Clicking the Icon, Inspector Name, or Details button on the card navigates to In
 
 <section id="filters" markdown="1">
 
-## Filters
+## Filters <sup class="updated">UPDATED</sup>
 To filter out specific Assignments or Inspectors, click on the filter icon.
 
 ![db9 -screenshot](../images/dispatch-portal/dp-dashboard/filters.png){: data-lightbox="5"}
