@@ -86,7 +86,7 @@ Clicking the Filters button will display the Inspector filters menu, which allow
 
 ![Group 55 -screenshot](../images/dispatch-portal/dp-inspectors-page/filters1.png){: data-lightbox="9-group"}
 
-![Group 55 -screenshot](../images/dispatch-portal/dp-inspectors-page/expanded-filters.png){: data-lightbox="9-group"}
+![Group 56 -screenshot](../images/dispatch-portal/dp-inspectors-page/expanded-filter.png){: data-lightbox="9-group"}
 
 1. Filtering the list using Inspector's Name: click on Inspector name and begin typing in the Inspector's name (first/last), and select one of the auto-complete matches from the list.
 2. Filter Inspectors by a specific Department(s).
