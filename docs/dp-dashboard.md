@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview of the Dashboard
+title: Overview of the Dashboard <sup class="updated">UPDATED</sup>
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -63,19 +63,19 @@ Clicking the Icon, Inspector Name, or Details button on the card navigates to In
 
 <section id="filters" markdown="1">
 
-## Filters
+## Filters <sup class="updated">UPDATED</sup>
 To filter out specific Assignments or Inspectors, click on the filter icon.
 
 ![db9 -screenshot](../images/dispatch-portal/dp-dashboard/filters.png){: data-lightbox="5"}
 
 <section id="inspectors-filter" markdown="1">
 
+![db11 -screenshot](../images/dispatch-portal/dp-dashboard/filters2.png){: data-lightbox="6"}
+
 ### Inspectors Filter
 Clicking on the filter icon displays the filters menu with RESET TAB and RESET ALL buttons.
    * RESET TAB button: Clicking Reset TAB button will resets all fields to default in the current filter menu
    * RESET ALL button: Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
-
-![db11 -screenshot](../images/dispatch-portal/dp-dashboard/filters2.png){: data-lightbox="6"}
 
 1. Filter displayed Inspectors by a specific name
 2. Filter displayed Inspectors by specific Departments
@@ -88,8 +88,6 @@ Clicking on the filter icon displays the filters menu with RESET TAB and RESET A
 
 ### Assignments Filter
 Selecting Assignments from the filter menu bar displays the assignment filter.
-
-![Group 56 -screenshot](../images/dispatch-portal/dp-dashboard/assignments-filter.png){: data-lightbox="7"}
 
 1. Filter displayed Assignments by Emergency
 2. Filter displayed Assignments by specific Inspection Number
@@ -114,8 +112,6 @@ Selecting Assignments from the filter menu bar displays the assignment filter.
 Selecting Clusters from the filter will display the Clusters filter.
 
 Selecting a single, multiple, or All from the filter  displays Inspections for the selected cluster(s).
-
-![db14 -screenshot](../images/dispatch-portal/dp-dashboard/clusters-filter.png){: data-lightbox="8"}
 
 </section>
 </section>
