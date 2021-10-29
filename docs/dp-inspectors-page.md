@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viewing Inspectors Page
+title: Viewing Inspectors Page <sup class="updated">UPDATED</sup>
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -78,7 +78,7 @@ Clicking the On Map button/location icon on the Inspector Details page the users
 
 <section id="filter" markdown="1">
 
-## Filter
+## Filter <sup class="updated">UPDATED</sup>
 
 Clicking the Filters button will display the Inspector filters menu, which allows the user to filter by Inspector Name, Type, Department and Status. Selecting specific filters will only display Inspectors that match the selected criteria. Clicking RESET TO DEFAULTS button will clear all selected filters.
 
