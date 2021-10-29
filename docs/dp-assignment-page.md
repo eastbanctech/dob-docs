@@ -93,6 +93,7 @@ Selecting the Filters button allows the user to define the assignment displayed 
 
 ![A15 -screenshot](../images/dispatch-portal/dp-assignment-page/filter.png){: data-lightbox="7-group"}
 ![Group 53 -screenshot](../images/dispatch-portal/dp-assignment-page/filter1.png){: data-lightbox="7-group"}
+![Group 53 -screenshot](../images/dispatch-portal/dp-assignment-page/expanded-filter.png){: data-lightbox="7-group"}
 
 1. The emergency filter will allow the user to display only emergency assignments.
 2. Filtering using specific Inspection Number
@@ -102,6 +103,9 @@ Selecting the Filters button allows the user to define the assignment displayed 
 6. Filtering Inspection by a specific Assignment Date.
 7. Filtering Inspections by the Assigned Inspector.
 8. Filtering Inspections by address a specific DC address.
+
+
+
 </section>
 </section>
 
