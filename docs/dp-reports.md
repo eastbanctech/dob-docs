@@ -46,7 +46,7 @@ The metrics tab allows users to review information about the amount of inspectio
 * Including cancel and reschedule (hours)
 * Including cancel only (hours)
 
-**_Total number of inspections successfully schedule using the automated system _**
+**_Total number of inspections successfully schedule using the automated system_**
 * Including reschedules and follow-ups
 * Unique iniital and follow-up inspections
 
