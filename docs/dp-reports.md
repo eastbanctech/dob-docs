@@ -40,11 +40,15 @@ The inspection life cylce shows the progression of each inspection from start to
 The metrics tab allows users to review information about the amount of inspections, unique inspections, and averages for how long inspections are taking from creation to result. 
 
 **Metrics Available**
-* Average time from any type of submission to close any type of inspection for this case (including all rescheduled and follow-ups) in DAYS
-* Average time from any type of submission to inspection result (incl. cancel only)(no matter the inspection outcome) in HOURS
-* Average time from any type of submission to inspection result (incl. cancel and reshecedule)(no matter the inspection outcome) in HOURS
-* Total number of inspections successfully schedule using the automated system (incl reschedules and follow-ups)
-* Total number of Unique initial and follow up(that were scehduled without initial inspecion) inspections successfully scheduled using the automated system
+
+**_Average time from any type of submission to close any type of inspection_**
+* Including all rescheduled and follow-ups (Days)
+* Including cancel and reschedule (hours)
+* Including cancel only (hours)
+
+**_Total number of inspections successfully schedule using the automated system _**
+* Including reschedules and follow-ups
+* Unique iniital and follow-up inspections
 
 ![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Metrics.png){: data-lightbox="1-group"}
 
