@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Management Page <sup class="new">NEW</sup>
+title: User Management Page
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
