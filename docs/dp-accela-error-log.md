@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Viewing Accela Error Log Page <sup class="updated">UPDATED</sup>
+title: Viewing Accela Error Log Page
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
