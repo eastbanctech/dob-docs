@@ -10,7 +10,7 @@ nav_order: 1
 <section id="login-to-dispatch-portal" markdown="1">
 
 # Login to Dispatch Portal
-Navigate to [Dispatch Portal](https://tq-city-inspector-portal-staging.azurewebsites.net/login)
+Navigate to [Dispatch Portal](https://dcra.terraiq.io/login)
 
 ![logpor -screenshot](../images/dispatch-portal/dp-login/login.png){: data-lightbox="1"}
 
