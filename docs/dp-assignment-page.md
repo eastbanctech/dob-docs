@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Viewing Assignments Page <sup class="updated">UPDATED</sup>
+title: Viewing Assignments Page 
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -88,7 +88,7 @@ The Assignments page allows users to navigate through assignments via table pagi
 
 <section id="filter" markdown="1">
 
-## Filter <sup class="updated">UPDATED</sup>
+## Filter 
 Selecting the Filters button allows the user to define the assignment displayed by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address.
 
 ![A15 -screenshot](../images/dispatch-portal/dp-assignment-page/filter.png){: data-lightbox="7-group"}
