@@ -14,6 +14,8 @@ nav_order: 4
 
 User's can view detailed information about individual inspectors through the Dispatch Portal.
 
+For information about editing users details please review User Management found here https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html.
+
 <section id="field-descriptions-updated" markdown="1">
 
 ## Field Descriptions 
