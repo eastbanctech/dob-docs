@@ -12,7 +12,9 @@ nav_order: 6
 
 # Rescheduling Assignments
 
-Users can reschedule assignments directly from the Dispatch App.
+Users can reschedule assignments directly from the Dispatch App. 
+
+Please note that rescheduling assingments outside of the Dispatch Portal and Dispatch Mobile application is not advised. In all circumstances rescheduling should be completed through either the portal or the mobile application.
 
 <section id="rescheduling-current-assignment" markdown="1">
 
