@@ -46,9 +46,9 @@ The metrics tab allows users to review information about the amount of inspectio
 * Including cancel and reschedule (hours)
 * Including cancel only (hours)
 
-**_Total number of inspections successfully schedule using the automated system_**
+**_Total number of inspections successfully scheduled using the automated system_**
 * Including reschedules and follow-ups
-* Unique iniital and follow-up inspections
+* Unique initial and follow-up inspections
 
 ![Dashboard Reports Navigation -screenshot](../images/dispatch-portal/dp-reports/Metrics.png){: data-lightbox="1-group"}
 
