@@ -59,7 +59,9 @@ User Admins have the ability to add users to the Dispatch system. Selecting Add 
 
 #### Access DC Account Email Address
 
-An email address is required to create a new account.
+An active Access DC email account is required to add a new user to Dispatch. The user undergoes specific provisions when added on Access DC side. The process is different for users with personal email addresses not affiliated with dc.gov and should reach out to DCRA management to resolve that.
+
+If a user is to be set up as an Inspector (see roles below), the user must have a profile set up in Accela as well with the same email used for Access DC.
 
 </section>
 <section id="name" markdown="1">
