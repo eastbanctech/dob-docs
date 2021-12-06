@@ -47,7 +47,7 @@ The User Management table has standard table sorting by column.
 
 User Admins have the ability to add users to the Dispatch system. Selecting Add New User triggers a modal window allowing the creation of a new Dispatch user. Once all required fields are satisfied, selecting Add User confirms the action. 
 
-* Users must exist in Access DC and be assigned to the DCRA City Inspector application first.
+* Users must exist in Access DC and be assigned to the DCRA Dispatch application in Access DC.
     * If User is meant to be an Inspector of any kind, they also must have a profile in Accela set up with the same email address used in Access DC.
 * Creating a new user triggers an invite email that is sent to the provided email address and adds the user to the User List with status "Invited."
 * After the new user logs in for the first time the system will automatically move them to "Active."
