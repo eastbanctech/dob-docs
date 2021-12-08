@@ -74,13 +74,13 @@ To filter out specific Assignments or Inspectors, click on the filter icon.
 
 ### Inspectors Filter
 Clicking on the filter icon displays the filters menu with RESET TAB and RESET ALL buttons.
-   * RESET TAB button: Clicking Reset TAB button will resets all fields to default in the current filter menu
-   * RESET ALL button: Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
+   * Reset <filter> button - Clicking Reset TAB button will resets all fields to default in the current filter menu
+   * Reset all to default button - Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
 
 1. Filter displayed Inspectors by a specific name
-2. Filter displayed Inspectors by specific Departments
-3. Filter displayed Inspectors by specific Types
-4. Filter displayed Inspectors by specific Statuses
+2. Filter displayed Inspectors by a specific Departments
+3. Filter displayed Inspectors by a specific Types
+4. Filter displayed Inspectors by a specific Statuses
 
 </section>
 
