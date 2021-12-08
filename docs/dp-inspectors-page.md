@@ -33,7 +33,7 @@ The user will be directed to the Inspectors page as seen below. The table shows 
 
 1. **Name** - Displays the inspector's first and last name along with information regarding the last time they were seen utilizing the Dispatch app.
 2. **Status** - Displays the inspector's status.
-3. **Inspector** Type - Displays the inspector's type.
+3. **Inspector Type** - Displays the inspector's type.
 4. **Contact Information** - Displays the inspector's email.
 5. **Department** - Displays the inspector's department(s).
 6. **Clusters** - Displays the inspector's assigned clusters.
