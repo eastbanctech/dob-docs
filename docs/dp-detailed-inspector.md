@@ -14,38 +14,32 @@ nav_order: 4
 
 User's can view detailed information about individual inspectors through the Dispatch Portal.
 
-For information about editing users details please review User Management found here [User Management](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html) 
+For information about editing users details please review User Management found here [User Management](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html).
 
 <section id="field-descriptions-updated" markdown="1">
 
-## Field Descriptions 
-Clicking the arrow icon will allow the user to navigate to the Inspector Details page
-
-![I18 -screenshot](../images/dispatch-portal/dp-detailed-inspector/field-descriptions.png){: data-lightbox="1"}
-
-The Inspector Details page will display the following information: Inspector Name, Inspector Status, Schedule, On Map, Phone, Email, Inspector Type, Department, Status and Inspection Availability Hours
-
 ![I22 -screenshot](../images/dispatch-portal/dp-detailed-inspector/field-descriptions1.png){: data-lightbox="2"}
 
-Clicking ON Map will allow users to locate the inspector on the map
+## Field Descriptions 
+The Inspector Details page will display the following information: 
 
-![I19 -screenshot](../images/dispatch-portal/dp-detailed-inspector/field-descriptions2.png){: data-lightbox="3"}
+* **Inspector Name** - Displays the inspector's first and last name.
+* **Inspector Status** - Displays the inspector's current status
+* **Inspector Type** - Displays the inspector's type.
+* **Clusters** - Displays the inspector's assigned clusters.
+* **Inspection Availability Hours** - Displays the inspector's hours avialable per day.
+* **Phone** - Displays the inspector's phone number.
+* **Email** - Displays the inspector's email address.
+* **Department** - Displays the inspector's department.
 
-</section>
+## Inspector Actions
+The following actions are permitted via the detailed Inspectors page. 
 
-<section id="inspection-availability-hours" markdown="1">
-
-## Inspection Availability Hours
-
-Currently Inspection Availability Hours are managed by the system administrators
-
-![I20 -screenshot](../images/dispatch-portal/dp-detailed-inspector/availability-hours.png){: data-lightbox="4"}
-
-</section>
-
-<section id="inspector-schedules-updated" markdown="1">
+* **Schedule** - Navigates the user to the inspectors schedule.
+* **On Map** - Navigates the user to the exact location of the inspector on the dashboard (if the inspector is On Duty and has a Last Seen indicated).
+* **Edit Inspectors Settings** - Triggers a modal allowing the user to make updates to the inspectors settings. See [User Management](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html) for more details. 
  
-## Inspector Schedules <sup class="updated">UPDATED</sup>
+## Inspector Schedules
 
 An inspector's schedule can be accessed 3 different ways.
 
@@ -56,7 +50,6 @@ Via the dashboard by selecting Schedule on the details card for an inspector.
 Via the Inspector's table by selecting the calendar icon.
 
 ![Group 42 -screenshot](../images/dispatch-portal/dp-detailed-inspector/schedules1.png){: data-lightbox="6"}
-
 
 Via the Inspector's details page by selecting Schedule.
 

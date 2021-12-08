@@ -11,17 +11,21 @@ nav_order: 5
 
 # Viewing Assignments Page
 
+The Assingments page allows users to view all assigments within the Dispatch system and what the current state of those assignments are, who they are assigned to, and when the assignment is to be completed or scheduled for a follow-up assignment (inspection).
+
+Each user's view of the Assignments page will be defaulted to their perspective departments. The defualts can be changed via the filters to view details about other departments assignments. 
+
 <section id="navigate-to-assignment-list" markdown="1">
 
 ## Navigate to Assignment List
 
 Selecting Assignments navigates the user to the Assignments page.
 
+* The Assignments page includes a table of all assignments. 
+
 ![A1 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list.png){: data-lightbox="1-group"}
 
 ![A2 -screenshot](../images/dispatch-portal/dp-assignment-page/nav-to-assignment-list1.png){: data-lightbox="1-group"}
-
-* The Assignments page includes a table of all assignments. 
 
 </section>
 
@@ -32,12 +36,12 @@ Selecting Assignments navigates the user to the Assignments page.
 ![A3 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions.png){: data-lightbox="2-group"}
 ![Group 54 -screenshot](../images/dispatch-portal/dp-assignment-page/column-descriptions1.png){: data-lightbox="2-group"}
 
-1. Inspection Column: Inspection's number listed this will be followed by an emergency indication if the assignment is an emergency as shown above
-2. Status Column: Inspection's status
-3. Date/Time Column: Insepction's creation Date/Time
-4. Address Column: Inspection's location/address
-5. Assigned Inspector Column: Assigned Inspector's first name and last name
-6. Department Column: Inspection's Department
+1. **Inspection** - Inspection's ID linking to the details page for the inspection. If the inspection is an emergency it will be designated by a red indicator. 
+2. **Status** - Inspection's status
+3. **Date/Time** - Insepction's creation Date/Time
+4. **Address** - Inspection's location/address
+5. **Assigned Inspector** - Assigned Inspector's first name and last name
+6. **Department** - Inspection's Department
 
 </section>
 
@@ -89,7 +93,7 @@ The Assignments page allows users to navigate through assignments via table pagi
 <section id="filter" markdown="1">
 
 ## Filter 
-Selecting the Filters button allows the user to define the assignment displayed by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address.
+Selecting the Filters button allows the user to define the assignments displayed by Inspection Number, Type, Department, Status, Date, Assigned Inspector, Address.
 
 ![A15 -screenshot](../images/dispatch-portal/dp-assignment-page/filter.png){: data-lightbox="7-group"}
 ![Group 53 -screenshot](../images/dispatch-portal/dp-assignment-page/filter1.png){: data-lightbox="7-group"}

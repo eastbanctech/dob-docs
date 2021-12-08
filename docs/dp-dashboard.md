@@ -74,13 +74,13 @@ To filter out specific Assignments or Inspectors, click on the filter icon.
 
 ### Inspectors Filter
 Clicking on the filter icon displays the filters menu with RESET TAB and RESET ALL buttons.
-   * RESET TAB button: Clicking Reset TAB button will resets all fields to default in the current filter menu
-   * RESET ALL button: Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
+   * Reset <filter> button - Clicking Reset TAB button will resets all fields to default in the current filter menu
+   * Reset all to default button - Clicking Reset All button will resets all fields to default in all three filters menu (Inspectors, Assignments and Clusters) 
 
 1. Filter displayed Inspectors by a specific name
-2. Filter displayed Inspectors by specific Departments
-3. Filter displayed Inspectors by specific Types
-4. Filter displayed Inspectors by specific Statuses
+2. Filter displayed Inspectors by a specific Departments
+3. Filter displayed Inspectors by a specific Types
+4. Filter displayed Inspectors by a specific Statuses
 
 </section>
 
@@ -94,13 +94,13 @@ Selecting Assignments from the filter menu bar displays the assignment filter.
 3. Filter displayed Assignments by specific Type or all Types
 4. Filter displayed Assignments by specific Departments
 5. Filter displayed Assignments by specific Assignment Status or all Assignment Statuses
-   * Assigned - the Inspection has an assigned time/date and Inspector
-   * Inspector in Transit - Inspector is in transit to the Assignment/Inspection location
-   * Inspection in Progress - Inspector is in the middle of conducting an inspection
-   * Completed - Inspector resulted the Inspection in CityGov app
-   * Rescheduled - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
-   * Reschedule Requested - Inspector or Portal user requested a reschedule of the Assignment
-   * Canceled - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
+   * **Assigned** - the Inspection has an assigned time/date and Inspector
+   * **Inspector in Transit** - Inspector is in transit to the Assignment/Inspection location
+   * **Inspection in Progress** - Inspector is in the middle of conducting an inspection
+   * **Completed** - Inspector resulted the Inspection in CityGov app
+   * **Rescheduled** - The system processed the request and this Assignment has been rescheduled and a new Assignment with status Assigned has been created
+   * **Reschedule Requested** - Inspector or Portal user requested a reschedule of the Assignment
+   * **Canceled** - Inspector or Portal/Accela user canceled the scheduled Assignment/Inspection
 6. Filter displayed Assignments by specific Assigned Inspectors
 7. Filter displayed Assignments by specific Addresses
 </section>
