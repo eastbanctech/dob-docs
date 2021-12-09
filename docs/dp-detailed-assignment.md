@@ -90,7 +90,6 @@ Emergency Assignments are disignated by a red [!] icon.
 
 ![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignment-details.png){: data-lightbox="8"}
 
-</section>
 
 <section id="completed-assignments-new" markdown="1">
 
