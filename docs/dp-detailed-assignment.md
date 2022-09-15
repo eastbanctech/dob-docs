@@ -32,7 +32,7 @@ Assignment Details page will display the following information:
 * **Email** - Displays the email of the customer who requested the inspeciton. 
 
 ## Completed Assignment Details
-When an assignment is completed (resulted in DCRA Mobile Inspection App or Accela), additional details are added to the Assignment details page. Users can no longer cancel or reschedule the assignment. 
+When an assignment is completed (resulted in DOB Mobile Inspection App or Accela), additional details are added to the Assignment details page. Users can no longer cancel or reschedule the assignment. 
 
 ![Completed Assignment -screenshot](../images/dispatch-portal/dp-detailed-assignment/completed-assignment.png){: data-lightbox="9"}
 ![Completed Assignment Follow Up -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignment-details-follow-up-inspection.png){: data-lightbox="10"}

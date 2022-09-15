@@ -36,7 +36,7 @@ If this is the first login to the Dispatch app, after entering the Email and Pas
 
     ![Group 36 -screenshot](../images/dispatch-app/da-login/first-login2.png){: data-lightbox="3"}
 
-3. Find the DCRA Dispatch app in the Settings menu bar; select the Location option.
+3. Find the DOB Dispatch app in the Settings menu bar; select the Location option.
 
     ![Group 37 -screenshot](../images/dispatch-app/da-login/ipad-settings1.png){: data-lightbox="4"}
 

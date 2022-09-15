@@ -47,7 +47,7 @@ The User Management table has standard table sorting by column.
 
 User Admins have the ability to add users to the Dispatch system. Selecting Add New User triggers a modal window allowing the creation of a new Dispatch user. Once all required fields are satisfied, selecting Add User confirms the action. 
 
-* Users must exist in Access DC and be assigned to the DCRA Dispatch application in Access DC.
+* Users must exist in Access DC and be assigned to the DOB Dispatch application in Access DC.
     * If User is meant to be an Inspector of any kind, they also must have a profile in Accela set up with the same email address used in Access DC.
 * Creating a new user triggers an invite email that is sent to the provided email address and adds the user to the User List with status "Invited."
 * After the new user logs in for the first time the system will automatically move them to "Active."
@@ -59,7 +59,7 @@ User Admins have the ability to add users to the Dispatch system. Selecting Add 
 
 #### Access DC Account Email Address
 
-An active Access DC email account is required to add a new user to Dispatch. The user undergoes specific provisions when added on Access DC side. The process is different for users with personal email addresses not affiliated with dc.gov and should reach out to DCRA management to resolve that.
+An active Access DC email account is required to add a new user to Dispatch. The user undergoes specific provisions when added on Access DC side. The process is different for users with personal email addresses not affiliated with dc.gov and should reach out to DOB management to resolve that.
 
 If a user is to be set up as an Inspector (see roles below), the user must have a profile set up in Accela as well with the same email used for Access DC.
 
@@ -101,7 +101,7 @@ Selecting a department designates the types of inspections Inspectors can get as
 
 Inspector Type selection designates whether the inspector is Internal, Duty Officer, External. 
 
-1. **Internal Inspectors** – DCRA Inspectors
+1. **Internal Inspectors** – DOB Inspectors
 2. **Duty Officers** – Managers who conduct inspections under special circumstances, such as emergencies that need to be done when no other inspector is available
 3. **External Inspectors** - Inspectors that are Resident Inspectors or other 3rd party inspectors
 

@@ -12,11 +12,11 @@ nav_order: 1
 
 # How to Install the Dispatch App
 
-1. On DCRA iPad device, go to “DC APPS”
+1. On DOB iPad device, go to “DC APPS”
 
     ![How to download -screenshot](../images/dispatch-app/da-download-and-install/how-to-install-the-dispatch-app1.png){: data-lightbox="1"}
 
-2. Find “DCRA Dispatch” and click Install
+2. Find “DOB Dispatch” and click Install
     
     ![MicrosoftTeams-image -screenshot](../images/dispatch-app/da-download-and-install/how-to-install-the-dispatch-app2.png){: data-lightbox="2"}
 
