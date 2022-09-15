@@ -12,7 +12,7 @@ has_toc: false
 
 <br>
 
-![DCRA Logo](images/home/DCRA-Logo-1.png){: .big-size}{: .no-border}
+![DCRA Logo](images/home/logo-dob-722x254.png){: .big-size}{: .no-border}
 
 DCRA is the District of Columbia's Department of Consumer and Regulatory Affairs. DCRA's mission is to protect the health, safety, economic interests and quality of life of residents, businesses and visitors in the District of Columbia by ensuring code compliance and regulating business.
 
