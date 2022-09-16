@@ -22,7 +22,8 @@ nav_order: 1
 
 3. After install, login to the app using an existing Access DC account. If there is an issue logging in, contact your manager or technical support.
 
-    ![IMG_0CD1294A1B5A-1 -screenshot](../images/dispatch-app/da-download-and-install/how-to-install-the-dispatch-app3.jpeg){: data-lightbox="3"}
+    ![IMG_0CD1294A1B5A-1 -screenshot](../images/dispatch-app/da-download-and-install/how-to-install-the-dispatch-app3.png){: 
+   data-lightbox="3"}
 
 
 </section>
