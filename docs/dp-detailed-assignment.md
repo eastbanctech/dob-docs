@@ -8,12 +8,12 @@ parent: Dispatch Portal
 nav_order: 6
 ---
 
-<section id="detailed-assignment-page-updated" markdown="1">
+<section id="detailed-assignment-page" markdown="1">
 
 # Detailed Assignment Page 
 
 User's can view detailed information about individual assignments through the Dispatch Portal.
-<section id="field-descriptions" markdown="1">
+
 
 ![A9 -screenshot](../images/dispatch-portal/dp-detailed-assignment/field-descriptions1.png){: data-lightbox="2"}
 
@@ -62,7 +62,7 @@ Emergency assignments can be reassigned to specific users.
 ![Group 59 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule3.png){: data-lightbox="5-group"}
 
 ![Group 60 -screenshot](../images/dispatch-portal/dp-detailed-assignment/reschedule4.png){: data-lightbox="5-group"}
-</section>
+
 
 <section id="cancel-an-assignment" markdown="1">
 
@@ -90,9 +90,5 @@ Emergency Assignments are disignated by a red [!] icon.
 
 ![Screen Shot 2021-07-09 at 2 13 03 PM -screenshot](../images/dispatch-portal/dp-detailed-assignment/assignment-details.png){: data-lightbox="8"}
 
-
-<section id="completed-assignments-new" markdown="1">
-
-</section>
 </section>
 </section>

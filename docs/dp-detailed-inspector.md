@@ -16,7 +16,7 @@ User's can view detailed information about individual inspectors through the Dis
 
 For information about editing users details please review User Management found here [User Management](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html).
 
-<section id="field-descriptions-updated" markdown="1">
+<section id="field-descriptions" markdown="1">
 
 ![I22 -screenshot](../images/dispatch-portal/dp-detailed-inspector/field-descriptions1.png){: data-lightbox="2"}
 
