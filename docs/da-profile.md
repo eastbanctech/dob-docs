@@ -7,7 +7,7 @@ email: contact@eastbanctech.com
 parent: Dispatch App
 nav_order: 11
 ---
-<section id="view-profile-and-about-page-updated" markdown="1">
+<section id="view-profile-and-about-page" markdown="1">
 
 # View Profile and About Page 
 
