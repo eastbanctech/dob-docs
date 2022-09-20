@@ -12,7 +12,7 @@ nav_order: 9
 
 # User Management <sup class="new">NEW</sup>
 
-Users who have been provisioned with [User Admin role](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html#user-roles) have access to the User Management functionality through in the Dispatch Portal. The User Management feature allows for updates to a user's role, which has an impact on level of access and other permissions described below. User Management is accessed via the main navigation menu (outlined in red below).  
+Users who have been provisioned with [User Admin role](../docs/dp-user-management.html#user-roles) have access to the User Management functionality through in the Dispatch Portal. The User Management feature allows for updates to a user's role, which has an impact on level of access and other permissions described below. User Management is accessed via the main navigation menu (outlined in red below).  
 
 ![Dashboard -screenshot](../images/dispatch-portal/dp-user-management/dashboard.png){: data-lightbox="1"}
 
@@ -133,7 +133,7 @@ Inspectors availability can be adjust by designating what days are available via
 
 ## User Permission Details Page
 
-Selecting a user via the User Mangement table navigates to the User Permission Details page. From the User Permission Details page, updates can be made to the selected user by selecting the Edit User Permissions button. If the user has the Inspector role, the View Inspectors Settings button is available and navigates to the Inspector Details page, where User Admin or Manager can edit the user settings (see [Edit Inspector Settings](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html#edit-inspector-settings)
+Selecting a user via the User Mangement table navigates to the User Permission Details page. From the User Permission Details page, updates can be made to the selected user by selecting the Edit User Permissions button. If the user has the Inspector role, the View Inspectors Settings button is available and navigates to the Inspector Details page, where User Admin or Manager can edit the user settings (see [Edit Inspector Settings](../docs/dp-user-management.html#edit-inspector-settings)
 
 ![User Permissions Details -screenshot](../images/dispatch-portal/dp-user-management/userpermissions.png){: data-lightbox="6"}
 

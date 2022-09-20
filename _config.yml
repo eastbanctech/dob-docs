@@ -24,7 +24,7 @@ color_scheme: foo
 # Aux links for the upper right navigation
 aux_links:
   "DOB":
-    - "https://dcratransition.dc.gov/dob/"
+    - "https://dob.dc.gov/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

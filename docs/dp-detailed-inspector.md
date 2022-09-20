@@ -14,7 +14,7 @@ nav_order: 4
 
 User's can view detailed information about individual inspectors through the Dispatch Portal.
 
-For information about editing users details please review User Management found here [User Management](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html).
+For information about editing users details please review User Management found here [User Management](../docs/dp-user-management.html).
 
 <section id="field-descriptions" markdown="1">
 
@@ -37,7 +37,7 @@ The following actions are permitted via the detailed Inspectors page.
 
 * **Schedule** - Navigates the user to the inspectors schedule.
 * **On Map** - Navigates the user to the exact location of the inspector on the dashboard (if the inspector is On Duty and has a Last Seen indicated).
-* **Edit Inspectors Settings** - Triggers a modal allowing the user to make updates to the inspectors settings. See [User Management](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html) for more details. 
+* **Edit Inspectors Settings** - Triggers a modal allowing the user to make updates to the inspectors settings. See [User Management](../docs/dp-user-management.html) for more details. 
  
 ## Inspector Schedules
 
