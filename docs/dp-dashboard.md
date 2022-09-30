@@ -17,10 +17,10 @@ nav_order: 2
 ## Map
 Upon login, the Dashboard is displayed with the Inspectors' and Assignments' real-time location.
 
-<section id="dcra-boundaries" markdown="1">
+<section id="dob-boundaries" markdown="1">
 
-### DCRA Boundaries
-The map displays the DCRA boundaries via a red outline.
+### DOB Boundaries
+The map displays the DOB boundaries via a red outline.
 
 </section>
 

@@ -12,7 +12,7 @@ nav_order: 9
 
 # User Management <sup class="new">NEW</sup>
 
-Users who have been provisioned with [User Admin role](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html#user-roles) have access to the User Management functionality through in the Dispatch Portal. The User Management feature allows for updates to a user's role, which has an impact on level of access and other permissions described below. User Management is accessed via the main navigation menu (outlined in red below).  
+Users who have been provisioned with [User Admin role](../docs/dp-user-management.html#user-roles) have access to the User Management functionality through in the Dispatch Portal. The User Management feature allows for updates to a user's role, which has an impact on level of access and other permissions described below. User Management is accessed via the main navigation menu (outlined in red below).  
 
 ![Dashboard -screenshot](../images/dispatch-portal/dp-user-management/dashboard.png){: data-lightbox="1"}
 
@@ -47,7 +47,7 @@ The User Management table has standard table sorting by column.
 
 User Admins have the ability to add users to the Dispatch system. Selecting Add New User triggers a modal window allowing the creation of a new Dispatch user. Once all required fields are satisfied, selecting Add User confirms the action. 
 
-* Users must exist in Access DC and be assigned to the DCRA Dispatch application in Access DC.
+* Users must exist in Access DC and be assigned to the DOB Dispatch application in Access DC.
     * If User is meant to be an Inspector of any kind, they also must have a profile in Accela set up with the same email address used in Access DC.
 * Creating a new user triggers an invite email that is sent to the provided email address and adds the user to the User List with status "Invited."
 * After the new user logs in for the first time the system will automatically move them to "Active."
@@ -59,7 +59,7 @@ User Admins have the ability to add users to the Dispatch system. Selecting Add 
 
 #### Access DC Account Email Address
 
-An active Access DC email account is required to add a new user to Dispatch. The user undergoes specific provisions when added on Access DC side. The process is different for users with personal email addresses not affiliated with dc.gov and should reach out to DCRA management to resolve that.
+An active Access DC email account is required to add a new user to Dispatch. The user undergoes specific provisions when added on Access DC side. The process is different for users with personal email addresses not affiliated with dc.gov and should reach out to DOB management to resolve that.
 
 If a user is to be set up as an Inspector (see roles below), the user must have a profile set up in Accela as well with the same email used for Access DC.
 
@@ -101,7 +101,7 @@ Selecting a department designates the types of inspections Inspectors can get as
 
 Inspector Type selection designates whether the inspector is Internal, Duty Officer, External. 
 
-1. **Internal Inspectors** – DCRA Inspectors
+1. **Internal Inspectors** – DOB Inspectors
 2. **Duty Officers** – Managers who conduct inspections under special circumstances, such as emergencies that need to be done when no other inspector is available
 3. **External Inspectors** - Inspectors that are Resident Inspectors or other 3rd party inspectors
 
@@ -133,7 +133,7 @@ Inspectors availability can be adjust by designating what days are available via
 
 ## User Permission Details Page
 
-Selecting a user via the User Mangement table navigates to the User Permission Details page. From the User Permission Details page, updates can be made to the selected user by selecting the Edit User Permissions button. If the user has the Inspector role, the View Inspectors Settings button is available and navigates to the Inspector Details page, where User Admin or Manager can edit the user settings (see [Edit Inspector Settings](https://dcra-dispatch-docs.terraiq.io/docs/dp-user-management.html#edit-inspector-settings)
+Selecting a user via the User Mangement table navigates to the User Permission Details page. From the User Permission Details page, updates can be made to the selected user by selecting the Edit User Permissions button. If the user has the Inspector role, the View Inspectors Settings button is available and navigates to the Inspector Details page, where User Admin or Manager can edit the user settings (see [Edit Inspector Settings](../docs/dp-user-management.html#edit-inspector-settings)
 
 ![User Permissions Details -screenshot](../images/dispatch-portal/dp-user-management/userpermissions.png){: data-lightbox="6"}
 

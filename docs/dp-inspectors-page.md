@@ -20,7 +20,7 @@ To navigate to the full Inspectors list, click on Inspectors from the side navig
 
 ![I1 -screenshot](../images/dispatch-portal/dp-inspectors-page/nav-to-inspectors-list.png){: data-lightbox="1"}
 
-The user will be directed to the Inspectors page as seen below. The table shows the full list of Inspectors registered with DCRA and permissioned appropriately.
+The user will be directed to the Inspectors page as seen below. The table shows the full list of Inspectors registered with DOB and permissioned appropriately.
 
 ![I3 -screenshot](../images/dispatch-portal/dp-inspectors-page/inspectors-list.png){: data-lightbox="2"}
 </section>

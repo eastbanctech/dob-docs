@@ -1,8 +1,8 @@
 # Site settings
-title: DCRA Dispatch User Guide
+title: DOB Dispatch User Guide
 author: EastBanc Technologies
 name: EastBanc Technologies
-description: "DCRA App User Manual | eastbanctech.com"
+description: "DOB App User Manual | eastbanctech.com"
 email: contact@eastbanctech.com
 webpage: https://eastbanctech.com/
 
@@ -23,8 +23,8 @@ color_scheme: foo
 
 # Aux links for the upper right navigation
 aux_links:
-  "DCRA":
-    - "https://dcra.dc.gov/"
+  "DOB":
+    - "https://dob.dc.gov/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -33,6 +33,6 @@ search_enabled: true
 search:
   previews: 2
   preview_words_before: 2
-  preview_words_after: 5 
+  preview_words_after: 5
   # Display the relative url in search results
   rel_url: false
