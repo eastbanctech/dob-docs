@@ -16,7 +16,7 @@ Inspectors have the ability to use the Dispatch app while both on duty and off d
 <section id="on-duty" markdown="1">
 
 ## On Duty
-Once logged in, Inspectors see a popup, that allows them to indicate their on duty status so that their location can be reported to DCRA. 
+Once logged in, Inspectors see a popup, that allows them to indicate their on duty status so that their location can be reported to DOB. 
 
 ![010 -screenshot](../images/dispatch-app/da-on-off-duty/on-duty2.png){: data-lightbox="1"}
 

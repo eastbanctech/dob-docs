@@ -36,7 +36,7 @@ If this is the first login to the Dispatch app, after entering the Email and Pas
 
     ![Group 36 -screenshot](../images/dispatch-app/da-login/first-login2.png){: data-lightbox="3"}
 
-3. Find the DCRA Dispatch app in the Settings menu bar; select the Location option.
+3. Find the DOB Dispatch app in the Settings menu bar; select the Location option.
 
     ![Group 37 -screenshot](../images/dispatch-app/da-login/ipad-settings1.png){: data-lightbox="4"}
 
@@ -48,7 +48,7 @@ If this is the first login to the Dispatch app, after entering the Email and Pas
 
 5. Return to the application upon completing the above steps.
 
-6. Review [On and Off Duty functionality](https://dcra-dispatch-docs.terraiq.io/docs/da-on-off-duty.html){: data-lightbox="8"}
+6. Review [On and Off Duty functionality](../docs/da-on-off-duty.html){: data-lightbox="8"}
 
 </section>
 </section>
